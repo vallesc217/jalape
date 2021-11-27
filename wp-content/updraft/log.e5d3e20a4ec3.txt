@@ -1,0 +1,783 @@
+0000.000 (0) Opened log file at time: Sun, 18 Jul 2021 20:23:57 +0000 on https://jalapenorocotopepper.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.56 WP: 5.7.2 PHP: 7.4.21 (cgi-fcgi, Linux host.pdg.pe 3.10.0-1127.18.2.vz7.163.46 #1 SMP Fri Nov 20 21:47:55 MSK 2020 x86_64) MySQL: 10.3.30-MariaDB WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 320M (used: 21.5M | 24M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.070 (0) Free space on disk containing Updraft's temporary directory: 20879.4 MB
+0000.074 (0) Deleting old log file: log.cbaace5f7b4c.txt
+0000.076 (0) Deleting old log file: log.e44e03756c4e.txt
+0000.082 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.086 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.087 (0) Set semaphore last lock (fd) time to 2021-07-18 20:23:57
+0000.088 (0) Semaphore lock (fd) complete
+0000.091 (0) Backup run: resumption=0, nonce=e5d3e20a4ec3, file_nonce=e5d3e20a4ec3 begun at=1626639837 (0s ago), job type=backup
+0000.092 (0) Scheduling a resumption (1) after 300 seconds (1626640137) in case this run gets aborted
+0000.131 (0) OpenVZ; reported memory: 10240 MB (will not use BinZip)
+0000.131 (0) Creation of backups of directories: beginning
+0000.134 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.878 (0) Total entities for the zip file: 2152 directories, 14122 files (0 skipped as non-modified), 197.1 MB
+0000.888 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.891 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.894 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.898 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.901 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.904 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.905 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 14122 files batched, 609 (609) added so far); re-opening (prior size: 0 KB)
+0001.972 (0) A useful amount of data was added after this amount of zip processing: 1.8 s (normalised: 1.8 s, rate: 14229 KB/s)
+0001.973 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.7992119789124, normalised_time=1.7991455431791, max_time=1.9721279144287, data points known=1, old_max_bytes=26214400, new_max_bytes=87422832)
+0001.982 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 700 files added (on-disk size: 23515.6 KB)
+0001.986 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 800 files added (on-disk size: 23515.6 KB)
+0001.989 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 900 files added (on-disk size: 23515.6 KB)
+0001.992 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1000 files added (on-disk size: 23515.6 KB)
+0001.995 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1100 files added (on-disk size: 23515.6 KB)
+0001.998 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1200 files added (on-disk size: 23515.6 KB)
+0002.001 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1300 files added (on-disk size: 23515.6 KB)
+0002.004 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1400 files added (on-disk size: 23515.6 KB)
+0002.007 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1500 files added (on-disk size: 23515.6 KB)
+0002.010 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1600 files added (on-disk size: 23515.6 KB)
+0002.011 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.8 MB, 14122 files batched, 1001 (1610) added so far); re-opening (prior size: 23515.6 KB)
+0005.736 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1700 files added (on-disk size: 28965.6 KB)
+0005.739 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1800 files added (on-disk size: 28965.6 KB)
+0005.742 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 1900 files added (on-disk size: 28965.6 KB)
+0005.745 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2000 files added (on-disk size: 28965.6 KB)
+0005.747 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2100 files added (on-disk size: 28965.6 KB)
+0005.750 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2200 files added (on-disk size: 28965.6 KB)
+0005.753 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2300 files added (on-disk size: 28965.6 KB)
+0005.756 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2400 files added (on-disk size: 28965.6 KB)
+0005.759 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2500 files added (on-disk size: 28965.6 KB)
+0005.762 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2600 files added (on-disk size: 28965.6 KB)
+0005.763 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.7 MB, 14122 files batched, 1001 (2611) added so far); re-opening (prior size: 28965.6 KB)
+0006.593 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2700 files added (on-disk size: 32254.7 KB)
+0006.596 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2800 files added (on-disk size: 32254.7 KB)
+0006.599 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 2900 files added (on-disk size: 32254.7 KB)
+0006.602 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3000 files added (on-disk size: 32254.7 KB)
+0006.605 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3100 files added (on-disk size: 32254.7 KB)
+0006.608 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3200 files added (on-disk size: 32254.7 KB)
+0006.610 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3300 files added (on-disk size: 32254.7 KB)
+0006.613 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3400 files added (on-disk size: 32254.7 KB)
+0006.616 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3500 files added (on-disk size: 32254.7 KB)
+0006.619 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3600 files added (on-disk size: 32254.7 KB)
+0006.619 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.6 MB, 14122 files batched, 1001 (3612) added so far); re-opening (prior size: 32254.7 KB)
+0007.730 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3700 files added (on-disk size: 35150.3 KB)
+0007.733 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3800 files added (on-disk size: 35150.3 KB)
+0007.737 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 3900 files added (on-disk size: 35150.3 KB)
+0007.741 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4000 files added (on-disk size: 35150.3 KB)
+0007.744 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4100 files added (on-disk size: 35150.3 KB)
+0007.747 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4200 files added (on-disk size: 35150.3 KB)
+0007.751 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4300 files added (on-disk size: 35150.3 KB)
+0007.754 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4400 files added (on-disk size: 35150.3 KB)
+0007.757 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4500 files added (on-disk size: 35150.3 KB)
+0007.760 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4600 files added (on-disk size: 35150.3 KB)
+0007.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (27.9 MB, 14122 files batched, 1001 (4613) added so far); re-opening (prior size: 35150.3 KB)
+0010.373 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4700 files added (on-disk size: 45153.8 KB)
+0010.377 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4800 files added (on-disk size: 45153.8 KB)
+0010.380 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 4900 files added (on-disk size: 45153.8 KB)
+0010.382 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5000 files added (on-disk size: 45153.8 KB)
+0010.385 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5100 files added (on-disk size: 45153.8 KB)
+0010.388 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5200 files added (on-disk size: 45153.8 KB)
+0010.391 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5300 files added (on-disk size: 45153.8 KB)
+0010.394 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5400 files added (on-disk size: 45153.8 KB)
+0010.397 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5500 files added (on-disk size: 45153.8 KB)
+0010.399 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5600 files added (on-disk size: 45153.8 KB)
+0010.400 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.7 MB, 14122 files batched, 1001 (5614) added so far); re-opening (prior size: 45153.8 KB)
+0011.089 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5700 files added (on-disk size: 48521.6 KB)
+0011.093 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5800 files added (on-disk size: 48521.6 KB)
+0011.095 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 5900 files added (on-disk size: 48521.6 KB)
+0011.098 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6000 files added (on-disk size: 48521.6 KB)
+0011.101 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6100 files added (on-disk size: 48521.6 KB)
+0011.104 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6200 files added (on-disk size: 48521.6 KB)
+0011.106 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6300 files added (on-disk size: 48521.6 KB)
+0011.109 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6400 files added (on-disk size: 48521.6 KB)
+0011.112 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6500 files added (on-disk size: 48521.6 KB)
+0011.115 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6600 files added (on-disk size: 48521.6 KB)
+0011.115 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.3 MB, 14122 files batched, 1001 (6615) added so far); re-opening (prior size: 48521.6 KB)
+0013.316 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6700 files added (on-disk size: 55710 KB)
+0013.319 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6800 files added (on-disk size: 55710 KB)
+0013.323 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 6900 files added (on-disk size: 55710 KB)
+0013.326 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7000 files added (on-disk size: 55710 KB)
+0013.329 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7100 files added (on-disk size: 55710 KB)
+0013.332 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7200 files added (on-disk size: 55710 KB)
+0013.336 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7300 files added (on-disk size: 55710 KB)
+0013.339 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7400 files added (on-disk size: 55710 KB)
+0013.342 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7500 files added (on-disk size: 55710 KB)
+0013.346 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7600 files added (on-disk size: 55710 KB)
+0013.347 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.3 MB, 14122 files batched, 1001 (7616) added so far); re-opening (prior size: 55710 KB)
+0014.404 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7700 files added (on-disk size: 58879 KB)
+0014.407 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7800 files added (on-disk size: 58879 KB)
+0014.410 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 7900 files added (on-disk size: 58879 KB)
+0014.413 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8000 files added (on-disk size: 58879 KB)
+0014.416 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8100 files added (on-disk size: 58879 KB)
+0014.418 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8200 files added (on-disk size: 58879 KB)
+0014.421 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8300 files added (on-disk size: 58879 KB)
+0014.424 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8400 files added (on-disk size: 58879 KB)
+0014.429 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8500 files added (on-disk size: 58879 KB)
+0014.433 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8600 files added (on-disk size: 58879 KB)
+0014.434 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.2 MB, 14122 files batched, 1001 (8617) added so far); re-opening (prior size: 58879 KB)
+0015.232 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8700 files added (on-disk size: 60159.2 KB)
+0015.236 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8800 files added (on-disk size: 60159.2 KB)
+0015.239 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 8900 files added (on-disk size: 60159.2 KB)
+0015.242 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9000 files added (on-disk size: 60159.2 KB)
+0015.246 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9100 files added (on-disk size: 60159.2 KB)
+0015.249 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9200 files added (on-disk size: 60159.2 KB)
+0015.252 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9300 files added (on-disk size: 60159.2 KB)
+0015.255 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9400 files added (on-disk size: 60159.2 KB)
+0015.259 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9500 files added (on-disk size: 60159.2 KB)
+0015.262 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9600 files added (on-disk size: 60159.2 KB)
+0015.263 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.7 MB, 14122 files batched, 1001 (9618) added so far); re-opening (prior size: 60159.2 KB)
+0016.008 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9700 files added (on-disk size: 61238.4 KB)
+0016.011 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9800 files added (on-disk size: 61238.4 KB)
+0016.014 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 9900 files added (on-disk size: 61238.4 KB)
+0016.016 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10000 files added (on-disk size: 61238.4 KB)
+0016.020 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10100 files added (on-disk size: 61238.4 KB)
+0016.024 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10200 files added (on-disk size: 61238.4 KB)
+0016.028 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10300 files added (on-disk size: 61238.4 KB)
+0016.031 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10400 files added (on-disk size: 61238.4 KB)
+0016.034 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10500 files added (on-disk size: 61238.4 KB)
+0016.037 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10600 files added (on-disk size: 61238.4 KB)
+0016.038 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18 MB, 14122 files batched, 1001 (10619) added so far); re-opening (prior size: 61238.4 KB)
+0019.917 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10700 files added (on-disk size: 65106.3 KB)
+0019.921 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10800 files added (on-disk size: 65106.3 KB)
+0019.924 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 10900 files added (on-disk size: 65106.3 KB)
+0019.927 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11000 files added (on-disk size: 65106.3 KB)
+0019.931 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11100 files added (on-disk size: 65106.3 KB)
+0019.934 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11200 files added (on-disk size: 65106.3 KB)
+0019.937 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11300 files added (on-disk size: 65106.3 KB)
+0019.940 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11400 files added (on-disk size: 65106.3 KB)
+0019.943 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11500 files added (on-disk size: 65106.3 KB)
+0019.946 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11600 files added (on-disk size: 65106.3 KB)
+0019.948 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.2 MB, 14122 files batched, 1001 (11620) added so far); re-opening (prior size: 65106.3 KB)
+0022.355 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11700 files added (on-disk size: 69994.5 KB)
+0022.358 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11800 files added (on-disk size: 69994.5 KB)
+0022.361 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 11900 files added (on-disk size: 69994.5 KB)
+0022.364 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12000 files added (on-disk size: 69994.5 KB)
+0022.367 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12100 files added (on-disk size: 69994.5 KB)
+0022.370 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12200 files added (on-disk size: 69994.5 KB)
+0022.373 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12300 files added (on-disk size: 69994.5 KB)
+0022.375 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12400 files added (on-disk size: 69994.5 KB)
+0022.378 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12500 files added (on-disk size: 69994.5 KB)
+0022.381 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12600 files added (on-disk size: 69994.5 KB)
+0022.382 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.9 MB, 14122 files batched, 1001 (12621) added so far); re-opening (prior size: 69994.5 KB)
+0024.534 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12700 files added (on-disk size: 77975.5 KB)
+0024.537 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12800 files added (on-disk size: 77975.5 KB)
+0024.540 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 12900 files added (on-disk size: 77975.5 KB)
+0024.543 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13000 files added (on-disk size: 77975.5 KB)
+0024.546 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13100 files added (on-disk size: 77975.5 KB)
+0024.549 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13200 files added (on-disk size: 77975.5 KB)
+0024.552 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13300 files added (on-disk size: 77975.5 KB)
+0024.557 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13400 files added (on-disk size: 77975.5 KB)
+0024.562 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13500 files added (on-disk size: 77975.5 KB)
+0024.567 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13600 files added (on-disk size: 77975.5 KB)
+0024.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.8 MB, 14122 files batched, 1001 (13622) added so far); re-opening (prior size: 77975.5 KB)
+0025.587 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13700 files added (on-disk size: 79847 KB)
+0025.590 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13800 files added (on-disk size: 79847 KB)
+0025.593 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 13900 files added (on-disk size: 79847 KB)
+0025.596 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 14000 files added (on-disk size: 79847 KB)
+0025.599 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip.tmp: 14100 files added (on-disk size: 79847 KB)
+0027.244 (0) Created plugins zip (0) - 81709.7 KB in 27.1 s (3020.2 KB/s) (sha1: 3acd452fb87d26aad9dba4cf6bb5bf89c866bebd, sha256: 772a54c1ccd16ca76176605b28756357d03f06ed686c1547a1e7490a48be4881)
+0027.248 (0) Beginning creation of dump of themes (split every: 400 MB)
+0027.375 (0) Total entities for the zip file: 150 directories, 807 files (0 skipped as non-modified), 19.7 MB
+0027.379 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0027.381 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0027.384 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0027.386 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0027.389 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0027.391 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0027.395 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0027.398 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0028.589 (0) Created themes zip (0) - 14231.9 KB in 1.3 s (11279.8 KB/s) (sha1: 56ee2e0cf8c3c01e11dc9242e7936ebbabc41502, sha256: de148e72008536c910ff1f9e3b91e5b8eef495ee21d94f03fd0648b92e4b7421)
+0028.591 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0028.592 (0) Looking for candidates to backup in: /home/jalapenorocotope/public_html/wp-content/uploads
+0028.592 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (1)
+0028.593 (0) finding files: woocommerce-placeholder-550x1200.png: adding to list (2)
+0028.593 (0) finding files: woocommerce-placeholder-555x555.png: adding to list (3)
+0028.593 (0) finding files: woocommerce-placeholder-871x597.png: adding to list (4)
+0028.593 (0) finding files: 2021: adding to list (5)
+0028.594 (0) finding files: woocommerce-placeholder-228x114.png: adding to list (6)
+0028.594 (0) finding files: wc-logs: adding to list (7)
+0028.594 (0) finding files: woocommerce-placeholder-400x400.png: adding to list (8)
+0028.594 (0) finding files: woocommerce_uploads: adding to list (9)
+0028.594 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (10)
+0028.595 (0) finding files: woocommerce-placeholder-450x450.png: adding to list (11)
+0028.595 (0) finding files: 2020: adding to list (12)
+0028.595 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (13)
+0028.595 (0) finding files: woocommerce-placeholder-1170x500.png: adding to list (14)
+0028.596 (0) finding files: js_composer: adding to list (15)
+0028.596 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (16)
+0028.596 (0) finding files: wpforms: adding to list (17)
+0028.596 (0) finding files: sucuri: adding to list (18)
+0028.596 (0) finding files: woocommerce-placeholder-450x585.png: adding to list (19)
+0028.597 (0) finding files: woocommerce-placeholder-450x286.png: adding to list (20)
+0028.597 (0) finding files: woocommerce-placeholder-600x360.png: adding to list (21)
+0028.597 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (22)
+0028.597 (0) finding files: woocommerce-placeholder-60x60.png: adding to list (23)
+0028.598 (0) finding files: redux: adding to list (24)
+0028.598 (0) finding files: woocommerce-placeholder.png: adding to list (25)
+0028.598 (0) finding files: woocommerce-placeholder-818x350.png: adding to list (26)
+0028.599 (0) finding files: wp-file-manager-pro: adding to list (27)
+0028.599 (0) finding files: wpallimport: adding to list (28)
+0028.599 (0) finding files: wcpa_uploads: adding to list (29)
+0028.599 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0028.668 (0) Total entities for the zip file: 46 directories, 889 files (0 skipped as non-modified), 129.7 MB
+0028.672 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0028.674 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0028.676 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0028.679 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0028.681 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 83.4 MB added on this batch (83.4 MB, 889 files batched, 456 (456) added so far); re-opening (prior size: 0 KB)
+0029.853 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.7 s, rate: 50801.7 KB/s)
+0029.854 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.6807239055634, normalised_time=1.6805313677355, max_time=29.853609085083, data points known=1, old_max_bytes=87422832, new_max_bytes=209715200)
+0029.857 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 500 files added (on-disk size: 85371.5 KB)
+0029.860 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 600 files added (on-disk size: 85371.5 KB)
+0029.863 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 700 files added (on-disk size: 85371.5 KB)
+0029.866 (0) Zip: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip.tmp: 800 files added (on-disk size: 85371.5 KB)
+0032.257 (0) Created uploads zip (0) - 132636.8 KB in 3.6 s (36630.3 KB/s) (sha1: e03cccc0bc2ce0834fe0ef1c6bf05229aaad95e4, sha256: b797f66bfae25ee99a48bdd5a853fcfbfffc4415961292c8b871cb2ad4f7a450)
+0032.259 (0) Beginning backup of other directories found in the content directory (index: 0)
+0032.260 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0032.260 (0) Looking for candidates to backup in: /home/jalapenorocotope/public_html/wp-content
+0032.261 (0) finding files: upgrade: skipping: excluded by options
+0032.261 (0) finding files: plugins: skipping: this is the plugins directory
+0032.261 (0) finding files: maintenance.php: adding to list (1)
+0032.262 (0) finding files: themes: skipping: this is the themes directory
+0032.262 (0) finding files: maintenance: adding to list (2)
+0032.262 (0) finding files: updraft: skipping: this is the updraft directory
+0032.262 (0) finding files: wflogs: adding to list (3)
+0032.263 (0) finding files: uploads: skipping: this is the uploads directory
+0032.263 (0) finding files: index.php: adding to list (4)
+0032.306 (0) Total entities for the zip file: 5 directories, 24 files (0 skipped as non-modified), 8.1 MB
+0035.063 (0) Created others zip (0) - 5302.4 KB in 2.8 s (1921.1 KB/s) (sha1: 450ed4e594a464a6445881d8715e8f637d74636a, sha256: 0c1a0b3689318a70414f3e16a4c0afb688b370bfc9e303af5dcfae3370251a64)
+0035.067 (0) Saving backup status to database (elements: 8)
+0035.069 (0) Beginning creation of database dump (WordPress DB)
+0035.069 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0035.071 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0035.108 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1250 bytes total)
+0035.110 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0035.149 (0) Table wp_options: Total expected rows (approximate): 2264
+0035.206 (0) Table wp_options: Rows added in this batch (next record: 154237): 2260 (uncompressed bytes in this segment=458164) in 0.06 seconds
+0035.209 (0) Table wp_options: finishing file(s) (2, 78.6 KB)
+0035.212 (0) Table wp_users: Total expected rows (approximate): 1
+0035.215 (0) Table wp_users: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=1399) in 0.00 seconds
+0035.219 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0035.221 (0) Table wp_usermeta: Total expected rows (approximate): 62
+0035.223 (0) Table wp_usermeta: Rows added in this batch (next record: 220): 62 (uncompressed bytes in this segment=5532) in 0.00 seconds
+0035.225 (0) Table wp_usermeta: finishing file(s) (2, 2.3 KB)
+0035.227 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 51
+0035.231 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 4560): 51 (uncompressed bytes in this segment=24879) in 0.00 seconds
+0035.233 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2.5 KB)
+0035.235 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0035.236 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=632) in 0.00 seconds
+0035.238 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0035.240 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 3
+0035.241 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=720) in 0.00 seconds
+0035.243 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0035.244 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 147
+0035.248 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 533): 147 (uncompressed bytes in this segment=13586) in 0.00 seconds
+0035.250 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.8 KB)
+0035.252 (0) Table wp_commentmeta: Total expected rows (approximate): 2
+0035.254 (0) Table wp_commentmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=803) in 0.00 seconds
+0035.257 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0035.259 (0) Table wp_comments: Total expected rows (approximate): 638
+0035.274 (0) Table wp_comments: Rows added in this batch (next record: 842): 638 (uncompressed bytes in this segment=154670) in 0.01 seconds
+0035.276 (0) Table wp_comments: finishing file(s) (2, 16.2 KB)
+0035.279 (0) Table wp_links: Total expected rows (approximate): 0
+0035.281 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.00 seconds
+0035.283 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0035.285 (0) Table wp_postmeta: Total expected rows (approximate): 42440
+0035.436 (0) Table wp_postmeta: binary mysqldump finished (writes: 34) in 0.15 seconds
+0035.439 (0) Table wp_postmeta: finishing file(s) (1, 384.5 KB)
+0035.441 (0) Table wp_posts: Total expected rows (approximate): 1980
+0035.586 (0) Table wp_posts: Rows added in this batch (next record: 4520): 1980 (uncompressed bytes in this segment=1929290) in 0.14 seconds
+0035.589 (0) Table wp_posts: finishing file(s) (2, 162.1 KB)
+0035.591 (0) Table wp_term_relationships: Total expected rows (approximate): 1303
+0035.597 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 1303 (uncompressed bytes in this segment=21859) in 0.01 seconds
+0035.600 (0) Table wp_term_relationships: finishing file(s) (2, 3.9 KB)
+0035.602 (0) Table wp_term_taxonomy: Total expected rows (approximate): 247
+0035.607 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 254): 247 (uncompressed bytes in this segment=10536) in 0.00 seconds
+0035.609 (0) Table wp_term_taxonomy: finishing file(s) (2, 2.2 KB)
+0035.611 (0) Table wp_termmeta: Total expected rows (approximate): 284
+0035.615 (0) Table wp_termmeta: Rows added in this batch (next record: 306): 284 (uncompressed bytes in this segment=11906) in 0.00 seconds
+0035.617 (0) Table wp_termmeta: finishing file(s) (2, 2.3 KB)
+0035.618 (0) Table wp_terms: Total expected rows (approximate): 247
+0035.622 (0) Table wp_terms: Rows added in this batch (next record: 254): 247 (uncompressed bytes in this segment=13379) in 0.00 seconds
+0035.623 (0) Table wp_terms: finishing file(s) (2, 3.2 KB)
+0035.625 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 1317
+0035.649 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 4170): 1317 (uncompressed bytes in this segment=94586) in 0.02 seconds
+0035.654 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 7.3 KB)
+0035.657 (0) Table wp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0035.660 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=812) in 0.00 seconds
+0035.663 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0035.666 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 9588
+0035.727 (0) Table wp_woocommerce_order_itemmeta: binary mysqldump finished (writes: 32) in 0.06 seconds
+0035.731 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (1, 66.5 KB)
+0035.735 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0035.737 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=811) in 0.00 seconds
+0035.740 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0035.743 (0) Table wp_em_bookings: Total expected rows (approximate): 0
+0035.745 (0) Table wp_em_bookings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1080) in 0.00 seconds
+0035.748 (0) Table wp_em_bookings: finishing file(s) (2, 0.5 KB)
+0035.750 (0) Table wp_em_events: Total expected rows (approximate): 0
+0035.753 (0) Table wp_em_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2534) in 0.00 seconds
+0035.757 (0) Table wp_em_events: finishing file(s) (2, 0.7 KB)
+0035.760 (0) Table wp_em_locations: Total expected rows (approximate): 0
+0035.763 (0) Table wp_em_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1833) in 0.00 seconds
+0035.766 (0) Table wp_em_locations: finishing file(s) (2, 0.5 KB)
+0035.769 (0) Table wp_em_meta: Total expected rows (approximate): 0
+0035.771 (0) Table wp_em_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=709) in 0.00 seconds
+0035.773 (0) Table wp_em_meta: finishing file(s) (2, 0.4 KB)
+0035.776 (0) Table wp_em_tickets: Total expected rows (approximate): 0
+0035.777 (0) Table wp_em_tickets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1228) in 0.00 seconds
+0035.780 (0) Table wp_em_tickets: finishing file(s) (2, 0.5 KB)
+0035.783 (0) Table wp_em_tickets_bookings: Total expected rows (approximate): 0
+0035.785 (0) Table wp_em_tickets_bookings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=743) in 0.00 seconds
+0035.788 (0) Table wp_em_tickets_bookings: finishing file(s) (2, 0.4 KB)
+0035.790 (0) Table wp_pmxi_files: Total expected rows (approximate): 2
+0035.792 (0) Table wp_pmxi_files: Rows added in this batch (next record: 9): 2 (uncompressed bytes in this segment=916) in 0.00 seconds
+0035.795 (0) Table wp_pmxi_files: finishing file(s) (2, 0.5 KB)
+0035.797 (0) Table wp_pmxi_history: Total expected rows (approximate): 5
+0035.799 (0) Table wp_pmxi_history: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1315) in 0.00 seconds
+0035.801 (0) Table wp_pmxi_history: finishing file(s) (2, 0.5 KB)
+0035.803 (0) Table wp_pmxi_images: Total expected rows (approximate): 50
+0035.805 (0) Table wp_pmxi_images: Rows added in this batch (next record: 74): 50 (uncompressed bytes in this segment=2626) in 0.00 seconds
+0035.807 (0) Table wp_pmxi_images: finishing file(s) (2, 1.1 KB)
+0035.812 (0) Table wp_pmxi_imports: Total expected rows (approximate): 2
+0035.817 (0) Table wp_pmxi_imports: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=44550) in 0.00 seconds
+0035.820 (0) Table wp_pmxi_imports: finishing file(s) (2, 5.5 KB)
+0035.823 (0) Table wp_pmxi_posts: Total expected rows (approximate): 7
+0035.825 (0) Table wp_pmxi_posts: Rows added in this batch (next record: 20): 7 (uncompressed bytes in this segment=1887) in 0.00 seconds
+0035.828 (0) Table wp_pmxi_posts: finishing file(s) (2, 0.7 KB)
+0035.830 (0) Table wp_pmxi_templates: Total expected rows (approximate): 0
+0035.831 (0) Table wp_pmxi_templates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=998) in 0.00 seconds
+0035.833 (0) Table wp_pmxi_templates: finishing file(s) (2, 0.4 KB)
+0035.836 (0) Table wp_translations: Total expected rows (approximate): 1094
+0035.851 (0) Table wp_translations: Rows added in this batch (next record: 2000): 1094 (uncompressed bytes in this segment=104934) in 0.01 seconds
+0035.854 (0) Table wp_translations: finishing file(s) (2, 22.9 KB)
+0035.857 (0) Table wp_translations_log: Total expected rows (approximate): 0
+0035.859 (0) Table wp_translations_log: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=767) in 0.00 seconds
+0035.861 (0) Table wp_translations_log: finishing file(s) (2, 0.4 KB)
+0035.863 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0035.865 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=747) in 0.00 seconds
+0035.867 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0035.870 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0035.871 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1226) in 0.00 seconds
+0035.874 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0035.876 (0) Table wp_wfblockediplog: Total expected rows (approximate): 16
+0035.877 (0) Table wp_wfblockediplog: Rows added in this batch (next record: 1000): 16 (uncompressed bytes in this segment=1660) in 0.00 seconds
+0035.880 (0) Table wp_wfblockediplog: finishing file(s) (2, 0.6 KB)
+0035.881 (0) Table wp_wfblocks7: Total expected rows (approximate): 0
+0035.882 (0) Table wp_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=816) in 0.00 seconds
+0035.885 (0) Table wp_wfblocks7: finishing file(s) (2, 0.4 KB)
+0035.886 (0) Table wp_wfconfig: Total expected rows (approximate): 257
+0035.947 (0) Table wp_wfconfig: Rows added in this batch (next record: 1000): 257 (uncompressed bytes in this segment=832157) in 0.06 seconds
+0035.950 (0) Table wp_wfconfig: finishing file(s) (2, 425.4 KB)
+0035.953 (0) Table wp_wfcrawlers: Total expected rows (approximate): 18
+0035.955 (0) Table wp_wfcrawlers: Rows added in this batch (next record: 1000): 18 (uncompressed bytes in this segment=2897) in 0.00 seconds
+0035.957 (0) Table wp_wfcrawlers: finishing file(s) (2, 0.8 KB)
+0035.959 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0035.961 (0) Table wp_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=452) in 0.00 seconds
+0035.962 (0) Table wp_wffilechanges: finishing file(s) (2, 0.3 KB)
+0035.965 (0) Table wp_wffilemods: Total expected rows (approximate): 15763
+0036.137 (0) Table wp_wffilemods: binary mysqldump finished (writes: 38) in 0.17 seconds
+0036.139 (0) Table wp_wffilemods: finishing file(s) (1, 1210 KB)
+0036.141 (0) Table wp_wfhits: Total expected rows (approximate): 60
+0036.145 (0) Table wp_wfhits: Rows added in this batch (next record: 129): 60 (uncompressed bytes in this segment=40843) in 0.00 seconds
+0036.147 (0) Table wp_wfhits: finishing file(s) (2, 4.1 KB)
+0036.149 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0036.150 (0) Table wp_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=515) in 0.00 seconds
+0036.152 (0) Table wp_wfhoover: finishing file(s) (2, 0.3 KB)
+0036.154 (0) Table wp_wfissues: Total expected rows (approximate): 18
+0036.156 (0) Table wp_wfissues: Rows added in this batch (next record: 941): 18 (uncompressed bytes in this segment=23321) in 0.00 seconds
+0036.158 (0) Table wp_wfissues: finishing file(s) (2, 4.9 KB)
+0036.160 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 15763
+0036.225 (0) Table wp_wfknownfilelist: binary mysqldump finished (writes: 29) in 0.07 seconds
+0036.228 (0) Table wp_wfknownfilelist: finishing file(s) (1, 149.8 KB)
+0036.230 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0036.232 (0) Table wp_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=648) in 0.00 seconds
+0036.235 (0) Table wp_wflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0036.238 (0) Table wp_wflocs: Total expected rows (approximate): 1
+0036.240 (0) Table wp_wflocs: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=823) in 0.00 seconds
+0036.243 (0) Table wp_wflocs: finishing file(s) (2, 0.5 KB)
+0036.246 (0) Table wp_wflogins: Total expected rows (approximate): 6
+0036.248 (0) Table wp_wflogins: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=2111) in 0.00 seconds
+0036.251 (0) Table wp_wflogins: finishing file(s) (2, 0.7 KB)
+0036.253 (0) Table wp_wfls_2fa_secrets: Total expected rows (approximate): 0
+0036.255 (0) Table wp_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=681) in 0.00 seconds
+0036.257 (0) Table wp_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0036.259 (0) Table wp_wfls_settings: Total expected rows (approximate): 17
+0036.261 (0) Table wp_wfls_settings: Rows added in this batch (next record: 1000): 19 (uncompressed bytes in this segment=1603) in 0.00 seconds
+0036.263 (0) Table wp_wfls_settings: finishing file(s) (2, 0.8 KB)
+0036.266 (0) Table wp_wfnotifications: Total expected rows (approximate): 2
+0036.268 (0) Table wp_wfnotifications: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=1028) in 0.00 seconds
+0036.271 (0) Table wp_wfnotifications: finishing file(s) (2, 0.6 KB)
+0036.273 (0) Table wp_wfpendingissues: Total expected rows (approximate): 0
+0036.275 (0) Table wp_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=872) in 0.00 seconds
+0036.278 (0) Table wp_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0036.282 (0) Table wp_wfreversecache: Total expected rows (approximate): 5
+0036.284 (0) Table wp_wfreversecache: Rows added in this batch (next record: 1000): 5 (uncompressed bytes in this segment=950) in 0.00 seconds
+0036.287 (0) Table wp_wfreversecache: finishing file(s) (2, 0.5 KB)
+0036.290 (0) Table wp_wfsnipcache: Total expected rows (approximate): 0
+0036.292 (0) Table wp_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=699) in 0.00 seconds
+0036.295 (0) Table wp_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0036.298 (0) Table wp_wfstatus: Total expected rows (approximate): 943
+0036.318 (0) Table wp_wfstatus: Rows added in this batch (next record: 6268): 943 (uncompressed bytes in this segment=91024) in 0.02 seconds
+0036.321 (0) Table wp_wfstatus: finishing file(s) (2, 14.9 KB)
+0036.323 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0036.325 (0) Table wp_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=566) in 0.00 seconds
+0036.328 (0) Table wp_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0036.331 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0036.333 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1059) in 0.00 seconds
+0036.336 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0036.338 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 24
+0036.342 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=2665) in 0.00 seconds
+0036.344 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.8 KB)
+0036.347 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0036.349 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1534) in 0.00 seconds
+0036.352 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0036.354 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0036.356 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.00 seconds
+0036.358 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0036.360 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 938
+0036.373 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: 962): 938 (uncompressed bytes in this segment=53852) in 0.01 seconds
+0036.375 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 7.5 KB)
+0036.378 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0036.379 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=837) in 0.00 seconds
+0036.382 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0036.384 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 58
+0036.392 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 13633): 58 (uncompressed bytes in this segment=87722) in 0.01 seconds
+0036.395 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 4.9 KB)
+0036.398 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0036.400 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=891) in 0.00 seconds
+0036.404 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0036.407 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 1
+0036.409 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=879) in 0.00 seconds
+0036.412 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0036.416 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 1
+0036.419 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=722) in 0.00 seconds
+0036.422 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0036.425 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0036.426 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=848) in 0.00 seconds
+0036.428 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0036.431 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0036.432 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1297) in 0.00 seconds
+0036.435 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0036.438 (0) Table wp_wpfm_backup: Total expected rows (approximate): 0
+0036.440 (0) Table wp_wpfm_backup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=528) in 0.00 seconds
+0036.443 (0) Table wp_wpfm_backup: finishing file(s) (2, 0.3 KB)
+0036.445 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 14
+0036.447 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=1724) in 0.00 seconds
+0036.451 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0036.453 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (approximate): 12
+0036.455 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=1639) in 0.00 seconds
+0036.458 (0) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.6 KB)
+0036.461 (0) Table wp_wpnotif_mobile_otp: Total expected rows (approximate): 0
+0036.462 (0) Table wp_wpnotif_mobile_otp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=724) in 0.00 seconds
+0036.465 (0) Table wp_wpnotif_mobile_otp: finishing file(s) (2, 0.4 KB)
+0036.467 (0) Table wp_wpnotif_newsletter: Total expected rows (approximate): 0
+0036.469 (0) Table wp_wpnotif_newsletter: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1376) in 0.00 seconds
+0036.472 (0) Table wp_wpnotif_newsletter: finishing file(s) (2, 0.5 KB)
+0036.474 (0) Table wp_wpnotif_newsletter_history: Total expected rows (approximate): 0
+0036.476 (0) Table wp_wpnotif_newsletter_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=986) in 0.00 seconds
+0036.478 (0) Table wp_wpnotif_newsletter_history: finishing file(s) (2, 0.4 KB)
+0036.481 (0) Table wp_wpnotif_newsletter_send_history: Total expected rows (approximate): 0
+0036.482 (0) Table wp_wpnotif_newsletter_send_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=903) in 0.00 seconds
+0036.485 (0) Table wp_wpnotif_newsletter_send_history: finishing file(s) (2, 0.4 KB)
+0036.488 (0) Table wp_wpnotif_sms_app: Total expected rows (approximate): 0
+0036.489 (0) Table wp_wpnotif_sms_app: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=705) in 0.00 seconds
+0036.492 (0) Table wp_wpnotif_sms_app: finishing file(s) (2, 0.4 KB)
+0036.494 (0) Table wp_wpnotif_subgroups: Total expected rows (approximate): 0
+0036.496 (0) Table wp_wpnotif_subgroups: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=787) in 0.00 seconds
+0036.499 (0) Table wp_wpnotif_subgroups: finishing file(s) (2, 0.4 KB)
+0036.502 (0) Table wp_wpnotif_subgroups_subscribers: Total expected rows (approximate): 0
+0036.503 (0) Table wp_wpnotif_subgroups_subscribers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=755) in 0.00 seconds
+0036.506 (0) Table wp_wpnotif_subgroups_subscribers: finishing file(s) (2, 0.4 KB)
+0036.509 (0) Table wp_wpnotif_subscribers: Total expected rows (approximate): 0
+0036.511 (0) Table wp_wpnotif_subscribers: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1265) in 0.00 seconds
+0036.513 (0) Table wp_wpnotif_subscribers: finishing file(s) (2, 0.5 KB)
+0036.516 (0) Table wp_wpnotif_whatsapp_messages: Total expected rows (approximate): 0
+0036.517 (0) Table wp_wpnotif_whatsapp_messages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=711) in 0.00 seconds
+0036.520 (0) Table wp_wpnotif_whatsapp_messages: finishing file(s) (2, 0.4 KB)
+0036.522 (0) Table wp_za_add_ons: Total expected rows (approximate): 1
+0036.524 (0) Table wp_za_add_ons: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=770) in 0.00 seconds
+0036.526 (0) Table wp_za_add_ons: finishing file(s) (2, 0.5 KB)
+0036.528 (0) Table wp_za_categories_to_groups: Total expected rows (approximate): 1
+0036.530 (0) Table wp_za_categories_to_groups: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=533) in 0.00 seconds
+0036.532 (0) Table wp_za_categories_to_groups: finishing file(s) (2, 0.3 KB)
+0036.535 (0) Table wp_za_groups: Total expected rows (approximate): 3
+0036.537 (0) Table wp_za_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1295) in 0.00 seconds
+0036.539 (0) Table wp_za_groups: finishing file(s) (2, 0.5 KB)
+0036.541 (0) Table wp_za_products_to_groups: Total expected rows (approximate): 3
+0036.543 (0) Table wp_za_products_to_groups: Rows added in this batch (next record: 1000): 3 (uncompressed bytes in this segment=541) in 0.00 seconds
+0036.545 (0) Table wp_za_products_to_groups: finishing file(s) (2, 0.3 KB)
+0036.547 (0) Table wp_za_types: Total expected rows (approximate): 1
+0036.549 (0) Table wp_za_types: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1321) in 0.00 seconds
+0036.551 (0) Table wp_za_types: finishing file(s) (2, 0.6 KB)
+0036.554 (0) Table wp_za_values: Total expected rows (approximate): 1
+0036.556 (0) Table wp_za_values: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1320) in 0.00 seconds
+0036.558 (0) Table wp_za_values: finishing file(s) (2, 0.6 KB)
+0036.558 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_options.table.tmpr154238.gz (1/87): adding to final database dump
+0036.578 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_options.table.gz (2/87): adding to final database dump
+0036.578 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_users.table.tmpr3.gz (3/87): adding to final database dump
+0036.579 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_users.table.gz (4/87): adding to final database dump
+0036.579 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_usermeta.table.tmpr221.gz (5/87): adding to final database dump
+0036.580 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_usermeta.table.gz (6/87): adding to final database dump
+0036.581 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_actions.table.tmpr4561.gz (7/87): adding to final database dump
+0036.582 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_actions.table.gz (8/87): adding to final database dump
+0036.582 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/87): adding to final database dump
+0036.583 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_claims.table.gz (10/87): adding to final database dump
+0036.583 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/87): adding to final database dump
+0036.584 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_groups.table.gz (12/87): adding to final database dump
+0036.584 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_logs.table.tmpr534.gz (13/87): adding to final database dump
+0036.585 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_actionscheduler_logs.table.gz (14/87): adding to final database dump
+0036.585 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_commentmeta.table.tmpr3.gz (15/87): adding to final database dump
+0036.586 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_commentmeta.table.gz (16/87): adding to final database dump
+0036.586 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_comments.table.tmpr843.gz (17/87): adding to final database dump
+0036.591 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_comments.table.gz (18/87): adding to final database dump
+0036.591 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_links.table.tmpr0.gz (19/87): adding to final database dump
+0036.592 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_links.table.gz (20/87): adding to final database dump
+0036.592 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_postmeta.table.gz (21/87): adding to final database dump
+0036.694 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_posts.table.tmpr4521.gz (22/87): adding to final database dump
+0036.737 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_posts.table.gz (23/87): adding to final database dump
+0036.737 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_term_relationships.table.tmpr100001.gz (24/87): adding to final database dump
+0036.740 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_term_relationships.table.gz (25/87): adding to final database dump
+0036.740 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_term_taxonomy.table.tmpr255.gz (26/87): adding to final database dump
+0036.741 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_term_taxonomy.table.gz (27/87): adding to final database dump
+0036.742 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_termmeta.table.tmpr307.gz (28/87): adding to final database dump
+0036.743 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_termmeta.table.gz (29/87): adding to final database dump
+0036.743 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_terms.table.tmpr255.gz (30/87): adding to final database dump
+0036.744 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_terms.table.gz (31/87): adding to final database dump
+0036.745 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_product_meta_lookup.table.tmpr4171.gz (32/87): adding to final database dump
+0036.748 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_product_meta_lookup.table.gz (33/87): adding to final database dump
+0036.749 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (34/87): adding to final database dump
+0036.749 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_tax_rate_classes.table.gz (35/87): adding to final database dump
+0036.750 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_order_itemmeta.table.gz (36/87): adding to final database dump
+0036.768 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (37/87): adding to final database dump
+0036.768 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_payment_tokenmeta.table.gz (38/87): adding to final database dump
+0036.769 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_bookings.table.tmpr0.gz (39/87): adding to final database dump
+0036.769 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_bookings.table.gz (40/87): adding to final database dump
+0036.770 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_events.table.tmpr0.gz (41/87): adding to final database dump
+0036.770 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_events.table.gz (42/87): adding to final database dump
+0036.771 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_locations.table.tmpr0.gz (43/87): adding to final database dump
+0036.771 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_locations.table.gz (44/87): adding to final database dump
+0036.771 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_meta.table.tmpr0.gz (45/87): adding to final database dump
+0036.772 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_meta.table.gz (46/87): adding to final database dump
+0036.772 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_tickets.table.tmpr0.gz (47/87): adding to final database dump
+0036.772 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_tickets.table.gz (48/87): adding to final database dump
+0036.773 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_tickets_bookings.table.tmpr0.gz (49/87): adding to final database dump
+0036.773 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_em_tickets_bookings.table.gz (50/87): adding to final database dump
+0036.773 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_files.table.tmpr10.gz (51/87): adding to final database dump
+0036.774 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_files.table.gz (52/87): adding to final database dump
+0036.774 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_history.table.tmpr6.gz (53/87): adding to final database dump
+0036.775 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_history.table.gz (54/87): adding to final database dump
+0036.775 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_images.table.tmpr75.gz (55/87): adding to final database dump
+0036.776 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_images.table.gz (56/87): adding to final database dump
+0036.776 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_imports.table.tmpr3.gz (57/87): adding to final database dump
+0036.779 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_imports.table.gz (58/87): adding to final database dump
+0036.779 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_posts.table.tmpr21.gz (59/87): adding to final database dump
+0036.779 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_posts.table.gz (60/87): adding to final database dump
+0036.780 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_templates.table.tmpr0.gz (61/87): adding to final database dump
+0036.780 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_pmxi_templates.table.gz (62/87): adding to final database dump
+0036.781 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_translations.table.tmpr2001.gz (63/87): adding to final database dump
+0036.785 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_translations.table.gz (64/87): adding to final database dump
+0036.786 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_translations_log.table.tmpr1.gz (65/87): adding to final database dump
+0036.786 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_translations_log.table.gz (66/87): adding to final database dump
+0036.786 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_download_log.table.tmpr0.gz (67/87): adding to final database dump
+0036.787 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_download_log.table.gz (68/87): adding to final database dump
+0036.787 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_webhooks.table.tmpr0.gz (69/87): adding to final database dump
+0036.788 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wc_webhooks.table.gz (70/87): adding to final database dump
+0036.788 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfblockediplog.table.tmpr1001.gz (71/87): adding to final database dump
+0036.788 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfblockediplog.table.gz (72/87): adding to final database dump
+0036.789 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfblocks7.table.tmpr0.gz (73/87): adding to final database dump
+0036.789 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfblocks7.table.gz (74/87): adding to final database dump
+0036.789 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfconfig.table.tmpr1001.gz (75/87): adding to final database dump
+0036.847 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfconfig.table.gz (76/87): adding to final database dump
+0036.847 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfcrawlers.table.tmpr1001.gz (77/87): adding to final database dump
+0036.848 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfcrawlers.table.gz (78/87): adding to final database dump
+0036.848 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wffilechanges.table.tmpr1.gz (79/87): adding to final database dump
+0036.849 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wffilechanges.table.gz (80/87): adding to final database dump
+0036.849 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wffilemods.table.gz (81/87): adding to final database dump
+0036.966 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfhits.table.tmpr130.gz (82/87): adding to final database dump
+0036.968 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfhits.table.gz (83/87): adding to final database dump
+0036.968 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfhoover.table.tmpr0.gz (84/87): adding to final database dump
+0036.968 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfhoover.table.gz (85/87): adding to final database dump
+0036.969 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfissues.table.tmpr942.gz (86/87): adding to final database dump
+0036.970 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfissues.table.gz (87/87): adding to final database dump
+0036.970 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfknownfilelist.table.gz (88/87): adding to final database dump
+0037.006 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wflivetraffichuman.table.tmpr1.gz (89/87): adding to final database dump
+0037.007 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wflivetraffichuman.table.gz (90/87): adding to final database dump
+0037.007 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wflocs.table.tmpr1001.gz (91/87): adding to final database dump
+0037.007 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wflocs.table.gz (92/87): adding to final database dump
+0037.008 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wflogins.table.tmpr7.gz (93/87): adding to final database dump
+0037.008 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wflogins.table.gz (94/87): adding to final database dump
+0037.009 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfls_2fa_secrets.table.tmpr0.gz (95/87): adding to final database dump
+0037.009 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfls_2fa_secrets.table.gz (96/87): adding to final database dump
+0037.009 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfls_settings.table.tmpr1001.gz (97/87): adding to final database dump
+0037.010 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfls_settings.table.gz (98/87): adding to final database dump
+0037.010 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfnotifications.table.tmpr1001.gz (99/87): adding to final database dump
+0037.011 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfnotifications.table.gz (100/87): adding to final database dump
+0037.011 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfpendingissues.table.tmpr0.gz (101/87): adding to final database dump
+0037.012 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfpendingissues.table.gz (102/87): adding to final database dump
+0037.012 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfreversecache.table.tmpr1001.gz (103/87): adding to final database dump
+0037.012 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfreversecache.table.gz (104/87): adding to final database dump
+0037.013 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfsnipcache.table.tmpr0.gz (105/87): adding to final database dump
+0037.013 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfsnipcache.table.gz (106/87): adding to final database dump
+0037.013 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfstatus.table.tmpr6269.gz (107/87): adding to final database dump
+0037.017 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wfstatus.table.gz (108/87): adding to final database dump
+0037.017 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wftrafficrates.table.tmpr1.gz (109/87): adding to final database dump
+0037.017 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wftrafficrates.table.gz (110/87): adding to final database dump
+0037.018 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (111/87): adding to final database dump
+0037.018 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_api_keys.table.gz (112/87): adding to final database dump
+0037.018 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr25.gz (113/87): adding to final database dump
+0037.019 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_attribute_taxonomies.table.gz (114/87): adding to final database dump
+0037.019 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (115/87): adding to final database dump
+0037.019 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (116/87): adding to final database dump
+0037.020 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_log.table.tmpr0.gz (117/87): adding to final database dump
+0037.020 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_log.table.gz (118/87): adding to final database dump
+0037.020 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_order_items.table.tmpr963.gz (119/87): adding to final database dump
+0037.023 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_order_items.table.gz (120/87): adding to final database dump
+0037.023 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (121/87): adding to final database dump
+0037.024 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_payment_tokens.table.gz (122/87): adding to final database dump
+0037.024 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_sessions.table.tmpr13634.gz (123/87): adding to final database dump
+0037.026 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_sessions.table.gz (124/87): adding to final database dump
+0037.027 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (125/87): adding to final database dump
+0037.027 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_shipping_zone_locations.table.gz (126/87): adding to final database dump
+0037.027 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr2.gz (127/87): adding to final database dump
+0037.028 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_shipping_zone_methods.table.gz (128/87): adding to final database dump
+0037.028 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_shipping_zones.table.tmpr2.gz (129/87): adding to final database dump
+0037.028 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_shipping_zones.table.gz (130/87): adding to final database dump
+0037.028 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (131/87): adding to final database dump
+0037.029 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_tax_rate_locations.table.gz (132/87): adding to final database dump
+0037.029 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (133/87): adding to final database dump
+0037.029 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_woocommerce_tax_rates.table.gz (134/87): adding to final database dump
+0037.030 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpfm_backup.table.tmpr0.gz (135/87): adding to final database dump
+0037.030 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpfm_backup.table.gz (136/87): adding to final database dump
+0037.031 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpforms_tasks_meta.table.tmpr15.gz (137/87): adding to final database dump
+0037.031 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpforms_tasks_meta.table.gz (138/87): adding to final database dump
+0037.031 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr13.gz (139/87): adding to final database dump
+0037.032 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpmailsmtp_tasks_meta.table.gz (140/87): adding to final database dump
+0037.032 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_mobile_otp.table.tmpr0.gz (141/87): adding to final database dump
+0037.032 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_mobile_otp.table.gz (142/87): adding to final database dump
+0037.032 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_newsletter.table.tmpr0.gz (143/87): adding to final database dump
+0037.033 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_newsletter.table.gz (144/87): adding to final database dump
+0037.033 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_newsletter_history.table.tmpr0.gz (145/87): adding to final database dump
+0037.033 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_newsletter_history.table.gz (146/87): adding to final database dump
+0037.034 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_newsletter_send_history.table.tmpr0.gz (147/87): adding to final database dump
+0037.034 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_newsletter_send_history.table.gz (148/87): adding to final database dump
+0037.034 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_sms_app.table.tmpr0.gz (149/87): adding to final database dump
+0037.035 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_sms_app.table.gz (150/87): adding to final database dump
+0037.035 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_subgroups.table.tmpr0.gz (151/87): adding to final database dump
+0037.035 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_subgroups.table.gz (152/87): adding to final database dump
+0037.036 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_subgroups_subscribers.table.tmpr0.gz (153/87): adding to final database dump
+0037.036 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_subgroups_subscribers.table.gz (154/87): adding to final database dump
+0037.037 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_subscribers.table.tmpr0.gz (155/87): adding to final database dump
+0037.037 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_subscribers.table.gz (156/87): adding to final database dump
+0037.037 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_whatsapp_messages.table.tmpr0.gz (157/87): adding to final database dump
+0037.038 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_wpnotif_whatsapp_messages.table.gz (158/87): adding to final database dump
+0037.038 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_add_ons.table.tmpr2.gz (159/87): adding to final database dump
+0037.039 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_add_ons.table.gz (160/87): adding to final database dump
+0037.039 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_categories_to_groups.table.tmpr1001.gz (161/87): adding to final database dump
+0037.039 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_categories_to_groups.table.gz (162/87): adding to final database dump
+0037.040 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_groups.table.tmpr4.gz (163/87): adding to final database dump
+0037.040 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_groups.table.gz (164/87): adding to final database dump
+0037.041 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_products_to_groups.table.tmpr1001.gz (165/87): adding to final database dump
+0037.041 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_products_to_groups.table.gz (166/87): adding to final database dump
+0037.041 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_types.table.tmpr2.gz (167/87): adding to final database dump
+0037.042 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_types.table.gz (168/87): adding to final database dump
+0037.042 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_values.table.tmpr2.gz (169/87): adding to final database dump
+0037.043 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db-table-wp_za_values.table.gz (170/87): adding to final database dump
+0037.059 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db.gz: finished writing out complete database file (2584 KB)
+0037.100 (0) Total database tables backed up: 87 (backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db.gz, size: 2659291, sha1: 44d8ea27aa7184ce87dee193c7f304d4c727a3e4, sha256: 1183825fed378d570f20a915614c7488809bae71ba75ec6f1173425969aa1b37)
+0037.105 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0037.105 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0037.106 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0037.106 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0037.107 (0) backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0037.107 (0) Saving backup history. Total backup size: 230.9 MB
+0037.109 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0037.112 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0037.112 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e97673264f40d78ccbabd197102fbaf8)
+0039.864 (0) Google Drive: quota usage: used=6131.5 MB, total=10491891.5 MB, available=10485760 MB
+0039.865 (0) Google Drive: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip: Attempting to upload to Google Drive (into folder id: 1KZZf8H2yYpj88tfVSRF0S3eMyx0cr-vb)
+0041.444 (0) Googledrive chunked upload: 1.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.6 / 34)
+0042.534 (0) Googledrive chunked upload: 3.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.6 / 34)
+0043.697 (0) Googledrive chunked upload: 8.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 22.6 / 34)
+0045.104 (0) Googledrive chunked upload: 18.8 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 22.6 / 34)
+0046.940 (0) Googledrive chunked upload: 38.8 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 22.6 / 34)
+0049.579 (0) Googledrive chunked upload: 79 % uploaded (66060288)
+0052.296 (0) Googledrive chunked upload: 100 % uploaded (66060288)
+0052.298 (0) Google Drive: OK: Archive backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip uploaded in 12.43 seconds
+0052.299 (0) Recording as successfully uploaded: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip
+0052.304 (0) Deleting local file: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-plugins.zip: OK
+0052.822 (0) Google Drive: quota usage: used=6211.3 MB, total=10491971.3 MB, available=10485760 MB
+0052.822 (0) Google Drive: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip: Attempting to upload to Google Drive (into folder id: 1KZZf8H2yYpj88tfVSRF0S3eMyx0cr-vb)
+0054.362 (0) Googledrive chunked upload: 7.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.6 / 34)
+0055.464 (0) Googledrive chunked upload: 21.6 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.6 / 34)
+0056.656 (0) Googledrive chunked upload: 50.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 22.6 / 34)
+0058.892 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0058.894 (0) Google Drive: OK: Archive backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip uploaded in 6.07 seconds
+0058.895 (0) Recording as successfully uploaded: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip
+0058.896 (0) Deleting local file: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-themes.zip: OK
+0059.411 (0) Google Drive: quota usage: used=6225.2 MB, total=10491985.2 MB, available=10485760 MB
+0059.412 (0) Google Drive: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip: Attempting to upload to Google Drive (into folder id: 1KZZf8H2yYpj88tfVSRF0S3eMyx0cr-vb)
+0060.922 (0) Googledrive chunked upload: 0.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.6 / 34)
+0061.990 (0) Googledrive chunked upload: 2.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.6 / 34)
+0063.204 (0) Googledrive chunked upload: 5.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 22.6 / 34)
+0064.581 (0) Googledrive chunked upload: 11.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 22.6 / 34)
+0066.553 (0) Googledrive chunked upload: 23.9 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 22.6 / 34)
+0069.317 (0) Googledrive chunked upload: 48.6 % uploaded (66060288)
+0071.950 (0) Googledrive chunked upload: 73.3 % uploaded (99614720 - increasing chunk size to 65536 KB - memory usage: 22.6 / 34)
+0075.885 (0) Googledrive chunked upload: 100 % uploaded (99614720)
+0075.887 (0) Google Drive: OK: Archive backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip uploaded in 16.47 seconds
+0075.888 (0) Recording as successfully uploaded: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip
+0075.908 (0) Deleting local file: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-uploads.zip: OK
+0076.427 (0) Google Drive: quota usage: used=6354.7 MB, total=10492114.7 MB, available=10485760 MB
+0076.428 (0) Google Drive: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-others.zip: Attempting to upload to Google Drive (into folder id: 1KZZf8H2yYpj88tfVSRF0S3eMyx0cr-vb)
+0077.942 (0) Googledrive chunked upload: 19.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.6 / 36)
+0079.051 (0) Googledrive chunked upload: 57.9 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.6 / 36)
+0080.953 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0080.955 (0) Google Drive: OK: Archive backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-others.zip uploaded in 4.53 seconds
+0080.955 (0) Recording as successfully uploaded: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-others.zip
+0080.957 (0) Deleting local file: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-others.zip: OK
+0081.524 (0) Google Drive: quota usage: used=6359.9 MB, total=10492119.9 MB, available=10485760 MB
+0081.525 (0) Google Drive: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db.gz: Attempting to upload to Google Drive (into folder id: 1KZZf8H2yYpj88tfVSRF0S3eMyx0cr-vb)
+0083.076 (0) Googledrive chunked upload: 39.4 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.6 / 36)
+0084.963 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0084.966 (0) Google Drive: OK: Archive backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db.gz uploaded in 3.44 seconds
+0084.966 (0) Recording as successfully uploaded: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db.gz
+0084.969 (0) Deleting local file: backup_2021-07-18-2023_Jalapeno_Rocoto_Pepper_e5d3e20a4ec3-db.gz: OK
+0084.971 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0084.973 (0) Number of backup sets in history: 3; groups (db): 1
+0084.973 (0) Examining (for databases) backup set with group_id=0, nonce=e5d3e20a4ec3, datestamp=1626639837 (Jul 18 2021 20:23:57)
+0084.974 (0) This backup set is the backup set just made, so will not be deleted.
+0084.974 (0) Examining (for databases) backup set with group_id=0, nonce=cbaace5f7b4c, datestamp=1622473688 (May 31 2021 15:08:08)
+0084.974 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0084.974 (0) Examining (for databases) backup set with group_id=0, nonce=e44e03756c4e, datestamp=1621812506 (May 23 2021 23:28:26)
+0084.974 (0) 1621812506: db: this set includes a database (backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-db.gz); db count is now 2
+0084.974 (0) 1621812506: db: over retain limit (2); will delete this database
+0084.974 (0) Delete file: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-db.gz, service=googledrive
+0086.901 (0) Google Drive: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-db.gz: Deletion successful
+0086.903 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0086.903 (0) Number of backup sets in history: 3; groups (files): 1
+0086.904 (0) Examining (for files) backup set with nonce=e5d3e20a4ec3, datestamp=1626639837 (Jul 18 2021 20:23:57)
+0086.904 (0) This backup set is the backup set just made, so will not be deleted.
+0086.904 (0) This backup set is the backup set just made, so will not be deleted.
+0086.904 (0) This backup set is the backup set just made, so will not be deleted.
+0086.904 (0) This backup set is the backup set just made, so will not be deleted.
+0086.904 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0086.905 (0) Examining (for files) backup set with nonce=cbaace5f7b4c, datestamp=1622473688 (May 31 2021 15:08:08)
+0086.905 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0086.905 (0) Examining (for files) backup set with nonce=e44e03756c4e, datestamp=1621812506 (May 23 2021 23:28:26)
+0086.905 (0) plugins: over retain limit (2); will delete this file entity
+0086.905 (0) themes: over retain limit (2); will delete this file entity
+0086.905 (0) uploads: over retain limit (2); will delete this file entity
+0086.905 (0) others: over retain limit (2); will delete this file entity
+0086.905 (0) Delete file: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-plugins.zip, service=googledrive
+0086.905 (0) Delete file: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-themes.zip, service=googledrive
+0086.906 (0) Delete file: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-uploads.zip, service=googledrive
+0086.906 (0) Delete file: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-others.zip, service=googledrive
+0088.275 (0) Google Drive: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-others.zip: Deletion successful
+0088.945 (0) Google Drive: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-uploads.zip: Deletion successful
+0089.646 (0) Google Drive: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-themes.zip: Deletion successful
+0090.309 (0) Google Drive: backup_2021-05-23-2328_Jalapeno_Rocoto_Pepper_e44e03756c4e-plugins.zip: Deletion successful
+0090.312 (0) This backup set is now empty; will remove from history
+0090.312 (0) Corresponding log file (log.e44e03756c4e.txt) not found - must have already been deleted
+0090.313 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0090.317 (0) Resume backup (e5d3e20a4ec3, 0): finish run
+0090.318 (0) Decremented the semaphore (fd) by 1
+0090.319 (0) Semaphore (fd) unlocked
+0090.320 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0090.324 (0) No email will/can be sent - the user has not configured an email address.
+0090.324 (0) The backup apparently succeeded and is now complete

@@ -1,0 +1,1559 @@
+# Copyright (C) 2021 Reddoak Srl
+# This file is distributed under the same license as the Spoki - Chat Buttons and Woocommerce notifications plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spoki 2.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/spoki\n"
+"POT-Creation-Date: 2021-07-21T15:23:10+00:00\n"
+"PO-Revision-Date: 2021-07-21 17:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Domain: spoki\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Spoki - Chat Buttons and WooCommerce Notifications"
+msgstr "Spoki - Botones de WhatsApp y Notificaciones WooCommerce"
+
+#. Description of the plugin
+msgid "Integrate WhatsApp on your Business! Use Spoki to recover abandoned carts, add chat buttons and send order status notifications via WhatsApp."
+msgstr "¡Integre WhatsApp en su negocio! Use Spoki para recuperar carritos abandonados, agregar botones de chat y enviar notificaciones de estado de pedidos a través de WhatsApp."
+
+#. Author of the plugin
+msgid "Reddoak Srl"
+msgstr "Reddoak Srl"
+
+#. Author URI of the plugin
+msgid "https://reddoak.com"
+msgstr "https://reddoak.com"
+
+#: components/abandoned-carts-info-dialog.php:9 views/html-account-overview.php:68
+msgid "Earn Orders"
+msgstr "Obtenga pedidos"
+
+#: components/abandoned-carts-info-dialog.php:11 views/html-account-overview.php:70
+msgid ""
+"How cool would it be to <b>acquire lost customers</b> in the checkout phase? It is <b>the dream of every ecommerce</b>!\n"
+"<br/><br/>This feature is so in demand and <b>powerful</b> that it can cost up to &dollar; 600 / year and uses email alone as a communication (open rate of only 10&percnt;).\n"
+"<br/><br/>How nice would it be to hook up all the <b>very high quality carts</b> (with a mobile number already entered) and remind them <b>on WhatsApp</b> that they have left something in the cart?\n"
+"<br/><br/>The brand new Spoki feature is already available for FREE with an <b>open rate 5 times higher</b>!"
+msgstr ""
+"¿Qué tan genial sería <b> adquirir clientes perdidos </b> en la fase de pago? ¡Es <b> el sueño de todo comercio electrónico </b>!\n"
+"<br/> <br/> Esta función tiene tanta demanda y es <b> potente </b> que puede costar hasta & dollar; 600 / año y utiliza el correo electrónico solo como comunicación (tasa de apertura de solo 10 & porcnt;).\n"
+"<br/> <br/> Qué bueno sería conectar todos los <b> carritos de muy alta calidad </b> (con un número de teléfono móvil ya ingresado) y recordarles <b> en WhatsApp </b> que han dejado algo en el carro?\n"
+"<br/> <br/> ¡La nueva función Spoki ya está disponible GRATIS con una <b> tasa de apertura 5 veces mayor </b>!"
+
+#: components/buttons-info-dialog.php:9 views/html-account-overview.php:113
+msgid "Earn Customers"
+msgstr "Gana clientes"
+
+#: components/buttons-info-dialog.php:10
+msgid ""
+" <p style=\"font-size: 0.9rem\">Spoki allows you to show all kinds of WhatsApp buttons you want on your site, from the Fixed button to the product button, to the checkout button, which allow the customer to <b>write you directly on your WhatsApp number</b>!\n"
+"<br/><br/>Respond quickly and comfortably to your potential customers and take advantage of the WhatsApp communication channel to offer them promotions and <b>push them to purchase</b>!</p>"
+msgstr ""
+" <p style = “font-size: 0.9rem”>Spoki le permite mostrar todo tipo de botones de WhatsApp que desee en su sitio, desde el botón fijo hasta el botón de producto, pasando por el botón de pago, que le permite al cliente <b> escribirle directamente en tu número de WhatsApp </b>!\n"
+"<br/> <br/> ¡Responde rápida y cómodamente a tus clientes potenciales y aprovecha el canal de comunicación de WhatsApp para ofrecerles promociones y <b> empujarlos a comprar </b>!</p>"
+
+#: components/customer-notifications-info-dialog.php:9 views/html-account-overview.php:88
+msgid "Save Time"
+msgstr "Ahorre tiempo"
+
+#: components/customer-notifications-info-dialog.php:10 views/html-account-overview.php:89
+msgid ""
+" <p style=\"font-size: 0.9rem\">How many times has it happened to you that the customer has <b>asked you for the status of his order</b> despite the automatic WooCommerce email?\n"
+"<br/><br/>How challenging is it to have to <b>search</b> and send parcel <b>tracking information</b> every time that unfortunately WooCommerce does not manage?\n"
+"<br/><br/>How many <b>hours</b> do you or one of your collaborators <b>waste</b> each month forced to <b>stop what you were doing</b> to dedicate it to this type of support?\n"
+"<br/><br/>Here is Spoki's second earning opportunity: <b>Automatic Notifications on WhatsApp</b>!</p><ul>\n"
+"<li>• Everyone reads WhatsApp messages =></li>\n"
+"<li>• Everyone will read your order notifications =></li>\n"
+"<li>• Only customers who encounter problems will contact you =></li>\n"
+"<li>• You will reduce the time dedicated to this activity by 90% =></li>\n"
+"<li>• Devote this saved time to your most profitable activities =></li>\n"
+"<li>• Get a positive review wherever you like with the <b>review notification</b>!</li>\n"
+"</ul><p style=\"font-size: 0.9rem\"><br/>You have gained time and effort that until now you waste in this boring and repetitive activity.\n"
+"<br/><br/>You have increased the possibility of receiving a positive review and increasing the image of your e-commerce.\n"
+"<br/><br/>Enable all Free WooCommerce notifications and <b>stop wasting your time</b>!</p>"
+msgstr ""
+" <p style = “font-size: 0.9rem”> ¿Cuántas veces le ha sucedido que el cliente le ha <b> preguntado por el estado de su pedido </b> a pesar del correo electrónico automático de WooCommerce?\n"
+"<br/> <br/> ¿Qué tan difícil es tener que <b> buscar </b> y enviar <b> información de seguimiento </b> de paquetes cada vez que, lamentablemente, WooCommerce no administra?\n"
+"<br/> <br/> ¿Cuántas <b> horas </b> usted o uno de sus colaboradores <b> desperdicia </b> cada mes obligado a <b> dejar lo que estaba haciendo </b> para dedicarlo a este tipo de apoyo?\n"
+"<br/> <br/> Aquí está la segunda oportunidad de ganancias de Spoki: ¡<b> Notificaciones automáticas en WhatsApp </b>! </p> <ul>\n"
+"<li> • Todos leen los mensajes de WhatsApp => </li>\n"
+"<li> • Todos leerán las notificaciones de su pedido => </li>\n"
+"<li> • Solo los clientes que tengan problemas se comunicarán con usted => </li>\n"
+"<li> • Reducirás el tiempo dedicado a esta actividad en un 90% => </li>\n"
+"<li> • Dedique este tiempo ahorrado a sus actividades más rentables => </li>\n"
+"<li> • Obtenga una revisión positiva donde quiera con la <b> notificación de revisión </b>. </li>\n"
+"</ul> <p style = “font-size: 0.9rem”> <br/> Has ganado tiempo y esfuerzo que hasta ahora desperdicias en esta aburrida y repetitiva actividad.\n"
+"<br/> <br/> Has aumentado la posibilidad de recibir una opinión positiva y aumentar la imagen de tu ecommerce.\n"
+"<br/> <br/> ¡Habilite todas las notificaciones gratuitas de WooCommerce y <b> deje de perder el tiempo </b>! </p>"
+
+#. translators: %1$s: Abandoned Carts link.
+#: includes/page-setup.php:21
+msgid "<strong>Warning!</strong> Visitors may have abandoned their cart! Discover the new <a href=\"%1$s\">Abandoned Carts</a> feature and reduce dropout rates."
+msgstr "<strong>¡Advertencia!</strong> ¡Es posible que los visitantes hayan abandonado su carrito! Descubra la nueva función <a href=“%1$s”>Carros abandonados</a> y reduzca las tasas de abandono."
+
+#: includes/page-setup.php:28 spoki.php:196 spoki.php:197
+msgid "Spoki"
+msgstr "Spoki"
+
+#: includes/page-setup.php:35
+msgid "Please insert a valid telephone number!"
+msgstr "¡Introduce un número de teléfono válido!"
+
+#: includes/page-setup.php:37 includes/page-setup.php:65 spoki.php:189 views/html-account-overview.php:264 views/html-account-overview.php:392 views/html-account-overview.php:477 views/html-account-overview.php:528 views/html-account-overview.php:573 views/html-account-overview.php:620 views/html-account-overview.php:665 views/html-settings.php:21
+msgid "Settings"
+msgstr "Configuración"
+
+#: includes/page-setup.php:48 spoki.php:185
+msgid "Buttons"
+msgstr "Botones"
+
+#: includes/page-setup.php:51 spoki.php:186 views/html-account-overview.php:381 views/html-customer-notifications.php:23
+msgid "Customer Notifications"
+msgstr "Notificaciones a los clientes"
+
+#: includes/page-setup.php:55 spoki.php:187 views/html-account-overview.php:465
+msgid "Seller Notifications"
+msgstr "Notificaciones al vendedor"
+
+#: includes/page-setup.php:57 spoki.php:182 views/html-customer-notifications.php:74 views/html-customer-notifications.php:116
+msgid "New"
+msgstr "Nuevo"
+
+#: includes/page-setup.php:62 spoki.php:188 views/html-abandoned-carts.php:10 views/html-account-overview.php:251 views/html-customer-notifications.php:124 views/html-seller-notifications.php:57
+msgid "Abandoned Carts"
+msgstr "Carros abandonados"
+
+#: includes/page-setup.php:68
+msgid "Send from your phone number"
+msgstr "Enviar desde su número de teléfono"
+
+#: includes/page-setup.php:71 spoki.php:190 views/html-invite-friend.php:7
+msgid "Invite a friend"
+msgstr "Invitar a un amigo"
+
+#: includes/page-setup.php:92
+msgid "What's New?"
+msgstr "¿Qué hay de nuevo?"
+
+#: includes/page-setup.php:99
+msgid "Need Support?"
+msgstr "¿Necesita ayuda?"
+
+#: modules/abandoned-carts/spoki-abandoned-carts.php:171
+msgid "No Thanks"
+msgstr "No, gracias"
+
+#: modules/abandoned-carts/spoki-abandoned-carts.php:172
+msgid "You won't receive further emails from us, thank you!"
+msgstr "No recibirá más correos electrónicos nuestros, ¡gracias!"
+
+#: spoki.php:184
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: spoki.php:191 views/html-account-overview.php:24 views/html-account-overview.php:161 views/html-account-overview.php:186
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: spoki.php:910 views/html-buttons.php:217 views/html-buttons.php:308
+msgid "Chat with us 👋"
+msgstr "Habla con nosotros 👋"
+
+#: spoki.php:960 spoki.php:1035 views/html-buttons.php:618 views/html-buttons.php:795
+msgid "Request support on WhatsApp"
+msgstr "Solicita ayuda por WhatsApp"
+
+#: spoki.php:964 spoki.php:989 spoki.php:1039 views/html-buttons.php:636 views/html-buttons.php:813 views/html-buttons.php:990
+msgid "Hi, I want to buy:"
+msgstr "Hola, quiero comprar:"
+
+#: spoki.php:985 views/html-buttons.php:972
+msgid "Order via WhatsApp"
+msgstr "Ordena por WhatsApp"
+
+#: views/html-abandoned-carts.php:14
+msgid "<b>Send abandoned cart WhatsApp messages</b> to customers and reduce dropout rates."
+msgstr "<b>Envíe mensajes de WhatsApp sobre carritos abandonados</b> a los clientes y reduzca las tasas de abandono."
+
+#: views/html-abandoned-carts.php:23
+msgid "Enable Tracking"
+msgstr "Habilitar seguimiento"
+
+#: views/html-abandoned-carts.php:31
+msgid "Start capturing abandoned carts"
+msgstr "Empiece a capturar carros abandonados"
+
+#: views/html-abandoned-carts.php:33 views/html-account-overview.php:223 views/html-buttons.php:50 views/html-buttons.php:66 views/html-buttons.php:88 views/html-buttons.php:105 views/html-buttons.php:123 views/html-buttons.php:142 views/html-buttons.php:161 views/html-buttons.php:180 views/html-buttons.php:219 views/html-buttons.php:238 views/html-buttons.php:281 views/html-buttons.php:326 views/html-buttons.php:343 views/html-buttons.php:360 views/html-buttons.php:402 views/html-buttons.php:427 views/html-buttons.php:444 views/html-buttons.php:461 views/html-buttons.php:602 views/html-buttons.php:621 views/html-buttons.php:638 views/html-buttons.php:655 views/html-buttons.php:672 views/html-buttons.php:691 views/html-buttons.php:710 views/html-buttons.php:729 views/html-buttons.php:762 views/html-buttons.php:779 views/html-buttons.php:798 views/html-buttons.php:816 views/html-buttons.php:833 views/html-buttons.php:850 views/html-buttons.php:869 views/html-buttons.php:888
+#: views/html-buttons.php:907 views/html-buttons.php:940 views/html-buttons.php:975 views/html-buttons.php:992 views/html-buttons.php:1009 views/html-buttons.php:1026 views/html-buttons.php:1045 views/html-buttons.php:1064 views/html-buttons.php:1083 views/html-customer-notifications.php:100 views/html-customer-notifications.php:131 views/html-customer-notifications.php:207 views/html-onboarding.php:33 views/html-onboarding.php:72 views/html-onboarding.php:93 views/html-onboarding.php:114 views/html-seller-notifications.php:43 views/html-seller-notifications.php:64 views/html-settings.php:53 views/html-settings.php:112 views/html-settings.php:130
+msgid "Note"
+msgstr "Nota"
+
+#: views/html-abandoned-carts.php:33
+msgid "Cart will be considered abandoned if order is not completed in <b>15 minutes</b>"
+msgstr "El carrito se considerará abandonado si el pedido no se completa en <b>15 minutos</b>"
+
+#: views/html-abandoned-carts.php:40
+msgid "Notify recovery to admin"
+msgstr "Notificar la recuperación al administrador"
+
+#. translators: %1$s: Telephone
+#: views/html-abandoned-carts.php:51
+msgid "Send a <b>cart recovered notification</b> to your WhatsApp Telephone <small>(%1$s)</small>"
+msgstr "Envíe una <b>notificación de recuperación del carrito</b> a su teléfono de WhatsApp <small>(%1$s)</small>"
+
+#: views/html-abandoned-carts.php:60
+msgid "Enable Webhook"
+msgstr "Habilitar Webhook"
+
+#: views/html-abandoned-carts.php:64
+msgid "Spoki PRO"
+msgstr "Spoki PRO"
+
+#: views/html-abandoned-carts.php:75
+msgid " Allows you to trigger webhook automatically upon cart abandonment and recovery"
+msgstr " Le permite activar webhook automáticamente tras el abandono y la recuperación del carrito"
+
+#: views/html-abandoned-carts.php:82 views/html-buttons.php:9 views/html-buttons.php:1138 views/html-customer-notifications.php:8 views/html-customer-notifications.php:217 views/html-seller-notifications.php:9 views/html-seller-notifications.php:74
+msgid "Install and activate the <strong>WooCommerce</strong> plugin to enable the Spoki features for WooCommerce."
+msgstr "Instale y active el complemento <strong>WooCommerce</strong> para habilitar las funciones de Spoki para WooCommerce."
+
+#: views/html-account-overview.php:19 views/html-account-overview.php:181
+msgid "<b>Your available contacts are expiring!</b>"
+msgstr "<b>¡Tus contactos disponibles están caducando!</b>"
+
+#: views/html-account-overview.php:20 views/html-account-overview.php:182
+msgid "<b>Your available contacts are expired!</b>"
+msgstr "<b>¡Tus contactos disponibles están caducando!</b>"
+
+#: views/html-account-overview.php:49
+msgid "Earn with Spoki!"
+msgstr "¡Gana con Spoki!"
+
+#: views/html-account-overview.php:59
+msgid ""
+"<b>Everyone reads WhatsApp messages!</b><br/><br/>Spoki is a project that solves a big need: <b>to increase sales</b>!\n"
+"<br/><br/>One problem we continually encounter is that <b>no one reads emails</b>! This is why Spoki was born: <b>it increases the reading rate from 10% to 99%</b> simply by moving the conversation from traditional emails to WhatsApp.\n"
+"<br/><br/>Spoki allows you to <b>earn in 3 different ways</b>:"
+msgstr ""
+"<b> ¡Todo el mundo lee los mensajes de WhatsApp! </b> <br/> <br/> Spoki es un proyecto que resuelve una gran necesidad: ¡<b> aumentar las ventas </b>!\n"
+"<br/> <br/> ¡Un problema que encontramos continuamente es que <b> nadie lee correos electrónicos </b>! Por eso nació Spoki: <b> aumenta la tasa de lectura del 10% al 99% </b> simplemente moviendo la conversación de los correos electrónicos tradicionales a WhatsApp.\n"
+"<br/> <br/> Spoki le permite <b> ganar de 3 formas diferentes </b>:"
+
+#: views/html-account-overview.php:64
+msgid "Keep reading"
+msgstr "Sigue leyendo"
+
+#: views/html-account-overview.php:79
+msgid "Enable Abandoned Carts"
+msgstr "Habilitar carros abandonados"
+
+#: views/html-account-overview.php:84
+msgid "Abandoned Carts Enabled"
+msgstr "Habilitar carros abandonados"
+
+#: views/html-account-overview.php:106
+msgid "Enable Order Status Notifications"
+msgstr "Habilitar notificaciones de estado de pedidos"
+
+#: views/html-account-overview.php:110
+msgid "Order Status Notifications Enabled"
+msgstr "Notificaciones de estado del pedido habilitadas"
+
+#: views/html-account-overview.php:114
+msgid ""
+" <p style=\"font-size: 0.9rem\">The last great earning opportunity, totally free and always available, are the <b>WhatsApp buttons</b>.\n"
+"<br/><br/>Spoki allows you to show all kinds of WhatsApp buttons you want on your site, from the Fixed button to the product button, to the checkout button, which allow the customer to <b>write you directly on your WhatsApp number</b>!\n"
+"<br/><br/>Respond quickly and comfortably to your potential customers and take advantage of the WhatsApp communication channel to offer them promotions and <b>push them to purchase</b>!</p>"
+msgstr ""
+" <p style = “font-size: 0.9rem”> La última gran oportunidad de ganar, totalmente gratuita y siempre disponible, son los <b> botones de WhatsApp </b>.\n"
+"<br/> <br/> Spoki le permite mostrar todo tipo de botones de WhatsApp que desee en su sitio, desde el botón fijo hasta el botón de producto, pasando por el botón de pago, que le permite al cliente <b> escribirle directamente en tu número de WhatsApp </b>!\n"
+"<br/> <br/> ¡Responde rápida y cómodamente a tus clientes potenciales y aprovecha el canal de comunicación de WhatsApp para ofrecerles promociones y <b> empujarlos a comprar </b>! </p>"
+
+#: views/html-account-overview.php:120
+msgid "Customize Buttons"
+msgstr "Personalizar botones"
+
+#: views/html-account-overview.php:124
+msgid "Buttons Enabled"
+msgstr "Botones habilitados"
+
+#: views/html-account-overview.php:156
+msgid "Contacts overview"
+msgstr "Resumen de los contactos"
+
+#: views/html-account-overview.php:171
+msgid "Available contacts"
+msgstr "Contactos disponibles"
+
+#: views/html-account-overview.php:174
+msgid "New contacts to whom you can send unlimited messages until"
+msgstr "Nuevos contactos a los cuales puedes enviar mensajes ilimitados hasta"
+
+#: views/html-account-overview.php:175
+msgid "the current plan expiration date"
+msgstr "la fecha de caducidad del plan actual"
+
+#: views/html-account-overview.php:198
+msgid "Active contacts"
+msgstr "Contactos activos"
+
+#: views/html-account-overview.php:201
+msgid "Contacts you have sent at least one message since"
+msgstr "Contactos a los cuales has enviado al menos un mensaje desde"
+
+#: views/html-account-overview.php:202
+msgid "the activation date"
+msgstr "la fecha de activación"
+
+#. translators: %3$s: Plane price.
+#: views/html-account-overview.php:218
+msgid "Your plan <i>\"%1$s\"</i> will automatically renew the <i>%2$s</i> for the price of <b>%3$s</b>."
+msgstr "Tu plan <i>\"%1$s\"</i> se renovará automáticamente <i>%2$s</i> por le precio de <b>%3$s</b>."
+
+#: views/html-account-overview.php:223
+msgid "The contact is a person with whom you can send unlimited notifications during the monthly subscription period."
+msgstr "El contacto es una persona a la que puedes enviar notificaciones ilimitadas durante el período de suscripción mensual."
+
+#: views/html-account-overview.php:258 views/html-account-overview.php:284 views/html-account-overview.php:304 views/html-account-overview.php:326 views/html-account-overview.php:346 views/html-account-overview.php:366
+msgid "Enable tracking"
+msgstr "Habilitar seguimiento"
+
+#: views/html-account-overview.php:275
+msgid "Recoverable Orders"
+msgstr "Órdenes recuperables"
+
+#: views/html-account-overview.php:278
+msgid "Total recoverable orders"
+msgstr "Órdenes recuperables totales"
+
+#: views/html-account-overview.php:295
+msgid "Recovered Orders"
+msgstr "Órdenes recuperadas"
+
+#: views/html-account-overview.php:298
+msgid "Total recovered orders"
+msgstr "Órdenes recuperadas totales"
+
+#: views/html-account-overview.php:317
+msgid "Recoverable Revenue"
+msgstr "Ingresos recuperables"
+
+#: views/html-account-overview.php:320
+msgid "Total recoverable revenue"
+msgstr "Ingresos recuperables totales"
+
+#: views/html-account-overview.php:337
+msgid "Recovered Revenue"
+msgstr "Ingresos recuperados"
+
+#: views/html-account-overview.php:340
+msgid "Total recovered revenue"
+msgstr "Ingresos recuperados totales"
+
+#: views/html-account-overview.php:357
+msgid "Recovery Rate"
+msgstr "Índice de recuperación"
+
+#: views/html-account-overview.php:360
+msgid "Total recovery rate"
+msgstr "Tasa de recuperación total"
+
+#: views/html-account-overview.php:387 views/html-account-overview.php:471
+msgid "Enable notifications"
+msgstr "Permitir notificaciones"
+
+#: views/html-account-overview.php:404 views/html-customer-notifications.php:72
+msgid "Require a review"
+msgstr "Requerir una revisión"
+
+#: views/html-account-overview.php:408
+msgid "Total review request notifications sent"
+msgstr "Total de notificaciones de solicitud de revisión enviadas"
+
+#: views/html-account-overview.php:414 views/html-account-overview.php:433 views/html-account-overview.php:452 views/html-account-overview.php:499 views/html-buttons.php:40 views/html-buttons.php:590 views/html-buttons.php:750 views/html-buttons.php:928
+msgid "Enable"
+msgstr "Activar"
+
+#: views/html-account-overview.php:424
+msgid "Order status"
+msgstr "Estado del pedido"
+
+#: views/html-account-overview.php:427
+msgid "Total order status notifications sent (created, updated, deleted)"
+msgstr "Total de notificaciones de estado del pedido enviadas (creadas, actualizadas, eliminadas)"
+
+#: views/html-account-overview.php:443 views/html-customer-notifications.php:193
+msgid "Tracking number added"
+msgstr "Número de seguimiento añadido"
+
+#: views/html-account-overview.php:446
+msgid "Total tracking info notifications sent"
+msgstr "Total de notificaciones de información de seguimiento enviadas"
+
+#: views/html-account-overview.php:489 views/html-customer-notifications.php:139 views/html-seller-notifications.php:29
+msgid "Order created"
+msgstr "Pedido creado"
+
+#: views/html-account-overview.php:493
+msgid "Total order created notifications sent"
+msgstr "Total de notificaciones de órdenes creadas enviadas"
+
+#: views/html-account-overview.php:515 views/html-buttons.php:17 views/html-buttons.php:29
+msgid "Floating Button"
+msgstr "Botón flotante"
+
+#: views/html-account-overview.php:522 views/html-account-overview.php:548 views/html-account-overview.php:567 views/html-account-overview.php:593 views/html-account-overview.php:614 views/html-account-overview.php:640 views/html-account-overview.php:659 views/html-account-overview.php:685
+msgid "Customize"
+msgstr "Personalizar"
+
+#: views/html-account-overview.php:539 views/html-account-overview.php:584 views/html-account-overview.php:631 views/html-account-overview.php:676
+msgid "Clicks"
+msgstr "Clics"
+
+#: views/html-account-overview.php:542 views/html-account-overview.php:587 views/html-account-overview.php:634 views/html-account-overview.php:679
+msgid "Total clicks since the activation date"
+msgstr "Clics totales desde la fecha de activación"
+
+#: views/html-account-overview.php:560
+msgid "Shop Page Button"
+msgstr "Botón de la página de la tienda"
+
+#: views/html-account-overview.php:607
+msgid "Product Page Button"
+msgstr "Botón de página de producto"
+
+#: views/html-account-overview.php:652
+msgid "Cart Page Button"
+msgstr "Botón de la página del carrito"
+
+#: views/html-buttons.php:18 views/html-buttons.php:579
+msgid "Shop page"
+msgstr "Página de la tienda"
+
+#: views/html-buttons.php:19 views/html-buttons.php:739
+msgid "Product page"
+msgstr "Página del producto"
+
+#: views/html-buttons.php:20 views/html-buttons.php:917
+msgid "Cart page"
+msgstr "Página del carrito"
+
+#: views/html-buttons.php:21 views/html-buttons.php:1093
+msgid "Website Buttons"
+msgstr "Botones del sitio web"
+
+#: views/html-buttons.php:22 views/html-buttons.php:1114
+msgid "QR Code"
+msgstr "Código QR"
+
+#: views/html-buttons.php:33
+msgid "Insert the fixed WhatsApp chat button on your website and receive information requests from your customers, to your number."
+msgstr "Inserta el botón flotante de WhatsApp en tu sitio web y recibe solicitudes de información de tus clientes, a tu número."
+
+#: views/html-buttons.php:48 views/html-buttons.php:599 views/html-buttons.php:759 views/html-buttons.php:937
+msgid "Enable the button"
+msgstr "Activar el botón"
+
+#: views/html-buttons.php:50
+msgid "If you enable the chat button you make it visible on all pages of the site"
+msgstr "Habilitando el botón flotante de chat, lo hace visible en todas las páginas del sitio"
+
+#: views/html-buttons.php:57 views/html-buttons.php:302 views/html-buttons.php:628 views/html-buttons.php:805 views/html-buttons.php:982
+msgid "Customer Message"
+msgstr "Mensaje del cliente"
+
+#: views/html-buttons.php:64
+msgid "Hi, I would like to receive more information about your business"
+msgstr "Hola, me gustaría recibir más información sobre tu negocio"
+
+#: views/html-buttons.php:66
+msgid "Preset message in chat that the customer can send via button to start a conversation"
+msgstr "Mensaje preestablecido en chat que el cliente puede enviar a través del botón para iniciar una conversación"
+
+#: views/html-buttons.php:73
+msgid "Position"
+msgstr "Posición"
+
+#: views/html-buttons.php:80
+msgid "Left"
+msgstr "Izquierda"
+
+#: views/html-buttons.php:85
+msgid "Right"
+msgstr "Derecha"
+
+#: views/html-buttons.php:88
+msgid "Select where to display the button on the screen"
+msgstr "Selecciona dónde mostrar el botón en la pantalla"
+
+#: views/html-buttons.php:95 views/html-buttons.php:333 views/html-buttons.php:645 views/html-buttons.php:823 views/html-buttons.php:999
+msgid "Color"
+msgstr "Color"
+
+#: views/html-buttons.php:105 views/html-buttons.php:655 views/html-buttons.php:833 views/html-buttons.php:1009
+msgid "Set the background color of the button (Suggested: <i>#23D366</i> - <i>rgb(35, 211, 102)</i>)"
+msgstr "Establecer el color de fondo del botón (sugerido: <i>#23D366</i> - <i>rgb(35, 211, 102)</i>)"
+
+#: views/html-buttons.php:112 views/html-buttons.php:662 views/html-buttons.php:840 views/html-buttons.php:1016
+msgid "Border type"
+msgstr "Tipo de borde"
+
+#: views/html-buttons.php:118
+msgid "Circle"
+msgstr "Circular"
+
+#: views/html-buttons.php:119 views/html-buttons.php:669 views/html-buttons.php:847 views/html-buttons.php:1023
+msgid "Squared"
+msgstr "Cuadrado"
+
+#: views/html-buttons.php:120 views/html-buttons.php:668 views/html-buttons.php:846 views/html-buttons.php:1022
+msgid "Rounded"
+msgstr "Redondeado"
+
+#: views/html-buttons.php:123 views/html-buttons.php:672 views/html-buttons.php:850 views/html-buttons.php:1026
+msgid "Choose the button border type"
+msgstr "Elije el tipo de borde del botón"
+
+#: views/html-buttons.php:130
+msgid "Space from side"
+msgstr "Espacio del lado"
+
+#: views/html-buttons.php:142
+msgid "Set the space from the left/right side of the screen"
+msgstr "Establecer el espacio desde el lado izquierdo / derecho de la pantalla"
+
+#: views/html-buttons.php:149
+msgid "Space from bottom"
+msgstr "Espacio desde abajo"
+
+#: views/html-buttons.php:161
+msgid "Set the space from the bottom of the screen"
+msgstr "Establecer el espacio desde la parte inferior de la pantalla"
+
+#: views/html-buttons.php:168
+msgid "Size"
+msgstr "Tamaño"
+
+#: views/html-buttons.php:180
+msgid "Set the size of the button"
+msgstr "Establecer el tamaño del botón"
+
+#: views/html-buttons.php:187
+msgid "Chat widget"
+msgstr "Widget de chat"
+
+#: views/html-buttons.php:189
+msgid "The chat widget will be <b>shown on button click</b>."
+msgstr "El widget de chat se <b>se mostrará al hacer clic en el botón</b>."
+
+#: views/html-buttons.php:197
+msgid "Enable chat widget"
+msgstr "Habilitar el widget de chat"
+
+#: views/html-buttons.php:205
+msgid "Show chat widget on button click"
+msgstr "Mostrar widget de chat al hacer clic en el botón"
+
+#: views/html-buttons.php:211
+msgid "Your Message"
+msgstr "Tu mensaje"
+
+#: views/html-buttons.php:219
+msgid "Thi is the text of the message sent from you."
+msgstr "Este es el texto del mensaje enviado por usted."
+
+#: views/html-buttons.php:226 views/html-buttons.php:269 views/html-buttons.php:390
+msgid "Delay"
+msgstr "Delay"
+
+#: views/html-buttons.php:235 views/html-buttons.php:278 views/html-buttons.php:399
+msgid "seconds"
+msgstr "segundos"
+
+#: views/html-buttons.php:238
+msgid "Show the chat widget after this delay (0 = delay disabled)"
+msgstr "Mostrar el widget de chat después de este retraso (0 = retraso desactivado)"
+
+#: views/html-buttons.php:245
+msgid "Label"
+msgstr "Etiqueta"
+
+#: views/html-buttons.php:247
+msgid "Display a label for your floating button to entice the user to click on the button."
+msgstr "Muestre una etiqueta para su botón flotante para atraer al usuario a hacer clic en el botón."
+
+#: views/html-buttons.php:255
+msgid "Enable label"
+msgstr "Habilitar etiqueta"
+
+#: views/html-buttons.php:263
+msgid "Show label"
+msgstr "Mostrar etiqueta"
+
+#: views/html-buttons.php:281
+msgid "Show the label after this delay (0 = immediately)"
+msgstr "Mostrar la etiqueta después de este delay (0 = inmediatamente)"
+
+#: views/html-buttons.php:288
+msgid "Show on hover"
+msgstr "Mostrar al pasar el mouse"
+
+#: views/html-buttons.php:296
+msgid "Show label only on button hover"
+msgstr "Mostrar etiqueta solo al desplazar el botón"
+
+#: views/html-buttons.php:314 views/html-buttons.php:717 views/html-buttons.php:895 views/html-buttons.php:1071
+msgid "Font size"
+msgstr "Tamaño de fuente"
+
+#: views/html-buttons.php:326
+msgid "Set the font size of the label"
+msgstr "Establecer el tamaño de fuente de la etiqueta"
+
+#: views/html-buttons.php:343
+msgid "Set the color of the text of the label (Suggested: <i>#333333</i> - <i>rgb(51, 51, 51)</i>)"
+msgstr "Establezca el color del texto de la etiqueta (sugerido: <i>#333333</i> - <i>rgb(51, 51, 51)</i>)"
+
+#: views/html-buttons.php:350
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: views/html-buttons.php:360
+msgid "Set the background color of the label (Suggested: <i>#FFFFFF</i> - <i>rgb(255, 255, 255)</i>)"
+msgstr "Establezca el color de fondo de la etiqueta (sugerido: <i>#FFFFFF</i> - <i>rgb(255, 255, 255)</i>)"
+
+#: views/html-buttons.php:367
+msgid "Badge"
+msgstr "Badge"
+
+#: views/html-buttons.php:369
+msgid "Show the unread message badge to entice the user to click on the button."
+msgstr "Muestre la badge del mensaje no leído para incitar al usuario a hacer clic en el botón."
+
+#: views/html-buttons.php:376
+msgid "Enable badge"
+msgstr "Habilitar badge"
+
+#: views/html-buttons.php:384
+msgid "Show badge"
+msgstr "Mostrar badge"
+
+#: views/html-buttons.php:402
+msgid "Show the badge after this delay (0 = immediately)"
+msgstr "Mostrar la badge después de este delay (0 = inmediatamente)"
+
+#: views/html-buttons.php:409
+msgid "Visibility rules"
+msgstr "Reglas de visibilidad"
+
+#: views/html-buttons.php:411
+msgid "Set custom visibility rules for the floating button."
+msgstr "Establezca reglas de visibilidad personalizadas para el botón flotante."
+
+#: views/html-buttons.php:417
+msgid "Hide on Mobile"
+msgstr "Ocultar en el Móvil"
+
+#: views/html-buttons.php:425
+msgid "Hide Floating Button on Mobile"
+msgstr "Ocultar botón flotante en el Móvil"
+
+#: views/html-buttons.php:427
+msgid "The floating button will be hidden on mobile resolutions"
+msgstr "El botón flotante se ocultará en las resoluciones móviles"
+
+#: views/html-buttons.php:434
+msgid "Hide on Tablet"
+msgstr "Ocultar en Tableta"
+
+#: views/html-buttons.php:442
+msgid "Hide Floating Button on Tablet"
+msgstr "Ocultar botón flotante en Tableta"
+
+#: views/html-buttons.php:444
+msgid "The floating button will be hidden on tablet resolutions"
+msgstr "El botón flotante se ocultará en las resoluciones de la tableta"
+
+#: views/html-buttons.php:451
+msgid "Hide on Desktop"
+msgstr "Ocultar en el Desktop"
+
+#: views/html-buttons.php:459
+msgid "Hide Floating Button on Desktop"
+msgstr "Ocultar botón flotante en el desktop"
+
+#: views/html-buttons.php:461
+msgid "The floating button will be hidden on desktop resolutions"
+msgstr "El botón flotante se ocultará en las resoluciones de desktop"
+
+#: views/html-buttons.php:468
+msgid "Hide on Post Page"
+msgstr "Ocultar en la página de publicación"
+
+#: views/html-buttons.php:475
+msgid "Hide Floating Button on all Single Post pages"
+msgstr "Ocultar botón flotante en todas las páginas de publicación única"
+
+#: views/html-buttons.php:481
+msgid "Hide on Single Page"
+msgstr "Ocultar en una sola página"
+
+#: views/html-buttons.php:488
+msgid "Hide Floating Button on all Single pages"
+msgstr "Ocultar botón flotante en todas las páginas individuales"
+
+#: views/html-buttons.php:495
+msgid "Hide on Shop Page"
+msgstr "Ocultar en la página de la tienda"
+
+#: views/html-buttons.php:502
+msgid "Hide Floating Button on Shop page"
+msgstr "Ocultar botón flotante en la página de la tienda"
+
+#: views/html-buttons.php:508
+msgid "Hide on Product Page"
+msgstr "Ocultar en la página del producto"
+
+#: views/html-buttons.php:515
+msgid "Hide Floating Button on all Product Detail pages"
+msgstr "Ocultar botón flotante en todas las páginas de detalles del producto"
+
+#: views/html-buttons.php:521
+msgid "Hide on Cart Page"
+msgstr "Ocultar en la página del carrito"
+
+#: views/html-buttons.php:528
+msgid "Hide Floating Button on Cart page"
+msgstr "Ocultar botón flotante en la página del carrito"
+
+#: views/html-buttons.php:534
+msgid "Hide on Checkout"
+msgstr "Ocultar al finalizar la compra"
+
+#: views/html-buttons.php:541
+msgid "Hide Floating Button on Checkout pages"
+msgstr "Ocultar el botón flotante en las páginas de pago"
+
+#: views/html-buttons.php:547
+msgid "Hide on Page"
+msgstr "Ocultar en una página"
+
+#: views/html-buttons.php:551
+msgid "Hide Floating Button in a specific page"
+msgstr "Ocultar botón flotante en una página específica"
+
+#: views/html-buttons.php:553
+msgid "Copy the following snippet"
+msgstr "Copie el siguiente fragmento"
+
+#: views/html-buttons.php:553
+msgid "copy"
+msgstr "copiar"
+
+#: views/html-buttons.php:554
+msgid "Paste the snippet in an HTML block in the page where you want to hide the button"
+msgstr "Pegue el fragmento en un bloque HTML en la página donde desea ocultar el botón"
+
+#: views/html-buttons.php:555 views/html-buttons.php:1102 views/html-buttons.php:1123
+msgid "Enjoy"
+msgstr "Enjoy"
+
+#: views/html-buttons.php:582
+msgid "Add a WhatsApp button for every product in the WooCommerce Shop Page."
+msgstr "Agregue un botón de WhatsApp para cada producto en la página de la tienda de WooCommerce."
+
+#: views/html-buttons.php:602
+msgid "If you enable the chat button, you make it visible in the product list"
+msgstr "Habilitando el botón de chat, lo haces visible en la lista de productos"
+
+#: views/html-buttons.php:609 views/html-buttons.php:786 views/html-buttons.php:963
+msgid "Button text (CTA)"
+msgstr "Texto del botón (CTA)"
+
+#: views/html-buttons.php:621 views/html-buttons.php:798 views/html-buttons.php:975
+msgid "Enter the text visible on the button"
+msgstr "Pones el texto visible en el botón"
+
+#: views/html-buttons.php:638
+msgid "Preset message in chat that the customer can send via a button to request product information"
+msgstr "Mensaje preestablecido que el cliente puede enviar a través de un botón para solicitar información del producto"
+
+#: views/html-buttons.php:679 views/html-buttons.php:857 views/html-buttons.php:1033
+msgid "Spece before button"
+msgstr "Espacio antés del botón"
+
+#: views/html-buttons.php:691 views/html-buttons.php:869 views/html-buttons.php:1045
+msgid "Set the margin top value of the button"
+msgstr "Establecer el valor superior del margen del botón"
+
+#: views/html-buttons.php:698 views/html-buttons.php:876 views/html-buttons.php:1052
+msgid "Space after button"
+msgstr "Espacio después del botón"
+
+#: views/html-buttons.php:710 views/html-buttons.php:888 views/html-buttons.php:1064
+msgid "Set the margin bottom value of the button"
+msgstr "Establecer el valor del margen inferior del botón"
+
+#: views/html-buttons.php:729 views/html-buttons.php:907 views/html-buttons.php:1083
+msgid "Set the font size of the button"
+msgstr "Establecer el tamaño de fuente del botón"
+
+#: views/html-buttons.php:742
+msgid "Add the WhatsApp button on the WooCommerce Product Detail Page."
+msgstr "Agregue el botón de WhatsApp en la página de detalles del producto WooCommerce."
+
+#: views/html-buttons.php:762
+msgid "If you enable the chat button you make it visible in the product detail"
+msgstr "Habilitando el botón de chat lo haces visible en el detalle del producto"
+
+#: views/html-buttons.php:769
+msgid "Button position"
+msgstr "Posición del botón"
+
+#: views/html-buttons.php:775
+msgid "After Add to Cart Button"
+msgstr "Después del botón Agregar al carrito"
+
+#: views/html-buttons.php:776
+msgid "After Short Description"
+msgstr "Después de Breve Descripción"
+
+#: views/html-buttons.php:779
+msgid "Choose where to insert the chat button"
+msgstr "Elijes dónde insertar el botón de chat"
+
+#: views/html-buttons.php:816 views/html-buttons.php:992
+msgid "The customer will send you the following message via WhatsApp whenever press on this button"
+msgstr "El cliente enviará el siguiente mensaje vía WhatsApp cada vez que presiona este botón"
+
+#: views/html-buttons.php:920
+msgid "Add a WhatsApp button in the WooCommerce Cart Page."
+msgstr "Agregue un botón de WhatsApp en la página del carrito de WooCommerce."
+
+#: views/html-buttons.php:940
+msgid "If you enable the chat button you make it visible in the cart page"
+msgstr "Habilitando el botón de chat, lo haces visible en la página del carrito"
+
+#: views/html-buttons.php:947
+msgid "Hide \"Proceed to Checkout\" button"
+msgstr "Ocultar botón “Proceder al pago”"
+
+#: views/html-buttons.php:956
+msgid "Hide \"Proceed to Checkout\" button and show the WhatsApp button only in the cart page"
+msgstr "Ocultar el botón “Proceder al pago” y mostrar el botón de WhatsApp solo en la página del carrito"
+
+#: views/html-buttons.php:1096
+msgid "Generate WhatsApp Buttons to put anywhere in your website."
+msgstr "Genera botones de WhatsApp para poner en cualquier lugar de tu sitio web."
+
+#: views/html-buttons.php:1100
+msgid "Create the WhatsApp button"
+msgstr "Crea el botón de WhatsApp"
+
+#: views/html-buttons.php:1101
+msgid "Insert the snippet where you want"
+msgstr "Inserta el fragmento donde quieras"
+
+#: views/html-buttons.php:1107
+msgid "Create Button"
+msgstr "Botón Crear"
+
+#: views/html-buttons.php:1117
+msgid "Generate WhatsApp QR Code."
+msgstr "Genere el código QR de WhatsApp."
+
+#: views/html-buttons.php:1121
+msgid "Create the WhatsApp Qr Code"
+msgstr "Genere el código QR de WhatsApp"
+
+#: views/html-buttons.php:1122
+msgid "Print or insert the snippet where you want"
+msgstr "Imprime o inserta el fragmento donde quieras"
+
+#: views/html-buttons.php:1128
+msgid "Create QR Code"
+msgstr "Crear código QR"
+
+#: views/html-customer-notifications.php:16
+msgid "🎉 Congratulations! WhatsApp Notifications to customers enabled."
+msgstr "🎉 ¡Felicidades! Notificaciones de WhatsApp a clientes habilitadas."
+
+#: views/html-customer-notifications.php:19
+msgid "There are not active notifications."
+msgstr "No hay notificaciones activas."
+
+#: views/html-customer-notifications.php:20
+msgid "Enable all"
+msgstr "Activar todo"
+
+#: views/html-customer-notifications.php:27
+msgid "Send <b>order notifications via WhatsApp</b> to your customer."
+msgstr "Envíe <b> notificaciones de pedidos a través de WhatsApp </b> a su cliente."
+
+#: views/html-customer-notifications.php:28
+msgid "The custom fields (eg: <code>[FIRST_NAME]</code>) present within the templates, are fields that Spoki will automatically fill with information relating to the store."
+msgstr "Los campos personalizados (por ejemplo: <code>[FIRST_NAME]</code>) presentes dentro de las plantillas, son campos que Spoki completará automáticamente con información relacionada con la tienda."
+
+#: views/html-customer-notifications.php:38
+msgid "Notifications language"
+msgstr "Idioma de notificaciones"
+
+#: views/html-customer-notifications.php:51 views/html-settings.php:102
+msgid "English"
+msgstr "Inglés"
+
+#: views/html-customer-notifications.php:52 views/html-settings.php:103
+msgid "Italian"
+msgstr "Italiano"
+
+#: views/html-customer-notifications.php:53 views/html-settings.php:104
+msgid "Spanish"
+msgstr "Espáñol"
+
+#: views/html-customer-notifications.php:54 views/html-settings.php:105
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: views/html-customer-notifications.php:55 views/html-settings.php:106
+msgid "French"
+msgstr "Francés"
+
+#: views/html-customer-notifications.php:58
+msgid "Test notifications"
+msgstr "Prueba las notificaciones"
+
+#: views/html-customer-notifications.php:61 views/html-settings.php:109
+msgid "Your language is not in list?"
+msgstr "¿Tu idioma no está en la lista?"
+
+#: views/html-customer-notifications.php:61 views/html-settings.php:109
+msgid "Suggest messages"
+msgstr "Sugerir mensajes"
+
+#: views/html-customer-notifications.php:83
+msgid "Ask a public review to customer"
+msgstr "Solicite una revisión pública al cliente"
+
+#: views/html-customer-notifications.php:86
+msgid "<b>After 5 days</b> from the completion of the order the customer will receive a notification to leave a <b>review on the website you prefer</b>."
+msgstr "<b> Después de 5 días </b> desde la finalización del pedido, el cliente recibirá una notificación para dejar una <b> reseña en el sitio web que prefiera </b>."
+
+#: views/html-customer-notifications.php:89
+msgid "Insert the <b>Review Link</b>"
+msgstr "Inserte el <b> enlace de revisión </b>"
+
+#: views/html-customer-notifications.php:91
+msgid "The review link is the website where the customer can leave you a public review."
+msgstr "El enlace de revisión es el sitio web donde el cliente puede dejarle una revisión pública."
+
+#: views/html-customer-notifications.php:97
+msgid "https://google.com/my-website/review"
+msgstr "https://google.com/my-website/review"
+
+#: views/html-customer-notifications.php:100
+msgid "If you leave it empty the customer will send the review to your WhatsApp telephone"
+msgstr "Si lo deja vacío el cliente enviará la reseña a su teléfono de WhatsApp"
+
+#: views/html-customer-notifications.php:103
+msgid "Notification preview"
+msgstr "Vista previa de notificación"
+
+#: views/html-customer-notifications.php:106
+msgid "Hi [FIRST_NAME]! Thank you for purchasing from [SHOP_NAME]! How satisfied are you with your purchase? Leave us a review here [REVIEW_LINK]"
+msgstr "Hola [FIRST_NAME], ¡gracias por haber comprado en [SHOP_NAME]! ¿Cuánto estás satisfecho de tu compra? Déjanos una reseña aquí [REVIEW_LINK]"
+
+#: views/html-customer-notifications.php:114
+msgid "Abandoned carts"
+msgstr "Carros abandonados"
+
+#: views/html-customer-notifications.php:123 views/html-seller-notifications.php:56
+msgid "Enable from"
+msgstr "Habilitar desde"
+
+#: views/html-customer-notifications.php:127 views/html-seller-notifications.php:60
+msgid "Enabled"
+msgstr "Activado"
+
+#: views/html-customer-notifications.php:131
+msgid "Send abandoned cart WhatsApp messages to customers and reduce dropout rates."
+msgstr "Envíe mensajes de WhatsApp de carritos abandonados a los clientes y reduzca las tasas de abandono."
+
+#: views/html-customer-notifications.php:146 views/html-customer-notifications.php:164 views/html-customer-notifications.php:182 views/html-customer-notifications.php:200
+msgid "Enable notification"
+msgstr "Habilitar la notificación"
+
+#: views/html-customer-notifications.php:149
+msgid "👋 Hi [FIRST_NAME], your order n° \"[ORDER_NUMBER]\" 🛍 for the store [SHOP_NAME] has been created! 👍 Need support? ➡️➡️➡️ [CONTACT_LINK]"
+msgstr "👋 Hola [FIRST_NAME], tu número de pedido [ORDER_NUMBER] 🛍 de la tienda [SHOP_NAME] se ha creado 👍 ¿Necesitas ayuda? ➡️➡️➡️ [CONTACT_LINK] _no_ _contestes_ _a_ _este_ _mensaje_"
+
+#: views/html-customer-notifications.php:157
+msgid "Order updated"
+msgstr "Pedido actualizado"
+
+#: views/html-customer-notifications.php:167
+msgid "👋 Hi [FIRST_NAME], your order n° \"[ORDER_NUMBER]\" 🛍 for the store [SHOP_NAME] has been updated and its status is \"[ORDER_STATUS]\". Need support? ➡️➡️➡️ [CONTACT_LINK]"
+msgstr "👋 Hola [FIRST_NAME], tu número de pedido [ORDER_NUMBER] 🛍 de la tienda [SHOP_NAME] ha sido actualizado y su estado es [ORDER_STATUS] . 👍 ¿Necesitas ayuda? ➡️➡️➡️ [CONTACT_LINK]  _no_ _contestes_ _a_ _este_ _mensaje_"
+
+#: views/html-customer-notifications.php:175
+msgid "Order deleted"
+msgstr "Pedido anulado"
+
+#: views/html-customer-notifications.php:185
+msgid "👋 Hi [FIRST_NAME], your order n° \"[ORDER_NUMBER]\" 🛍 for the store [SHOP_NAME] has been updated and its status is CANCELED. Need support? ➡️➡️➡️ [CONTACT_LINK]"
+msgstr "👋 Hola, [FIRST_NAME], tu número de pedido \"[ORDER_NUMBER]\" 🛍 de la tienda [SHOP_NAME] ha sido actualizado y su estado es CANCELADO. ¿Necesitas ayuda? ➡️➡️➡️ [CONTACT_LINK] _no_ _contestes_ _a_ _este_ _mensaje_"
+
+#: views/html-customer-notifications.php:203
+msgid "👋 Hi [FIRST_NAME], your order n° \"[ORDER_NUMBER]\" 🛍 for the store [SHOP_NAME] has been shipped! 🚀 Here the shipping info: [SHIPPING_INFO] Need support? ➡️➡️➡️ [CONTACT_LINK]"
+msgstr "👋 Hola [FIRST_NAME], tu número de pedido [ORDER_NUMBER] 🛍 de la tienda [SHOP_NAME] ha sido enviado 🚀 Aquí está la información de envío: [SHIPPING_INFO]. 👍 ¿Necesitas ayuda? ➡️➡️➡️"
+
+#: views/html-customer-notifications.php:207
+msgid "All the fields relating to the Tracking Number are automatic except for the [SHIPPING_INFO] field that you will have to fill in by inserting in the note: “[tracking] followed by the tracking number” that you want to insert in the note. GLS integrates automatically!"
+msgstr "Todos los campos relacionados con el número de seguimiento son automáticos excepto el campo [ENVÍO_INFO] que deberá completar introduciendo en la nota: “[tracking] seguido del número de seguimiento” que desea introducir en la nota. ¡GLS se integra automáticamente!"
+
+#: views/html-invite-friend.php:10
+msgid "Earn <b>100 contacts for every friend</b> for FREE!"
+msgstr "¡Gana <b> 100 contactos por cada amigo </b> GRATIS!"
+
+#: views/html-invite-friend.php:14
+msgid "Tell your friend to download and activate the Spoki Plugin"
+msgstr "Dile a tu amigo que descargue y active el complemento Spoki"
+
+#: views/html-invite-friend.php:15
+msgid "Make sure your friend has entered the phone number in his Spoki Plugin"
+msgstr "Asegúrese de que su amigo haya ingresado el número de teléfono en su complemento Spoki"
+
+#: views/html-invite-friend.php:16
+msgid "Submit the friend's website url through the form below"
+msgstr "Envíe la URL del sitio web del amigo a través del formulario a continuación"
+
+#: views/html-invite-friend.php:17 views/html-invite-friend.php:27
+msgid "<b>You</b> will receive <b>100 contacts within 24h</b>"
+msgstr "<b>Recibirá</b> <b>100 contactos en 24 horas</b>"
+
+#: views/html-invite-friend.php:18 views/html-invite-friend.php:28
+msgid "Your <b>friend</b> will receive <b>100 contacts within 24h</b>"
+msgstr "Tu <b>amigo</b> recibirá <b>100 contactos en 24 horas</b>"
+
+#: views/html-invite-friend.php:19
+msgid "Invite as many friends as you want!"
+msgstr "¡Invita a tantos amigos como quieras!"
+
+#: views/html-invite-friend.php:22
+msgid "Contacts will be available for the current period"
+msgstr "Los contactos estarán disponibles para el período actual"
+
+#: views/html-invite-friend.php:25
+msgid "Notify us the friend you invited"
+msgstr "Avísanos el amigo que invitaste"
+
+#: views/html-invite-friend.php:30
+msgid "Friend's Website URL"
+msgstr "URL del sitio web de un amigo"
+
+#: views/html-invite-friend.php:35
+msgid "Submit"
+msgstr "Enviar"
+
+#: views/html-invite-friend.php:41
+msgid "insert a valid url"
+msgstr "insertar una URL válida"
+
+#: views/html-invite-friend.php:44
+msgid "Hi Spoki, I invited a friend with the website follow: "
+msgstr "Hola Spoki, invité a un amigo con el sitio web a seguir: "
+
+#: views/html-invite-friend.php:49
+msgid "Earn 100＋ available contacts for FREE"
+msgstr "Gana 100＋ contactos disponibles GRATIS"
+
+#: views/html-invite-friend.php:49
+msgid "invite a friend"
+msgstr "invitar a un amigo"
+
+#: views/html-news.php:7
+msgid "What's New in Spoki"
+msgstr "Novedades de Spoki"
+
+#: views/html-news.php:15
+msgid "Other changes"
+msgstr "Otros cambios"
+
+#: views/html-news.php:23
+msgid "Complete feature list"
+msgstr "Lista completa de funciones"
+
+#: views/html-onboarding.php:9 views/html-onboarding.php:46
+msgid "Welcome on Spoki!"
+msgstr "¡Bienvenido a Spoki!"
+
+#: views/html-onboarding.php:10
+msgid "Insert your WhatsApp phone number and start using <b>Free WhatsApp buttons</b> on your website!"
+msgstr "¡Inserta tu número de teléfono de WhatsApp y empieza a usar los <b> botones gratuitos de WhatsApp </b> en tu sitio web!"
+
+#: views/html-onboarding.php:15 views/html-onboarding.php:53 views/html-settings.php:34
+msgid "Your WhatsApp Telephone"
+msgstr "Tu número de telefono WhatsApp"
+
+#: views/html-onboarding.php:33 views/html-onboarding.php:72
+msgid "Your customers will send messages to this WhatsApp number."
+msgstr "Tus clientes enviarán mensajes a este número de WhatsApp."
+
+#: views/html-onboarding.php:47
+msgid "Confirm your shop info and start sending <b>FREE WhatsApp Notifications</b> to your customers about Orders and Abandoned Carts!"
+msgstr "¡Confirme la información de su tienda y comience a enviar <b> notificaciones de WhatsApp GRATIS </b> a sus clientes sobre pedidos y carritos abandonados!"
+
+#: views/html-onboarding.php:79 views/html-settings.php:60
+msgid "Shop Name"
+msgstr "Nombre de la tienda"
+
+#: views/html-onboarding.php:93
+msgid "Insert the name of your shop."
+msgstr "Inserta el nombre de tu tienda."
+
+#: views/html-onboarding.php:100 views/html-settings.php:74
+msgid "Your best email"
+msgstr "Tu mejor correo electrónico"
+
+#: views/html-onboarding.php:114
+msgid "We will send you your configuration keys to this email."
+msgstr "Te enviaremos tus llaves de configuración a este correo electrónico."
+
+#: views/html-onboarding.php:125 views/html-settings.php:327
+msgid "I accept"
+msgstr "Acepto"
+
+#: views/html-onboarding.php:126 views/html-settings.php:328
+msgid "general terms and conditions"
+msgstr "términos Generales y Condiciones"
+
+#: views/html-onboarding.php:127 views/html-settings.php:329
+msgid "for using the Spoki service and the"
+msgstr "para usar el servicio Spoki y el"
+
+#: views/html-onboarding.php:128 views/html-settings.php:330
+msgid "privacy policy"
+msgstr "política de privacidad"
+
+#: views/html-onboarding.php:133
+msgid "Enable Spoki Free"
+msgstr "Habilitar Spoki Free"
+
+#: views/html-seller-notifications.php:16
+msgid "Seller notifications"
+msgstr "Notificaciones del vendedor"
+
+#. translators: %1$s: WhatsApp Telephone.
+#: views/html-seller-notifications.php:20
+msgid "Send order notifications via WhatsApp <b>to your WhatsApp Telephone</b> (%1$s)."
+msgstr "Envíe notificaciones de pedidos a través de WhatsApp <b> a su teléfono de WhatsApp </b> (%1$s)."
+
+#: views/html-seller-notifications.php:36
+msgid "Get notified via WhatsApp on order creation"
+msgstr "Reciba notificaciones a través de WhatsApp sobre la creación de pedidos"
+
+#: views/html-seller-notifications.php:39
+msgid "Good news! You have just received an order amounting to [PRICE] on the [SHOP_NAME] store 🥳 Look at the detail [ORDER_LINK]"
+msgstr "¡Buenas noticias! Acabas de recibir un pedido de [PRICE] de la tienda [SHOP_NAME] 🥳 Mire el detalle [ORDER_LINK]"
+
+#: views/html-seller-notifications.php:43
+msgid "The message will be sent to your WhatsApp telephone."
+msgstr "El mensaje se enviará a su teléfono de WhatsApp."
+
+#: views/html-seller-notifications.php:50
+msgid "Cart recovery"
+msgstr "Recuperación del carrito"
+
+#: views/html-seller-notifications.php:64
+msgid "Send cart recovered notification to your WhatsApp Telephone"
+msgstr "Envíe la notificación de recuperación del carrito a su teléfono de WhatsApp"
+
+#: views/html-settings.php:19
+msgid "Your Spoki keys are not valid!"
+msgstr "¡Tus claves Spoki no son válidas!"
+
+#: views/html-settings.php:28
+msgid "Account info"
+msgstr "Información de cuenta"
+
+#: views/html-settings.php:29
+msgid "This account info will be used to let WhatsApp buttons work."
+msgstr "La información de esta cuenta se utilizará para que funcionen los botones de WhatsApp."
+
+#: views/html-settings.php:53
+msgid "Your customers will send messages to this WhatsApp number"
+msgstr "Tus clientes enviarán mensajes a este número de WhatsApp"
+
+#: views/html-settings.php:89
+msgid "Language"
+msgstr "Idioma"
+
+#: views/html-settings.php:112
+msgid "Choose the language of the WooCommerce messages to send to customers"
+msgstr "Elijes el idioma para enviar mensajes de WooCommerce a los clientes"
+
+#: views/html-settings.php:120
+msgid "Contact link"
+msgstr "Enlace de contacto"
+
+#: views/html-settings.php:126
+msgid "Reply to the WhatsApp telephone"
+msgstr "Responder al teléfono de WhatsApp"
+
+#: views/html-settings.php:130
+msgid "Enter the link where your customers can contact you after receiving the notification message.<br/>This link will come at the end of each WooCommerce notification message.<br/>If you leave empty the customers will reply to your WhatsApp telephone."
+msgstr "Ingrese el enlace donde sus clientes pueden comunicarse con usted después de recibir el mensaje de notificación. <br/> Este enlace aparecerá al final de cada mensaje de notificación de WooCommerce. <br/> Si lo deja vacío, los clientes responderán a su teléfono de WhatsApp."
+
+#: views/html-settings.php:147
+msgid "Spoki keys"
+msgstr "Llaves Spoki"
+
+#: views/html-settings.php:148
+msgid "Enter here the keys we emailed you to send automatic notifications with WooCommerce."
+msgstr "Introducir aquí las llaves que te enviamos por correo electrónico para enviar notificaciones automáticas con WooCommerce."
+
+#: views/html-settings.php:151
+msgid "Current Spoki Plan"
+msgstr "Plan de Spoki actual"
+
+#: views/html-settings.php:157
+msgid "Change plan"
+msgstr "Cambio de plan"
+
+#: views/html-settings.php:159
+msgid "There is no associated Spoki plan.<br/>If you already have a Spoki account insert your Spoki keys below, if not"
+msgstr "No tienes un plan Spoki asociado. <br/> Si ya tienes una cuenta Spoki, inserta tus llaves Spoki a continuación, si no"
+
+#: views/html-settings.php:160
+msgid "enable Spoki Free"
+msgstr "habilitar Spoki Free"
+
+#: views/html-settings.php:167
+msgid "Spoki Delivery URL"
+msgstr "URL de entrega de Spoki"
+
+#: views/html-settings.php:173
+msgid "Spoki Secret"
+msgstr "Spoki Secret"
+
+#: views/html-settings.php:177
+msgid "Valid keys!"
+msgstr "¡Llaves válidas!"
+
+#: views/html-settings.php:179
+msgid "Invalid keys"
+msgstr "LLaves inválidas"
+
+#: views/html-settings.php:186
+msgid "Billing data"
+msgstr "Datos de facturación"
+
+#: views/html-settings.php:187
+msgid "If you have a Spoki subscription plan we will send you an invoice with these billing data."
+msgstr "Si tienes un plan de suscripción de Spoki, te enviaremos una factura con estos datos de facturación."
+
+#: views/html-settings.php:192
+msgid "VAT Name"
+msgstr "Nombre fiscal"
+
+#: views/html-settings.php:205
+msgid "Address"
+msgstr "Dirección"
+
+#: views/html-settings.php:218
+msgid "Zip Code"
+msgstr "Código postal"
+
+#: views/html-settings.php:231
+msgid "City"
+msgstr "Ciudad"
+
+#: views/html-settings.php:244
+msgid "Province"
+msgstr "Provincia"
+
+#: views/html-settings.php:257
+msgid "Country"
+msgstr "País"
+
+#: views/html-settings.php:270
+msgid "VAT Number"
+msgstr "Número de IVA"
+
+#: views/html-settings.php:283
+msgid "Fiscal Code"
+msgstr "Código fiscal"
+
+#: views/html-settings.php:296
+msgid "PEC"
+msgstr "Correo Electrónico Certificado"
+
+#: views/html-settings.php:309
+msgid "SID"
+msgstr "SID"
+
+#. translators: %2$s: Support link.
+#: views/html-spoki-overview.php:5
+msgid ""
+"<h1>Spoki</h1>\n"
+"<b>Integrate WhatsApp to your eCommerce!</b>\n"
+"<h2>With Spoki you can:</h2>\n"
+"<ul>\n"
+"<li>🛒 Recover abandoned carts via WhatsApp</li>\n"
+"<li>🛍 Increase your sales in simple and automatic way</li>\n"
+"<li>🖥 Insert the Whatsapp Floating Button on your website</li>\n"
+"<li>🛍 Insert Whatsapp Chat Buttons For WooCommerce (Shop page, Product page, Cart page)</li>\n"
+"<li>💬 Send multilanguage WooCommerce notifications via WhatsApp to your customers</li>\n"
+"</ul>\n"
+"<a href=%1$s target=\"_blank\">Demo</a> | <a href=%2$s target=\"_blank\">What is Spoki?</a> | <a href=%3$s target=\"_blank\">Support</a>\n"
+"<h2>🚀 The advantages of using Spoki in your Business</h2>\n"
+"<p>Spoki gives you the ability to:</p>\n"
+"<ul>\n"
+"<li>- Increase your sales recovering the Abandoned Cart</li>\n"
+"<li>- Integrate WhatsApp in you communication strategy</li>\n"
+"<li>- Communicate quickly and directly with your customers via WhatsApp</li>\n"
+"<li>- Be on the most used communication channel in the world</li>\n"
+"<li>- Achieve a competitive advantage over your competitors who use less user friendly communication channels</li>\n"
+"<li>- Insert different chat buttons within your site</li>\n"
+"<li>- Make your customer's shopping experience more immersive and engaging</li>\n"
+"<li>- Use a more efficient communication channel than traditional ones (SMS, Email, ...)</li>\n"
+"<li>- Reach message open rates close to 100&percnt;</li>\n"
+"<li>- Interact more easily with your customers</li>\n"
+"<li>- No account activation costs</li>\n"
+"</ul>\n"
+"<h2>Why choose Spoki 🤩</h2>\n"
+"<ul>\n"
+"<li>- Send messages to recover abandoned carts on WhatsApp</li>\n"
+"<li>- Open rate massages close to 100%</li>\n"
+"<li>- Receive messages on your WhatsApp number</li>\n"
+"<li>- Use Official WhatsApp APIs</li>\n"
+"<li>- Ready to use (configurable in less than 1 minute)</li>\n"
+"<li>- Free WhatsApp floating button</li>\n"
+"<li>- WooCommerce buttons</li>\n"
+"<li>- Customize messages and CTA</li>\n"
+"<li>- Send order status notifications automatically via WhatsApp</li>\n"
+"<li>- Send unlimited messages to your customers</li>\n"
+"<li>- Multilanguage notifications</li>\n"
+"<li>- 100&percnt; compatible with WooCommerce</li>\n"
+"</ul>"
+msgstr ""
+"<h1>Spoki</h1>\n"
+"<b>Integra WhatsApp en tu eCommerce!</b>\n"
+"<h2>Con Spoki puedes:</h2>\n"
+"<ul>\n"
+"<li> 🛒Recuperar carritos abandonados a través de WhatsApp </li>\n"
+"<li> 🛍Aumente sus ventas de forma sencilla y automática </li>\n"
+"<li>🖥 Agrega el botón flotante WhatsApp en tu sitio web</li>\n"
+"<li>🛍 Agrega el botón flotante WhatsApp para WooCommerce (página de la tienda, página del producto, página del carrito)</li>\n"
+"<li>💬 Envía notificaciones WooCommerce en varios idiomas via WhatsApp a tus clientes</li>\n"
+"</ul>\n"
+"<a href=%1$s target=\"_blank\">Demo</a> | <a href=%2$s target=\"_blank\">Qué es Spoki?</a> | <a href=%3$s target=\"_blank\">Asistencia</a>\n"
+"<h2>🚀 Las ventajas de usar Spoki en tu negocio</h2>\n"
+"<p>Spoki te da la posibilidad:</p>\n"
+"<ul>\n"
+"<li>- Incrementa tus ventas recuperando el carrito abandonado</li>\n"
+"<li>- Integra WhatsApp en tu estrategia de comunicación</li>\n"
+"<li>- Comunicar rápidamente y directamente con tus clientes a través de WhatsApp</li>\n"
+"<li>- Estar en el canal de comunicación más utilizado del mundo</li>\n"
+"<li>- Lograr una ventaja competitiva sobre tus competidores que utilizan canales de comunicación menos conocidos</li>\n"
+"<li>- Introducir diferentes botones de chat en tu sitio web</li>\n"
+"<li>- Hacer que la experiencia de compra de tu cliente sea más atractiva</li>\n"
+"<li>- Ahorro con respecto al envío de mensajes tradicionales(SMS)</li>\n"
+"<li>- Alcanzar tasas de apertura de mensajes cercanas a 100&percnt;</li>\n"
+"<li>- Comunica más fácilmente con tus clientes</li>\n"
+"<li>- Sin costos de activación</li>\n"
+"</ul>\n"
+"<h2>Por qué elegir Spoki 🤩</h2>\n"
+"<ul>\n"
+"<li> - Finalizar mensajes para recuperar carritos abandonados en WhatsApp</li>\n"
+"<li> - Masajes de tasa de apertura cercana al 100&percnt;</li>\n"
+"<li>- Ve mensajes en tu número de WhatsApp</li>\n"
+"<li>- Uso de API oficiales de WhatsApp</li>\n"
+"<li>- Listo para usar (configurable en menos de 1 minuto)</li>\n"
+"<li>- Botón flotante de chat gratuito</li>\n"
+"<li>- Botones WooCommerce</li>\n"
+"<li>- Mensajes personalizables y botones de chat CTA</li>\n"
+"<li>- Notificas automáticas de actualización del estado del pedido</li>\n"
+"<li>- Mensajes ilimitados a contactos</li>\n"
+"<li>- Notificaciones en varios idiomas</li>\n"
+"<li>- 100&percnt; compatible con WooCommerce</li>\n"
+"</ul>"
+
+#: views/html-use-your-phone.php:7
+msgid "Upgrade to <b>Spoki PRO</b>"
+msgstr "Actualice a <b>Spoki PRO</b>"
+
+#: views/html-use-your-phone.php:10
+msgid "Start sending <b>custom notifications from your phone</b> number and much more!"
+msgstr "¡Empiece a enviar <b> notificaciones personalizadas desde su número de teléfono </b> y mucho más!"
+
+#: views/html-use-your-phone.php:14
+msgid "Send notifications from <b>your phone number</b>"
+msgstr "Envía notificaciones desde <b>tu número de teléfono</b>"
+
+#: views/html-use-your-phone.php:15
+msgid "<b>Customize messages</b>"
+msgstr "<b>Personalizar mensajes</b>"
+
+#: views/html-use-your-phone.php:16
+msgid "Show <b>your company logo</b> and info associated to the number"
+msgstr "Muestre el <b>logotipo de su empresa</b> y la información asociada al número"
+
+#: views/html-use-your-phone.php:17
+msgid "Send automatic messages with <b>automations</b>"
+msgstr "Envía mensajes automáticos con <b>automatizaciones</b>"
+
+#: views/html-use-your-phone.php:18
+msgid "Send <b>marketing and promotional</b> messages in automations"
+msgstr "Envíe mensajes <b>promocionales y de marketing</b> en automatizaciones"
+
+#: views/html-use-your-phone.php:19
+msgid "<b>Chat</b> with your customers"
+msgstr "<b>Chatea</b> con tus clientes"
+
+#: views/html-use-your-phone.php:20
+msgid "Use the <b>Spoki WebApp Platform</b> where you want"
+msgstr "Utilice la <b>Plataforma Web Spoki</b> donde desee"
+
+#: views/html-use-your-phone.php:25
+msgid "Contact Us"
+msgstr "Contacta con nosotras"
+
+#~ msgid "Review"
+#~ msgstr "Realimentación"
+
+#~ msgid "Enable \"Seller Notifications\" for FREE"
+#~ msgstr "Habilita las “Notificaciones del vendedor” GRATIS"
+
+#~ msgid "Added info tooltips"
+#~ msgstr "Información sobre herramientas de información agregada"
+
+#~ msgid "Admin phone number live validation to prevent bad telephones"
+#~ msgstr "Validación en vivo del número de teléfono del administrador para evitar teléfonos defectuosos"
+
+#~ msgid "Improved \"Require a review\" communication"
+#~ msgstr "Comunicación mejorada “Requerir una revisión”"
+
+#~ msgid "Removed \"new\" badge for abandoned cart"
+#~ msgstr "Se eliminó la insignia “nueva” para el carrito abandonado"
+
+#~ msgid "UI fixes"
+#~ msgstr "Correcciones de UI"
+
+#~ msgid "Feedback"
+#~ msgstr "Feedback"
+
+#~ msgid "Send review notification <b>after 5 days</b> from the completion of the order"
+#~ msgstr "Enviar una notificación de revisión <b> después de 5 días </b> desde la finalización del pedido"
+
+#~ msgid "[REVIEW_LINK]"
+#~ msgstr "[REVIEW_LINK]"
+
+#~ msgid "Put the website link to get a public review <i>or</i> <b>leave empty to get review to your WhatsApp telephone</b>"
+#~ msgstr "Coloque el enlace del sitio web para obtener una revisión pública <i> o </i> <b> déjelo en blanco para obtener una revisión en su teléfono de WhatsApp </b>"
+
+#~ msgid "Allow Abandoned Carts feature for FREE"
+#~ msgstr "Permitir la función de carros abandonados GRATIS"
+
+#~ msgid "Auto enable abandoned carts after wc onboarding"
+#~ msgstr "Habilitar automáticamente los carros abandonados después de la incorporación de wc"
+
+#~ msgid "Put Cart recovery notification in Seller Notifications section"
+#~ msgstr "Coloque la notificación de recuperación del carrito en la sección Notificaciones del vendedor"
+
+#~ msgid "Upgrade Plan and get notified!"
+#~ msgstr "¡Actualice el plan y reciba una notificación!"
+
+#~ msgid "Pick a Spoki paid plan to start getting notified via WhatsApp on order creation."
+#~ msgstr "Elija un plan pago de Spoki para comenzar a recibir notificaciones a través de WhatsApp sobre la creación de pedidos."
+
+#~ msgid "Upgrade Plan"
+#~ msgstr "Actualiza el Plan"
+
+#~ msgid "Email"
+#~ msgstr "Correo electrónico"
+
+#~ msgid "This option will send an email to <i>%1$s</i> on new order recovery"
+#~ msgstr "Esta opción enviará un correo electrónico a <i>%1$s</i> sobre la recuperación de un nuevo pedido"
+
+#~ msgid "Upgrade Plan and start capturing abandoned carts!"
+#~ msgstr "¡Actualice el plan y comience a capturar carros abandonados!"
+
+#~ msgid "Pick a Spoki paid plan to start capturing abandoned carts and reducing dropout rates."
+#~ msgstr "Elija un plan pago de Spoki para comenzar a capturar carros abandonados y reducir las tasas de deserción."
+
+#~ msgid "Lost Orders"
+#~ msgstr "Órdenes perdidas"
+
+#~ msgid "Total lost orders"
+#~ msgstr "Órdenes perdidas totales"
+
+#~ msgid "Statistics in Dashboard"
+#~ msgstr "Estadísticas en el tablero"
+
+#~ msgid "Put product WA button after buy now buttons if exists"
+#~ msgstr "Coloque el botón WA del producto después de los botones Comprar ahora si existe"
+
+#~ msgid "Attached Spoki in WooCommerce submenu"
+#~ msgstr "Spoki adjunto en el submenú WooCommerce"
+
+#~ msgid "Images in FAB settings for Label & badge"
+#~ msgstr "Imágenes en la configuración de FAB para etiquetas e insignias"
+
+#~ msgid "Reorganized menu"
+#~ msgstr "Menú reorganizado"
+
+#~ msgid "Added \"What's New\" tab"
+#~ msgstr "Se agregó la pestaña “Novedades”"
+
+#~ msgid "Discover the free features of Spoki Free!"
+#~ msgstr "¡Descubre las funciones gratuitas de Spoki Free!"
+
+#~ msgid "Do you already have Spoki?"
+#~ msgstr "¿Ya tienes a Spoki?"
+
+#~ msgid "Insert your Spoki keys"
+#~ msgstr "Inserta tus llaves Spoki"
+
+#~ msgid "Dashboard"
+#~ msgstr "Pantalla principal"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"
+
+#~ msgid "Pick a plan"
+#~ msgstr "Elige un plan"
+
+#~ msgid "Notifications activated succesfully!"
+#~ msgstr "¡Notificaciones activadas con éxito!"
+
+#~ msgid "Pop-up"
+#~ msgstr "Ventana emergente"
+
+#~ msgid "Enable pop-up"
+#~ msgstr "Habilitar ventana emergente"
+
+#~ msgid "Show pop-up"
+#~ msgstr "Mostrar ventanas emergentes"
+
+#~ msgid "Show the pop-up after this delay (0 = immediately)"
+#~ msgstr "Mostrar la ventana emergente después de este retraso (0 = inmediatamente)"
+
+#~ msgid "Add WhatsApp chat button on your website and send WooCommerce status order notifications using WhatsApp!"
+#~ msgstr "¡Integra el botón de chat de WhatsApp en tu sitio web y envía notificaciones de cambio estado de los pedidos WooCommerce usando WhatsApp!"
+
+#~ msgid "Would you be happy to have the abandoned carts feature?"
+#~ msgstr "¿Estaría feliz de tener la función de carritos abandonados?"
+
+#~ msgid "Let us know!"
+#~ msgstr "¡Haznos saber!"
+
+#~ msgid "Disable all"
+#~ msgstr "Desactivar todo"

@@ -1,0 +1,12 @@
+[29-Sep-2020 04:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jalapenorocotope/public_html/wp-content/themes/majesty/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jalapenorocotope/public_html/wp-content/themes/majesty/index.php on line 10
+[23-May-2021 22:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jalapenorocotope/public_html/wp-content/themes/majesty/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jalapenorocotope/public_html/wp-content/themes/majesty/index.php on line 10
+[25-May-2021 04:30:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jalapenorocotope/public_html/wp-content/themes/majesty/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/jalapenorocotope/public_html/wp-content/themes/majesty/index.php on line 10

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<nombre><![CDATA[GLUTTEN FREE]]></nombre>
+		<descripcion><![CDATA[(SOFT HANDMADE CORN TORTILLA)		
+Choice Style (Classic or American), Choice Meat.]]></descripcion>
+		<descripcion2><![CDATA[]]></descripcion2>
+		<precio><![CDATA[3.5]]></precio>
+		<atribute><![CDATA[fish,Shrimp]]></atribute>
+		<category><![CDATA[taco]]></category>
+		<tag><![CDATA[taco]]></tag>
+	</node>
+	<node>
+		<nombre><![CDATA[TRADITIONAL]]></nombre>
+		<descripcion><![CDATA[
+CLASSIC STYLE					
+Corn Tortilla comes with cilantro and onion. Choice of Meat.]]></descripcion>
+		<descripcion2><![CDATA[]]></descripcion2>
+		<precio><![CDATA[2.25]]></precio>
+		<atribute><![CDATA[Chorizo, Shredded Beef ( Birria), Grilled Chicken-Pollo, Grilled Steak-Asada, Ground Beef (Carne Molina), Marinated Pork-Pastor, Shredded Pork-Carnitas, Veggie  Sautéed Seasonal Veggies]]></atribute>
+		<category><![CDATA[taco]]></category>
+		<tag><![CDATA[taco]]></tag>
+	</node>
+	<node>
+		<nombre><![CDATA[AMERICAN STYLE    ]]></nombre>
+		<descripcion><![CDATA[Flour Tortilla with Lettuce, Pico de Gallo, Cheese and Sour Cream. Choice of Meat.]]></descripcion>
+		<descripcion2><![CDATA[]]></descripcion2>
+		<precio><![CDATA[2.25]]></precio>
+		<atribute><![CDATA[Chorizo, Shredded Beef ( Birria), Grilled Chicken-Pollo, Grilled Steak-Asada, Ground Beef (Carne Molina), Marinated Pork-Pastor, Shredded Pork-Carnitas, Veggie  Sautéed Seasonal Veggies]]></atribute>
+		<category><![CDATA[taco]]></category>
+		<tag><![CDATA[taco]]></tag>
+	</node>
+	<node>
+		<nombre><![CDATA[TEX-MEX STYLE ]]></nombre>
+		<descripcion><![CDATA[
+Crispy Corn taco shell: comes with Lettuce, Pico de Gallo, 
+Cheese, and Sour Cream. Choice of Meat.]]></descripcion>
+		<descripcion2><![CDATA[]]></descripcion2>
+		<precio><![CDATA[2.25]]></precio>
+		<atribute><![CDATA[Chorizo, Shredded Beef ( Birria), Grilled Chicken-Pollo, Grilled Steak-Asada, Ground Beef (Carne Molina), Marinated Pork-Pastor, Shredded Pork-Carnitas, Veggie  Sautéed Seasonal Veggies]]></atribute>
+		<category><![CDATA[taco]]></category>
+		<tag><![CDATA[taco]]></tag>
+	</node>
+	<node>
+		<nombre><![CDATA[TACO PLATE CLASSIC OR AMERICAN STYLE ]]></nombre>
+		<descripcion><![CDATA[
+Comes with three tacos, white rice, and beans. Choice of Meat]]></descripcion>
+		<descripcion2><![CDATA[]]></descripcion2>
+		<precio><![CDATA[9.99]]></precio>
+		<atribute><![CDATA[Chorizo, Shredded Beef ( Birria), Grilled Chicken-Pollo, Grilled Steak-Asada, Ground Beef (Carne Molina), Marinated Pork-Pastor, Shredded Pork-Carnitas, Veggie  Sautéed Seasonal Veggies]]></atribute>
+		<category><![CDATA[taco]]></category>
+		<tag><![CDATA[taco]]></tag>
+	</node>
+	<node>
+		<nombre><![CDATA[TACO PLATE TEX-MEX STYLE   10.99]]></nombre>
+		<descripcion><![CDATA[
+Comes with three tacos, rice, and beans. Choice of Meat.]]></descripcion>
+		<descripcion2><![CDATA[]]></descripcion2>
+		<precio><![CDATA[10.99]]></precio>
+		<atribute><![CDATA[]]></atribute>
+		<category><![CDATA[taco]]></category>
+		<tag><![CDATA[taco]]></tag>
+	</node>
+	<node>
+		<nombre><![CDATA[SEAFOOD TACO
+
+SEAFOOD STYLE				]]></nombre>
+		<descripcion><![CDATA[Comes with Cabbage, Thousand Island Dressing, Pico de Gallo, and sliced Avocado, served with Sour Cream on top. Choice Tortilla (Flour or Corn). Choice of Fish or Shrimp.]]></descripcion>
+		<descripcion2><![CDATA[]]></descripcion2>
+		<precio><![CDATA[3.25]]></precio>
+		<atribute><![CDATA[]]></atribute>
+		<category><![CDATA[taco]]></category>
+		<tag><![CDATA[taco]]></tag>
+	</node>
+</data>

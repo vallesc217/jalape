@@ -1,0 +1,12 @@
+[29-Aug-2020 04:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jalapenorocotope/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jalapenorocotope/public_html/wp-content/plugins/hello.php on line 69
+[01-Dec-2020 22:08:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jalapenorocotope/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jalapenorocotope/public_html/wp-content/plugins/hello.php on line 69
+[01-Dec-2020 22:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/jalapenorocotope/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/jalapenorocotope/public_html/wp-content/plugins/hello.php on line 69

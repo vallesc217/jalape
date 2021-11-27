@@ -1,0 +1,236 @@
+# Translation of Plugins - WP FullCalendar - Development (trunk) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - WP FullCalendar - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-11 13:35:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - WP FullCalendar - Development (trunk)\n"
+
+#: wpfc-admin.php:292
+msgid "Yes"
+msgstr "Si"
+
+#: wpfc-admin.php:292
+msgid "No"
+msgstr "No"
+
+#: wpfc-admin.php:198
+msgid "Height"
+msgstr "Altura"
+
+#: wpfc-admin.php:162
+msgid "Custom"
+msgstr "Personalizado"
+
+#: wp-fullcalendar.php:326
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Description of the plugin/theme
+msgid "Uses the jQuery FullCalendar plugin to create a stunning calendar view of events, posts and eventually other CPTs. Integrates well with Events Manager"
+msgstr "Utiliza el plugin jQuery FullCalendar para crear maravillosos calendarios de eventos, entradas y eventualmente otros CPTs. Se integra bien con Events Manager"
+
+#. Author URI of the plugin/theme
+msgid "http://msyk.es"
+msgstr "http://msyk.es"
+
+#. Author of the plugin/theme
+msgid "Marcus Sykes"
+msgstr "Marcus Sykes"
+
+#. Plugin Name of the plugin/theme
+msgid "WP FullCalendar"
+msgstr "WP FullCalendar"
+
+#: wpfc-admin.php:213
+msgid "Submit Changes"
+msgstr "Guardar cambios"
+
+#: wpfc-admin.php:207
+msgid "Write the page IDs where you will display the FullCalendar on so CSS and JS files are only included on these pages. For multiple pages, use comma-seperated values e.g. 1,2,3. Leaving this blank will load our CSS and JS files on EVERY page, enter -1 for the home page."
+msgstr "Escriba las ID de página donde mostrará el FullCalendar para que los archivos CSS y JS solo se incluyan en estas páginas. Para varias páginas, use valores separados por comas, ej. 1,2,3. Si lo deja en blanco, nuestros archivos CSS y JS se cargarán en TODAS las página, ingrese -1 para la página de inicio."
+
+#: wpfc-admin.php:207
+msgid "Load JS and CSS files on"
+msgstr "Cargar archivos JS y CSS en"
+
+#: wpfc-admin.php:204
+msgid "JS and CSS Files (Optimization)"
+msgstr "Archivos JS y CSS (Optimización)"
+
+#: wpfc-admin.php:197
+msgid "Width"
+msgstr "Ancho"
+
+#: wpfc-admin.php:195
+msgid "Featured image size"
+msgstr "Tamaño de la imagen destacada"
+
+#: wpfc-admin.php:192
+msgid "If your post has a featured image, it will be included as a thumbnail."
+msgstr "Si tu entrada tiene una imagen destacada, se incluirá como miniatura."
+
+#: wpfc-admin.php:192
+msgid "Enable featured image?"
+msgstr "¿Habilitar imagen destacada?"
+
+#: wpfc-admin.php:190
+msgid "Tooltip pointer position"
+msgstr "Posición del cursor en descripción emergente"
+
+#: wpfc-admin.php:185
+msgid "If your chosen tooltip style doesn't already do/prevent this, you can add a CSS3 drop-shadow effect to your tooltip."
+msgstr "Si el estilo de la descripción emergente no hace/previene esto, puedes añadir un efecto de sombra CSS3 a la descripción emergente."
+
+#: wpfc-admin.php:185
+msgid "Add shadow to tooltips?"
+msgstr "¿Añadir sombra a la descripción emergente?"
+
+#: wpfc-admin.php:191
+msgid "Choose where your tooltip will be situated relative to the event link which triggers the tooltip."
+msgstr "Escoge donde se ubicará la ventana de descripción emergente en relación con el enlace del evento que activa esta ventana."
+
+#: wpfc-admin.php:191
+msgid "Tooltip bubble position"
+msgstr "Posición de la ventana de descripción emergente"
+
+#: wpfc-admin.php:190
+msgid "Choose where the pointer will be situated on your tooltip."
+msgstr "Elegir donde se ubicará el cursor en la ventana de descripción emergente."
+
+#: wpfc-admin.php:184
+msgid "If your chosen tooltip style doesn't already do/prevent this, you can add rounded corners using CSS3."
+msgstr "Si el estilo de la ventana de descripción emergente no hace/previene esto, puedes agregar esquinas redondeadas usando CSS3."
+
+#: wpfc-admin.php:184
+msgid "Rounded tooltips?"
+msgstr "¿Ventana de descripción emergente redondeada?"
+
+#: wpfc-admin.php:183
+msgid "You can choose from one of these preset styles for your tooltip."
+msgstr "Puedes elegir cualquier de estos estilos preestablecidos para tu ventana de descripción emergente."
+
+#: wpfc-admin.php:183
+msgid "Tooltip style"
+msgstr "Estilo de ventana de descripción emergente"
+
+#: wpfc-admin.php:178
+msgid "Enable event tooltips?"
+msgstr "¿Habilitar ventanas de descripción emergente en eventos?"
+
+#: wpfc-admin.php:175
+msgid "You can use <a href=\"http://craigsworks.com/projects/qtip2/\">jQuery qTips</a> to show excerpts of your events within a tooltip when hovering over a specific event on the calendar. You can control the content shown, positioning and style of the tool tips below."
+msgstr "Puedes usar <a href=\"http://craigsworks.com/projects/qtip2/\">jQuery qTips</a> para mostrar extractos de tus eventos dentro de tu ventana de descripción emergente cuando pasas el cursor sobre un evento especifico en el calendario. Puedes controlar el contenido que se muestra, posición y estilo de la ventana de descripción emergente a continuación."
+
+#: wpfc-admin.php:174
+msgid "Tooltips"
+msgstr "Ventanas de descripción emergentes"
+
+#: wpfc-admin.php:169
+msgid "You can use the jQuery UI CSS framework to style the calendar, and choose from a set of themes below."
+msgstr "Puedes utilizar el framework jQuery UI CSS para darle estilo al calendario, y elegir desde un conjunto de temas a continuación."
+
+#: wpfc-admin.php:156
+msgid "Built-In"
+msgstr "Incorporado"
+
+#: wpfc-admin.php:155
+msgid "No Theme"
+msgstr "Sin tema"
+
+#: wpfc-admin.php:152
+msgid "jQuery CSS Theme?"
+msgstr "Tema jQuery CSS"
+
+#: wpfc-admin.php:133
+msgid "View events link"
+msgstr "Ver enlace de eventos"
+
+#: wpfc-admin.php:132
+msgid "Events limit"
+msgstr "Límite de eventos"
+
+#: wpfc-admin.php:131
+msgid "Time Format"
+msgstr "Formato de hora"
+
+#: wpfc-admin.php:130
+msgid "Default View"
+msgstr "Vista predeterminada"
+
+#: wpfc-admin.php:18
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: wpfc-admin.php:114
+msgid "Calendar Options"
+msgstr "Opciones de calendario"
+
+#: wpfc-admin.php:120
+msgid "Available Views"
+msgstr "Vistas disponibles"
+
+#: wpfc-admin.php:70
+msgid "Post Types"
+msgstr "Tipos de Publicaciones"
+
+#: wpfc-admin.php:138
+msgid "You can select from a set of pre-made CSS themes, which are taken from the <a href=\"%s\">jQuery Theme Roller</a> gallery. If you roll your own theme, upload the CSS file and images folder to <code>wp-content/yourtheme/plugins/wp-fullcalendar/</code> and refresh this page, it should appear an option in the pull down menu below."
+msgstr "Puede seleccionar entre un conjunto de temas CSS prefabricados, que se toman de la galería <a href=\"%s\"> jQuery Theme Roller </a>. Si desarrolla su propio tema, cargue el archivo CSS y la carpeta de imágenes a <code>wp-content/yourtheme/plugins/wp-fullcalendar/</code> y actualice esta página, debería aparecer una opción en el menú desplegable a continuación ."
+
+#: wpfc-admin.php:137
+msgid "jQuery UI Themeroller"
+msgstr "jQuery UI Themeroller"
+
+#: wpfc-admin.php:133
+msgid "When the limit of events is shown for one day, this text will be used for the link to the calendar day page."
+msgstr "Cuando se muestra el límite de eventos para un día, este texto se utilizará para el enlace a la página de día del calendario."
+
+#: wpfc-admin.php:132
+msgid "Enter the maximum number of events to show per day, which will then be preceded by a link to the calendar day page."
+msgstr "Ingrese el número máximo de eventos que se muestran por día, que luego será precedido por un enlace a la página de día del calendario."
+
+#: wpfc-admin.php:131
+msgid "Set the format used for showing the times on the calendar, <a href=\"%s\">see possible combinations</a>. Leave blank for no time display."
+msgstr "Establece el formato utilizado para mostrar las horas en el calendario, <a href=\"%s\">ver combinaciones posibles</a>. Dejarlo en blanco para que no se muestre la hora."
+
+#: wpfc-admin.php:130
+msgid "Choose the default view to be displayed when the calendar is first shown."
+msgstr "Elegir la vista por defecto que se mostrará cuando el calendario aparezca por primera vez."
+
+#: wpfc-admin.php:126
+msgid "Users will be able to select from these views when viewing the calendar."
+msgstr "Los usuarios podrán seleccionar entre estas vistas cuando vean el calendario."
+
+#: wpfc-admin.php:65
+msgid "To use this plugin, simply use the %s shortcode in one of your posts or pages."
+msgstr "Para usar este plugin, simplemente utiliza el %s shortcode en una de tus entradas o páginas."
+
+#: wpfc-admin.php:90
+msgid "Choose which taxonomies you want to see listed as search options on the calendar."
+msgstr "Elige qué taxonomías deseas ver en listadas como opciones de búsqueda en el calendario."
+
+#: wpfc-admin.php:75
+msgid "In both cases, the values you should use are in (parenteses) below."
+msgstr "En ambos casos, los valores que debes usar están entre (paréntesis) a continuación."
+
+#: wpfc-admin.php:74
+msgid "You can override taxonomy search settings as well like this %s."
+msgstr "Puedes anular la configuración de búsqueda de taxonomías también así %s."
+
+#: wpfc-admin.php:73
+msgid "You can override these settings by choosing your post type in your shortode like this %s."
+msgstr "Puedes anular esta configuración eligiendo su tipo de publicación en tu shortode así %s."
+
+#: wpfc-admin.php:71
+msgid "By default, your calendar will show the types of posts based on settings below."
+msgstr "Por defecto, tu calendario mostrará los tipos de publicaciones según los ajustes a continuación."
+
+#: wpfc-admin.php:66
+msgid "You can also do this with PHP and this snippet : %s."
+msgstr "También puedes hacer esto con PHP y este fragmento: %s."

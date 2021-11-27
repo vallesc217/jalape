@@ -1,0 +1,2811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPNotif: WordPress SMS & WhatsApp Notifications\n"
+"POT-Creation-Date: 2020-12-02 16:30+0530\n"
+"PO-Revision-Date: 2020-12-02 16:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpnotif.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: gateways/app/handler.php:110
+msgid "Please enter your purchase code in WPNotif settings!"
+msgstr ""
+
+#: gateways/app/handler.php:119
+msgid "Invalid Request!"
+msgstr ""
+
+#: gateways/app/handler.php:124
+msgid "Please regenerate QR Code from WPNotif settings!"
+msgstr ""
+
+#: gateways/app/handler.php:254
+msgid "No Data Found!"
+msgstr ""
+
+#: gateways/app/handler.php:271 gateways/app/handler.php:309
+#: gateways/app/handler.php:332 includes/edit_number.php:246
+#: includes/functions.php:1597 includes/functions.php:1763
+#: includes/newsletter/user_functions.php:93
+#: includes/newsletter/user_functions.php:118
+#: includes/newsletter/user_functions.php:127
+msgid "Error"
+msgstr "خطأ"
+
+#: gateways/app/handler.php:341 includes/newsletter/newsletter.php:858
+#: includes/newsletter/newsletter.php:860
+#: includes/newsletter/user_groups.php:1304
+#: includes/newsletter/user_groups.php:1306
+msgid "Error! Unauthorized access"
+msgstr ""
+
+#: includes/admin_functions.php:64
+#, fuzzy
+#| msgid "Username"
+msgid "User Role"
+msgstr "اسم المستخدم"
+
+#: includes/admin_functions.php:96
+#, fuzzy
+#| msgid "Username"
+msgid "Users"
+msgstr "اسم المستخدم"
+
+#: includes/core/installer.php:44
+#, fuzzy
+#| msgid "Invalid Purchase Code"
+msgid "Please enter a valid purchase code"
+msgstr "رمز الشراء غير صالح"
+
+#: includes/core/installer.php:54
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: includes/core/installer.php:66
+msgid "Error while verifying your addon license."
+msgstr ""
+
+#: includes/core/installer.php:87
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: includes/edit_number.php:61 includes/newsletter/user_groups.php:866
+#: includes/plugins/gravityforms/form_settings.php:228
+msgid "First Name"
+msgstr ""
+
+#: includes/edit_number.php:70 includes/newsletter/user_groups.php:867
+#: includes/plugins/gravityforms/form_settings.php:236
+msgid "Last Name"
+msgstr ""
+
+#: includes/edit_number.php:79 includes/gateway_list.php:133
+#: includes/gateway_list.php:392
+#: includes/plugins/gravityforms/form_settings.php:244
+msgid "Email"
+msgstr ""
+
+#: includes/edit_number.php:100
+msgid "OTP"
+msgstr ""
+
+#: includes/edit_number.php:110 includes/newsletter/user_functions.php:177
+msgid "Subscribe"
+msgstr ""
+
+#: includes/edit_number.php:142 includes/edit_number.php:297
+#, fuzzy
+#| msgid "Invalid Mobile Number"
+msgid "Mobile Number"
+msgstr "خطأ في رقم الهاتف"
+
+#: includes/edit_number.php:184 includes/newsletter/user_functions.php:104
+msgid "Please enter a valid phone number!"
+msgstr ""
+
+#: includes/edit_number.php:192
+msgid "Please enter a valid email!"
+msgstr ""
+
+#: includes/functions.php:331
+#, fuzzy
+#| msgid "Username"
+msgid "WPNotif User Consent"
+msgstr "اسم المستخدم"
+
+#: includes/functions.php:798
+#, php-format
+msgid "and %s item"
+msgstr ""
+
+#: includes/functions.php:800
+#, php-format
+msgid "and %s items"
+msgstr ""
+
+#: includes/functions.php:1614 includes/functions.php:1705
+#: includes/functions.php:1753
+msgid "Invalid Mobile Number"
+msgstr "خطأ في رقم الهاتف"
+
+#: includes/functions.php:1620
+msgid "Please enter a valid message!"
+msgstr ""
+
+#: includes/functions.php:1669
+msgid "Error: Message template not found!"
+msgstr ""
+
+#: includes/functions.php:1702
+msgid "Message Sent"
+msgstr "تم إرسال الرسالة بنجاح"
+
+#: includes/gateway_functions.php:48
+msgid "Alphabetical Order"
+msgstr ""
+
+#: includes/gateway_functions.php:87 includes/gateway_list.php:919
+#: wpnotif.php:824
+msgid "Mobile"
+msgstr "الهاتف"
+
+#: includes/gateway_functions.php:88
+msgid "SMS App"
+msgstr ""
+
+#: includes/gateway_functions.php:90
+msgid "Daily SMS Limit"
+msgstr ""
+
+#: includes/gateway_functions.php:91 includes/gateway_functions.php:119
+#, fuzzy
+#| msgid "Phone Number"
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: includes/gateway_functions.php:91 includes/gateway_functions.php:119
+msgid "with + and country code"
+msgstr ""
+
+#: includes/gateway_functions.php:91 includes/gateway_functions.php:119
+msgid "with only country code"
+msgstr ""
+
+#: includes/gateway_functions.php:91 includes/gateway_functions.php:119
+msgid "without country code"
+msgstr ""
+
+#: includes/gateway_functions.php:92 wpnotif.php:612
+msgid "QR Code"
+msgstr ""
+
+#: includes/gateway_functions.php:92 wpnotif.php:615
+#, fuzzy
+#| msgid "App Secret"
+msgid "App Setup QR"
+msgstr "الرمز السري الخاص بالتطبيق"
+
+#: includes/gateway_functions.php:93 wpnotif.php:620
+#, fuzzy
+#| msgid "Kenya"
+msgid "Key"
+msgstr "كينيا"
+
+#: includes/gateway_functions.php:93 wpnotif.php:622
+msgid "Key (for manual setup)"
+msgstr ""
+
+#: includes/gateway_functions.php:94 wpnotif.php:671
+msgid "download"
+msgstr ""
+
+#: includes/gateway_functions.php:94 wpnotif.php:675
+msgid "Download Android App"
+msgstr ""
+
+#: includes/gateway_functions.php:104
+msgid "Enter Parameters separated by \",\" and values by \":\""
+msgstr ""
+
+#: includes/gateway_functions.php:110
+#, fuzzy
+#| msgid "Gateway"
+msgid "Custom Gateway"
+msgstr "البوابة"
+
+#: includes/gateway_functions.php:111
+msgid "Custom"
+msgstr ""
+
+#: includes/gateway_functions.php:113
+#, fuzzy
+#| msgid "SMS Gateway"
+msgid "SMS Gateway URL"
+msgstr "بوابة الارسال"
+
+#: includes/gateway_functions.php:114
+msgid "HTTP Header"
+msgstr ""
+
+#: includes/gateway_functions.php:114
+msgid "Headers separated by \",\""
+msgstr ""
+
+#: includes/gateway_functions.php:115
+msgid "HTTP Method"
+msgstr ""
+
+#: includes/gateway_functions.php:116
+msgid "Gateway Parameters"
+msgstr ""
+
+#: includes/gateway_functions.php:117
+msgid "Send as Body Data"
+msgstr ""
+
+#: includes/gateway_functions.php:118
+#, fuzzy
+#| msgid "Message"
+msgid "Encode Message"
+msgstr "الرسالة"
+
+#: includes/gateway_functions.php:118
+msgid "URL Encode"
+msgstr ""
+
+#: includes/gateway_functions.php:118
+#: includes/plugins/contactform7/form_settings.php:110
+#: includes/plugins/gravityforms/form_settings.php:209
+msgid "No"
+msgstr ""
+
+#: includes/gateway_functions.php:118
+#, fuzzy
+#| msgid "Countries"
+msgid "Convert To Unicode"
+msgstr "بلدان"
+
+#: includes/gateway_functions.php:120 includes/gateway_list.php:1005
+#: wpnotif.php:762 wpnotif.php:774 wpnotif.php:813 wpnotif.php:885
+#: wpnotif.php:980 wpnotif.php:1444 wpnotif.php:1449 wpnotif.php:1469
+#: wpnotif.php:1474
+msgid "Sender ID"
+msgstr "هوية (رقم) المرسل"
+
+#: includes/gateway_list.php:22 includes/gateway_list.php:88
+#: includes/gateway_list.php:134 includes/gateway_list.php:142
+#: includes/gateway_list.php:169 includes/gateway_list.php:186
+#: includes/gateway_list.php:213 includes/gateway_list.php:238
+#: includes/gateway_list.php:284 includes/gateway_list.php:299
+#: includes/gateway_list.php:356 includes/gateway_list.php:375
+#: includes/gateway_list.php:383 includes/gateway_list.php:427
+#: includes/gateway_list.php:481 includes/gateway_list.php:506
+#: includes/gateway_list.php:593 includes/gateway_list.php:601
+#: includes/gateway_list.php:668 includes/gateway_list.php:696
+#: includes/gateway_list.php:712 includes/gateway_list.php:720
+#: includes/gateway_list.php:880 includes/gateway_list.php:900
+#: includes/gateway_list.php:910 includes/gateway_list.php:965
+#: includes/gateway_list.php:994 includes/gateway_list.php:1014 wpnotif.php:658
+#: wpnotif.php:736 wpnotif.php:749 wpnotif.php:791 wpnotif.php:812
+#: wpnotif.php:836 wpnotif.php:843 wpnotif.php:876 wpnotif.php:904
+#: wpnotif.php:914 wpnotif.php:953 wpnotif.php:970 wpnotif.php:1483
+#: wpnotif.php:1488
+msgid "API Key"
+msgstr "مفتاح API"
+
+#: includes/gateway_list.php:29 includes/gateway_list.php:1003
+#: includes/gateway_list.php:1015 wpnotif.php:933 wpnotif.php:943
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: includes/gateway_list.php:30 includes/gateway_list.php:46
+#: includes/gateway_list.php:98 includes/gateway_list.php:116
+#: includes/gateway_list.php:161 includes/gateway_list.php:178
+#: includes/gateway_list.php:195 includes/gateway_list.php:204
+#: includes/gateway_list.php:222 includes/gateway_list.php:248
+#: includes/gateway_list.php:257 includes/gateway_list.php:266
+#: includes/gateway_list.php:275 includes/gateway_list.php:325
+#: includes/gateway_list.php:341 includes/gateway_list.php:365
+#: includes/gateway_list.php:374 includes/gateway_list.php:393
+#: includes/gateway_list.php:410 includes/gateway_list.php:419
+#: includes/gateway_list.php:437 includes/gateway_list.php:446
+#: includes/gateway_list.php:464 includes/gateway_list.php:473
+#: includes/gateway_list.php:490 includes/gateway_list.php:499
+#: includes/gateway_list.php:515 includes/gateway_list.php:542
+#: includes/gateway_list.php:551 includes/gateway_list.php:560
+#: includes/gateway_list.php:569 includes/gateway_list.php:633
+#: includes/gateway_list.php:642 includes/gateway_list.php:651
+#: includes/gateway_list.php:660 includes/gateway_list.php:679
+#: includes/gateway_list.php:688 includes/gateway_list.php:729
+#: includes/gateway_list.php:738 includes/gateway_list.php:747
+#: includes/gateway_list.php:763 includes/gateway_list.php:814
+#: includes/gateway_list.php:823 includes/gateway_list.php:847
+#: includes/gateway_list.php:863 includes/gateway_list.php:872
+#: includes/gateway_list.php:920 includes/gateway_list.php:929
+#: includes/gateway_list.php:939 includes/gateway_list.php:975
+#: includes/gateway_list.php:1004 wpnotif.php:825 wpnotif.php:893
+#: wpnotif.php:924 wpnotif.php:934 wpnotif.php:944 wpnotif.php:962
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: includes/gateway_list.php:37 includes/gateway_list.php:62
+#: includes/gateway_list.php:292 includes/gateway_list.php:788 wpnotif.php:646
+#: wpnotif.php:867
+msgid "Token"
+msgstr "الرمز"
+
+#: includes/gateway_list.php:38 includes/gateway_list.php:47
+#: includes/gateway_list.php:54 includes/gateway_list.php:63
+#: includes/gateway_list.php:73 includes/gateway_list.php:81
+#: includes/gateway_list.php:90 includes/gateway_list.php:99
+#: includes/gateway_list.php:108 includes/gateway_list.php:117
+#: includes/gateway_list.php:126 includes/gateway_list.php:135
+#: includes/gateway_list.php:144 includes/gateway_list.php:153
+#: includes/gateway_list.php:162 includes/gateway_list.php:170
+#: includes/gateway_list.php:179 includes/gateway_list.php:187
+#: includes/gateway_list.php:196 includes/gateway_list.php:205
+#: includes/gateway_list.php:214 includes/gateway_list.php:223
+#: includes/gateway_list.php:231 includes/gateway_list.php:249
+#: includes/gateway_list.php:258 includes/gateway_list.php:267
+#: includes/gateway_list.php:276 includes/gateway_list.php:300
+#: includes/gateway_list.php:308 includes/gateway_list.php:317
+#: includes/gateway_list.php:326 includes/gateway_list.php:342
+#: includes/gateway_list.php:349 includes/gateway_list.php:357
+#: includes/gateway_list.php:366 includes/gateway_list.php:376
+#: includes/gateway_list.php:385 includes/gateway_list.php:394
+#: includes/gateway_list.php:402 includes/gateway_list.php:411
+#: includes/gateway_list.php:420 includes/gateway_list.php:429
+#: includes/gateway_list.php:438 includes/gateway_list.php:447
+#: includes/gateway_list.php:456 includes/gateway_list.php:465
+#: includes/gateway_list.php:474 includes/gateway_list.php:482
+#: includes/gateway_list.php:491 includes/gateway_list.php:500
+#: includes/gateway_list.php:507 includes/gateway_list.php:516
+#: includes/gateway_list.php:524 includes/gateway_list.php:533
+#: includes/gateway_list.php:543 includes/gateway_list.php:552
+#: includes/gateway_list.php:561 includes/gateway_list.php:570
+#: includes/gateway_list.php:578 includes/gateway_list.php:587
+#: includes/gateway_list.php:594 includes/gateway_list.php:602
+#: includes/gateway_list.php:617 includes/gateway_list.php:625
+#: includes/gateway_list.php:634 includes/gateway_list.php:643
+#: includes/gateway_list.php:652 includes/gateway_list.php:661
+#: includes/gateway_list.php:670 includes/gateway_list.php:680
+#: includes/gateway_list.php:689 includes/gateway_list.php:697
+#: includes/gateway_list.php:705 includes/gateway_list.php:713
+#: includes/gateway_list.php:721 includes/gateway_list.php:730
+#: includes/gateway_list.php:739 includes/gateway_list.php:755
+#: includes/gateway_list.php:772 includes/gateway_list.php:780
+#: includes/gateway_list.php:790 includes/gateway_list.php:798
+#: includes/gateway_list.php:815 includes/gateway_list.php:831
+#: includes/gateway_list.php:864 includes/gateway_list.php:881
+#: includes/gateway_list.php:892 includes/gateway_list.php:902
+#: includes/gateway_list.php:921 includes/gateway_list.php:930
+#: includes/gateway_list.php:940 includes/gateway_list.php:957 wpnotif.php:652
+#: wpnotif.php:721 wpnotif.php:829 wpnotif.php:837 wpnotif.php:877
+#: wpnotif.php:935 wpnotif.php:945 wpnotif.php:971
+msgid "Sender"
+msgstr "المرسل"
+
+#: includes/gateway_list.php:45 includes/gateway_list.php:97
+#: includes/gateway_list.php:177 includes/gateway_list.php:194
+#: includes/gateway_list.php:212 includes/gateway_list.php:247
+#: includes/gateway_list.php:256 includes/gateway_list.php:265
+#: includes/gateway_list.php:274 includes/gateway_list.php:283
+#: includes/gateway_list.php:324 includes/gateway_list.php:364
+#: includes/gateway_list.php:373 includes/gateway_list.php:409
+#: includes/gateway_list.php:418 includes/gateway_list.php:436
+#: includes/gateway_list.php:445 includes/gateway_list.php:454
+#: includes/gateway_list.php:463 includes/gateway_list.php:472
+#: includes/gateway_list.php:489 includes/gateway_list.php:498
+#: includes/gateway_list.php:514 includes/gateway_list.php:541
+#: includes/gateway_list.php:550 includes/gateway_list.php:559
+#: includes/gateway_list.php:568 includes/gateway_list.php:608
+#: includes/gateway_list.php:632 includes/gateway_list.php:641
+#: includes/gateway_list.php:650 includes/gateway_list.php:659
+#: includes/gateway_list.php:678 includes/gateway_list.php:687
+#: includes/gateway_list.php:728 includes/gateway_list.php:737
+#: includes/gateway_list.php:746 includes/gateway_list.php:762
+#: includes/gateway_list.php:796 includes/gateway_list.php:805
+#: includes/gateway_list.php:813 includes/gateway_list.php:822
+#: includes/gateway_list.php:846 includes/gateway_list.php:862
+#: includes/gateway_list.php:871 includes/gateway_list.php:928
+#: includes/gateway_list.php:938 includes/gateway_list.php:974
+#: includes/newsletter/user_groups.php:868 wpnotif.php:892 wpnotif.php:903
+#: wpnotif.php:923 wpnotif.php:961
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: includes/gateway_list.php:53
+msgid "Bearer Token"
+msgstr ""
+
+#: includes/gateway_list.php:61 wpnotif.php:640
+msgid "UID"
+msgstr ""
+
+#: includes/gateway_list.php:69 includes/gateway_list.php:143
+#: includes/gateway_list.php:239 includes/gateway_list.php:428
+#: includes/gateway_list.php:901 wpnotif.php:847 wpnotif.php:915
+msgid "API Secret"
+msgstr "الرقم السري API"
+
+#: includes/gateway_list.php:70 includes/gateway_list.php:124
+#: includes/gateway_list.php:230 includes/gateway_list.php:307
+#: includes/gateway_list.php:455 includes/gateway_list.php:616
+#: includes/gateway_list.php:891
+#, fuzzy
+#| msgid "Auth Token"
+msgid "API Token"
+msgstr "رمز المصادقة"
+
+#: includes/gateway_list.php:71
+msgid "Application ID"
+msgstr ""
+
+#: includes/gateway_list.php:72
+#, fuzzy
+#| msgid "Account SID"
+msgid "Account ID"
+msgstr "حساب SID"
+
+#: includes/gateway_list.php:80
+#, fuzzy
+#| msgid "Access Key"
+msgid "License Key"
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:89
+msgid "Organization ID"
+msgstr ""
+
+#: includes/gateway_list.php:106 wpnotif.php:1421 wpnotif.php:1426
+msgid "Account SID"
+msgstr "حساب SID"
+
+#: includes/gateway_list.php:107 wpnotif.php:717 wpnotif.php:1433
+#: wpnotif.php:1438
+msgid "Auth Token"
+msgstr "رمز المصادقة"
+
+#: includes/gateway_list.php:115 includes/gateway_list.php:203
+#: includes/gateway_list.php:221 includes/gateway_list.php:291
+#: includes/gateway_list.php:340 includes/gateway_list.php:948
+#, fuzzy
+#| msgid "Username"
+msgid "User"
+msgstr "اسم المستخدم"
+
+#: includes/gateway_list.php:125
+#, fuzzy
+#| msgid "Account SID"
+msgid "Subaccount ID"
+msgstr "حساب SID"
+
+#: includes/gateway_list.php:151
+msgid "SMS User"
+msgstr ""
+
+#: includes/gateway_list.php:152
+#, fuzzy
+#| msgid "Password"
+msgid "SMS Password"
+msgstr "كلمة المرور"
+
+#: includes/gateway_list.php:160 includes/gateway_list.php:787
+msgid "Client ID"
+msgstr ""
+
+#: includes/gateway_list.php:240
+msgid "Brandname"
+msgstr ""
+
+#: includes/gateway_list.php:315
+#, fuzzy
+#| msgid "Token"
+msgid "Token ID"
+msgstr "الرمز"
+
+#: includes/gateway_list.php:316
+#, fuzzy
+#| msgid "API Secret"
+msgid "Token Secret"
+msgstr "الرقم السري API"
+
+#: includes/gateway_list.php:323
+msgid "Account reference "
+msgstr ""
+
+#: includes/gateway_list.php:333
+#, fuzzy
+#| msgid "Access Key"
+msgid "Access Token "
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:348
+#, fuzzy
+#| msgid "Auth Token"
+msgid "Authorization Token"
+msgstr "رمز المصادقة"
+
+#: includes/gateway_list.php:384 includes/gateway_list.php:984
+#, fuzzy
+#| msgid "Access Key"
+msgid "Access Token"
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:401
+#, fuzzy
+#| msgid "Access Key"
+msgid "Access token"
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:523
+#, fuzzy
+#| msgid "Authentication Key"
+msgid "Authorization token"
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:531
+#, fuzzy
+#| msgid "Authentication Key"
+msgid "Authorization key"
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:532
+#, fuzzy
+#| msgid "Authentication Key"
+msgid "Authorization secret"
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:576
+msgid "Bearer token"
+msgstr ""
+
+#: includes/gateway_list.php:577
+msgid "Service plan id"
+msgstr ""
+
+#: includes/gateway_list.php:585 includes/gateway_list.php:854
+#, fuzzy
+#| msgid "API Key"
+msgid "API ID"
+msgstr "مفتاح API"
+
+#: includes/gateway_list.php:586
+#, fuzzy
+#| msgid "Password"
+msgid "API Password"
+msgstr "كلمة المرور"
+
+#: includes/gateway_list.php:609
+#, fuzzy
+#| msgid "Authentication Key"
+msgid "Authentication token"
+msgstr "مفتاح الوصول"
+
+#: includes/gateway_list.php:624
+msgid "Profile secret"
+msgstr ""
+
+#: includes/gateway_list.php:669
+msgid "API Token (only for BD Portal)"
+msgstr ""
+
+#: includes/gateway_list.php:671
+#, fuzzy
+#| msgid "Portugal"
+msgid "Portal"
+msgstr "البرتغال"
+
+#: includes/gateway_list.php:704
+#, fuzzy
+#| msgid "Account SID"
+msgid "Account key"
+msgstr "حساب SID"
+
+#: includes/gateway_list.php:754 includes/gateway_list.php:770
+#: includes/gateway_list.php:779 includes/gateway_list.php:830
+#: includes/gateway_list.php:838
+#, fuzzy
+#| msgid "API Key"
+msgid "API key"
+msgstr "مفتاح API"
+
+#: includes/gateway_list.php:771
+#, fuzzy
+#| msgid "API Secret"
+msgid "API secret"
+msgstr "الرقم السري API"
+
+#: includes/gateway_list.php:789
+msgid "Campaign ID"
+msgstr ""
+
+#: includes/gateway_list.php:797
+#, fuzzy
+#| msgid "Password"
+msgid "password"
+msgstr "كلمة المرور"
+
+#: includes/gateway_list.php:806
+msgid "Private key"
+msgstr ""
+
+#: includes/gateway_list.php:839
+#, fuzzy
+#| msgid "Countries"
+msgid "Country code"
+msgstr "بلدان"
+
+#: includes/gateway_list.php:855 includes/gateway_list.php:911
+#: includes/gateway_list.php:966 includes/gateway_list.php:976
+#: includes/gateway_list.php:1016 wpnotif.php:740 wpnotif.php:750
+#: wpnotif.php:784 wpnotif.php:792 wpnotif.php:806 wpnotif.php:851
+#: wpnotif.php:868 wpnotif.php:894 wpnotif.php:905 wpnotif.php:925
+#: wpnotif.php:963
+msgid "From"
+msgstr "من"
+
+#: includes/gateway_list.php:873
+msgid "Orig"
+msgstr ""
+
+#: includes/gateway_list.php:889
+msgid "Space URL"
+msgstr ""
+
+#: includes/gateway_list.php:890
+msgid "Project ID"
+msgstr ""
+
+#: includes/gateway_list.php:949
+#, fuzzy
+#| msgid "Account SID"
+msgid "Account Type"
+msgstr "حساب SID"
+
+#: includes/gateway_list.php:985
+#, fuzzy
+#| msgid "Sender ID"
+msgid "Sender Address"
+msgstr "هوية (رقم) المرسل"
+
+#: includes/gateway_list.php:993
+#, fuzzy
+#| msgid "Username"
+msgid "UserName"
+msgstr "اسم المستخدم"
+
+#: includes/gateway_list.php:995
+#, fuzzy
+#| msgid "Sender"
+msgid "Sender Name"
+msgstr "المرسل"
+
+#: includes/gateway_list.php:1006
+msgid "Domain ID"
+msgstr ""
+
+#: includes/newsletter/import.php:142
+msgid "No User found!"
+msgstr ""
+
+#: includes/newsletter/import.php:235
+msgid "No user found to import"
+msgstr ""
+
+#: includes/newsletter/import.php:333
+msgid "Only csv are accepted!"
+msgstr ""
+
+#: includes/newsletter/import.php:378
+msgid "Data is invalid, import has failed"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:51
+msgid "System Time"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:74
+msgid "WordPress Cron Job"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:75
+#, fuzzy
+#| msgid "Username"
+msgid "WPNotif Cron Job"
+msgstr "اسم المستخدم"
+
+#: includes/newsletter/newsletter.php:76
+msgid "WPNotif Background Task"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:87 includes/newsletter/newsletter.php:288
+#: includes/newsletter/newsletter.php:289
+msgid "Newsletter"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:90
+msgid "Sending Frequency"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:96
+msgid "Sms per Minute"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:102
+msgid "Cron Method"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:121
+#, php-format
+msgid ""
+"Please read our article on %s Setting up WPNotif Cron Method %s to see which "
+"cron method will work best for your WPNotif newsletter settings. Click %shere"
+"%s"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:139 wpnotif.php:2234
+msgid "None"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:196
+#: includes/newsletter/user_functions.php:174 wpnotif.php:1163
+msgid "Error! Please try again later"
+msgstr "رجاءً حاول مرة أخرى"
+
+#: includes/newsletter/newsletter.php:197
+msgid "Please complete your Settings"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:200
+msgid "Please wait, creating predefined groups. This is a one time process."
+msgstr ""
+
+#: includes/newsletter/newsletter.php:201
+msgid ""
+"An error occurred while sending request to server, Retrying in 3 seconds!"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:202
+msgid "Data contains duplicate entries, import has failed."
+msgstr ""
+
+#: includes/newsletter/newsletter.php:203
+msgid ""
+"Partial data imported, {duplicate} duplicate and {invalid} invalid entries."
+msgstr ""
+
+#: includes/newsletter/newsletter.php:334
+msgid "Scheduled Newsletter"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:339
+msgid "History"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:346
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:349
+#: includes/newsletter/newsletter.php:625
+#: includes/newsletter/newsletter.php:1037
+msgid "Add New Newsletter"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:349
+#: includes/newsletter/user_groups.php:559
+#: includes/newsletter/user_groups.php:1181
+msgid "Add New"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:577
+msgid "View"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:587
+msgid "Edit Newsletter"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:589
+#: includes/newsletter/user_groups.php:759
+msgid "Edit"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:602
+msgid "Pause"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:615
+msgid "Stop"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:627
+#: includes/newsletter/user_groups.php:765
+msgid "Duplicate"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:644
+msgid "Resume"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:646
+msgid "Run Now"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:679
+#: includes/newsletter/newsletter.php:739
+#: includes/newsletter/newsletter.php:1044
+#: includes/newsletter/user_groups.php:1079
+#: includes/newsletter/user_groups.php:1187
+#: includes/plugins/contactform7/form_field.php:199
+#: includes/plugins/contactform7/form_settings.php:94
+#: includes/plugins/contactform7/form_settings.php:204
+#: includes/plugins/contactform7/form_settings.php:215
+#: includes/plugins/contactform7/form_settings.php:226
+#: includes/plugins/gravityforms/form_settings.php:270
+msgid "Name"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:680
+msgid "Execution Date"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:681
+#: includes/newsletter/newsletter.php:740
+#: includes/newsletter/newsletter.php:769
+msgid "Status"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:741
+msgid "Start Time"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:742
+msgid "End Time"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:767
+msgid "SR."
+msgstr ""
+
+#: includes/newsletter/newsletter.php:768
+#: includes/newsletter/user_groups.php:869
+#: includes/plugins/gravityforms/form_settings.php:252
+msgid "Phone"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:770
+msgid "Time"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1049
+#: includes/plugins/contactform7/form_settings.php:181
+#: includes/plugins/gravityforms/form_settings.php:215
+#, fuzzy
+#| msgid "Add Group"
+msgid "User Group"
+msgstr "إضافة مجموعة"
+
+#: includes/newsletter/newsletter.php:1055
+#: includes/plugins/contactform7/form_settings.php:118
+#: includes/plugins/gravityforms/form_settings.php:178
+#: includes/post_notifications.php:178
+msgid "Route"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1057
+#: includes/plugins/contactform7/form_settings.php:129
+#: includes/plugins/gravityforms/form_settings.php:183
+#: includes/post_notifications.php:181 wpnotif.php:324
+msgid "SMS"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1058 includes/post_notifications.php:182
+#: wpnotif.php:332
+#, fuzzy
+#| msgid "Gateway"
+msgid "WhatsApp"
+msgstr "البوابة"
+
+#: includes/newsletter/newsletter.php:1062
+#, fuzzy
+#| msgid "Invalid Mobile Number"
+msgid "Phone Number Field"
+msgstr "خطأ في رقم الهاتف"
+
+#: includes/newsletter/newsletter.php:1064
+msgid "Auto"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1065
+msgid "Custom Meta Key"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1072 includes/post_notifications.php:197
+#: wpnotif.php:381 wpnotif.php:2460
+msgid "Message"
+msgstr "الرسالة"
+
+#: includes/newsletter/newsletter.php:1077
+msgid "Schedule"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1086
+msgid "Repeat it every"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1094
+msgid "Days"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1095
+msgid "Weeks"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1096
+#, fuzzy
+#| msgid "Montserrat"
+msgid "Months"
+msgstr "مونتسيرات"
+
+#: includes/newsletter/newsletter.php:1097
+msgid "Years"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1105
+msgid "Save"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1148
+#, fuzzy
+#| msgid "Add Group"
+msgid "Predefined Groups"
+msgstr "إضافة مجموعة"
+
+#: includes/newsletter/newsletter.php:1154
+#: includes/newsletter/user_groups.php:411
+#: includes/newsletter/user_groups.php:412
+#: includes/newsletter/user_groups.php:496 includes/post_notifications.php:188
+#, fuzzy
+#| msgid "Username"
+msgid "User Groups"
+msgstr "اسم المستخدم"
+
+#: includes/newsletter/newsletter.php:1195
+#: includes/newsletter/newsletter.php:1442
+msgid "Error! Invalid Newsletter"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1203
+msgid "Error, please refresh your page!"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1213
+msgid "running"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1219
+msgid "Paused"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1222
+msgid "stopped"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1233
+#, php-format
+msgid "Newsletter is now %s!"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1250
+#: includes/newsletter/newsletter.php:1398
+msgid "Newsletter not found!"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1254
+msgid "Please fill in all newsletter details to run it!"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1261
+msgid "Please stop previous newsletter before running new one!"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1276
+msgid "Error while resuming newsletter!"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1446
+#: includes/newsletter/user_groups.php:379
+#: includes/newsletter/user_groups.php:1252
+msgid "Done"
+msgstr ""
+
+#: includes/newsletter/newsletter.php:1506
+#: includes/newsletter/user_groups.php:1319 wpnotif.php:1164
+#, fuzzy
+#| msgid "Please complete your API Settings"
+msgid "Please complete your settings"
+msgstr "رجاءً اكمل اعدادات المصادقة API"
+
+#: includes/newsletter/user_functions.php:45
+#: includes/newsletter/user_functions.php:111
+#: includes/newsletter/user_functions.php:138
+msgid "You are already subscribed!"
+msgstr ""
+
+#: includes/newsletter/user_functions.php:149
+#: includes/newsletter/user_functions.php:154
+msgid "Invalid OTP!"
+msgstr ""
+
+#: includes/newsletter/user_functions.php:165
+msgid "Thank you for subscribing"
+msgstr ""
+
+#: includes/newsletter/user_functions.php:176
+msgid "Submit OTP"
+msgstr ""
+
+#: includes/newsletter/user_functions.php:298
+msgid "Your OTP for {NAME} is {OTP}"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:201
+msgid "Error while creating predefined groups!"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:357
+msgid "Group not found!"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:480
+msgid "Predefined"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:517
+msgid "Remove Selected"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:526
+msgid "Add Selected"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:538
+msgid "Back"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:545
+#: includes/newsletter/user_groups.php:548
+#: includes/newsletter/user_groups.php:1130
+msgid "Import Users"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:558
+#: includes/newsletter/user_groups.php:763
+msgid "New User Group"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:581
+#, php-format
+msgid "%s out of %s users added successfully"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:739
+#: includes/newsletter/user_groups.php:746
+msgid "Edit User Group"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:820
+#: includes/newsletter/user_groups.php:832
+msgid "All Users"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:821
+msgid "Removed Users"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:870
+msgid "Date Added"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1080
+#: includes/newsletter/user_groups.php:1192
+msgid "Description"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1081
+#, fuzzy
+#| msgid "Username"
+msgid "User Count"
+msgstr "اسم المستخدم"
+
+#: includes/newsletter/user_groups.php:1138
+#: includes/newsletter/user_groups.php:1140
+msgid "Paste Data"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1139
+#: includes/newsletter/user_groups.php:1144
+msgid ""
+"Data should be in CSV (Comma Separated Value) style, with first line "
+"containing the titles"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1143
+#: includes/newsletter/user_groups.php:1145
+msgid "Upload File"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1147
+msgid "From Existing WP Users"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1165
+msgid "Select File"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1172
+msgid "Import"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1200
+msgid "Proceed"
+msgstr ""
+
+#: includes/newsletter/user_groups.php:1243
+msgid "Error! Invalid User Group"
+msgstr ""
+
+#: includes/plugins/contactform7/form_field.php:71
+msgid "Please enter a valid number"
+msgstr ""
+
+#: includes/plugins/contactform7/form_field.php:89
+#, fuzzy
+#| msgid "Phone Number"
+msgid "Phone Number (WPNotif)"
+msgstr "رقم الهاتف"
+
+#: includes/plugins/contactform7/form_field.php:174
+#, php-format
+msgid "For placeholders, see %s"
+msgstr ""
+
+#: includes/plugins/contactform7/form_field.php:176
+msgid "here"
+msgstr ""
+
+#: includes/plugins/contactform7/form_field.php:187
+msgid "Required Field"
+msgstr ""
+
+#: includes/plugins/contactform7/form_field.php:207
+msgid "Id attribute"
+msgstr ""
+
+#: includes/plugins/contactform7/form_field.php:215
+msgid "Class attribute"
+msgstr ""
+
+#: includes/plugins/contactform7/form_field.php:231
+msgid "Insert Tag"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:47
+#: includes/post_notifications.php:241
+msgid "WPNotif"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:68
+#: includes/plugins/gravityforms/form_settings.php:261
+#, fuzzy
+#| msgid "Notifications"
+msgid "Phone Notifications"
+msgstr "الإشعارات"
+
+#: includes/plugins/contactform7/form_settings.php:94
+msgid "Phone Field"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:107
+#: includes/plugins/gravityforms/form_settings.php:205
+msgid "Yes"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:133
+#: includes/plugins/gravityforms/form_settings.php:187
+#, fuzzy
+#| msgid "Gateway"
+msgid "Whatsapp"
+msgstr "البوابة"
+
+#: includes/plugins/contactform7/form_settings.php:137
+#: includes/plugins/gravityforms/form_settings.php:191
+msgid "Both"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:156
+#: includes/plugins/gravityforms/form_settings.php:199
+msgid "Use as Newsletter Subscription form"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:204
+#, fuzzy
+#| msgid "Invalid Mobile Number"
+msgid "First Name Field"
+msgstr "خطأ في رقم الهاتف"
+
+#: includes/plugins/contactform7/form_settings.php:215
+msgid "Last Name Field"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:226
+msgid "Email Field"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:252
+#: includes/plugins/gravityforms/form_settings.php:162
+#, fuzzy
+#| msgid "Admin Notifications"
+msgid "Admin Notification"
+msgstr "إشعارات المسؤول"
+
+#: includes/plugins/contactform7/form_settings.php:252
+#: includes/plugins/contactform7/form_settings.php:253
+#: includes/plugins/gravityforms/form_settings.php:166
+#: includes/plugins/gravityforms/form_settings.php:173
+msgid "Leave empty to disable"
+msgstr ""
+
+#: includes/plugins/contactform7/form_settings.php:253
+#: includes/plugins/gravityforms/form_settings.php:169
+#, fuzzy
+#| msgid "Notifications"
+msgid "User Notification"
+msgstr "الإشعارات"
+
+#: includes/plugins/elementor/handler.php:43
+#, fuzzy
+#| msgid "Username"
+msgid "WPNotif Phone"
+msgstr "اسم المستخدم"
+
+#: includes/plugins/gravityforms/form_field.php:21
+msgid "Phone (WPNotif)"
+msgstr ""
+
+#: includes/plugins/gravityforms/form_field.php:108
+msgid "Please enter a valid phone number"
+msgstr ""
+
+#: includes/plugins/gravityforms/form_settings.php:223
+msgid "Select Field"
+msgstr ""
+
+#: includes/post_notifications.php:148
+#, fuzzy
+#| msgid "Notifications"
+msgid "New Post Notifications"
+msgstr "الإشعارات"
+
+#: includes/post_notifications.php:152
+#, fuzzy
+#| msgid "Type"
+msgid "Post Type"
+msgstr "النوع"
+
+#: includes/post_notifications.php:165
+#, fuzzy, php-format
+#| msgid "Notifications"
+msgid "Enable for %s"
+msgstr "الإشعارات"
+
+#: includes/post_notifications.php:202 wpnotif.php:385 wpnotif.php:2476
+msgid "Placeholder List"
+msgstr ""
+
+#: includes/post_notifications.php:284
+#, fuzzy
+#| msgid "Admin Notifications"
+msgid "Send Notification to users"
+msgstr "إشعارات المسؤول"
+
+#: includes/wc_stocks.php:68
+msgid "Low Stock"
+msgstr ""
+
+#: includes/wc_stocks.php:73
+msgid "No Stock"
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:55
+msgid "View details"
+msgstr "عرض التفاصيل"
+
+#: update/Puc/v4p6/Plugin/Ui.php:78
+#, php-format
+msgid "More information about %s"
+msgstr "مزيد من المعلومات %s"
+
+#: update/Puc/v4p6/Plugin/Ui.php:131
+msgid "Check for updates"
+msgstr "فحص التحديثات"
+
+#: update/Puc/v4p6/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "الاضافة %s باحدث اصدار."
+
+#: update/Puc/v4p6/Plugin/Ui.php:219
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "تحديث جديد %s متوفر."
+
+#: update/Puc/v4p6/Plugin/Ui.php:221
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: update/Puc/v4p6/Plugin/Ui.php:227
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "حالة التحديث غير معروفة \"%s\""
+
+#: update/Puc/v4p6/Vcs/PluginUpdateChecker.php:99
+msgid "There is no changelog available."
+msgstr "لا يوجد سجل التغيير."
+
+#: wpnotif.php:203
+#, fuzzy
+#| msgid "Message"
+msgid "Pending WhatsApp Messages"
+msgstr "الرسالة"
+
+#: wpnotif.php:205
+msgid "Clear All"
+msgstr ""
+
+#: wpnotif.php:233 wpnotif.php:392 wpnotif.php:393 wpnotif.php:409
+#: wpnotif.php:410
+msgid "Send"
+msgstr "إرسال"
+
+#: wpnotif.php:282
+#, fuzzy
+#| msgid "Message"
+msgid "Pending Messages"
+msgstr "الرسالة"
+
+#: wpnotif.php:289
+msgid "WPNotif Quick SMS"
+msgstr ""
+
+#: wpnotif.php:317 wpnotif.php:2285
+#, fuzzy
+#| msgid "Username"
+msgid "User Consent"
+msgstr "اسم المستخدم"
+
+#: wpnotif.php:357
+#, fuzzy
+#| msgid "Phone Number"
+msgid "Phone Number(s)"
+msgstr "رقم الهاتف"
+
+#: wpnotif.php:366
+msgid "Please input numbers with country code"
+msgstr ""
+
+#: wpnotif.php:391 wpnotif.php:408
+msgid "Processing"
+msgstr "معالجة"
+
+#: wpnotif.php:406
+msgid "Trigger Order Status Message"
+msgstr ""
+
+#: wpnotif.php:588
+#, fuzzy
+#| msgid "Gateway"
+msgid "WhatsApp Gateway"
+msgstr "البوابة"
+
+#: wpnotif.php:594
+msgid "Twilio Account SID"
+msgstr ""
+
+#: wpnotif.php:600
+msgid "Twilio Auth Token"
+msgstr ""
+
+#: wpnotif.php:606
+#, fuzzy
+#| msgid "Gateway"
+msgid "WhatsApp Number"
+msgstr "البوابة"
+
+#: wpnotif.php:628 wpnotif.php:698 wpnotif.php:782
+msgid "Access Key"
+msgstr "مفتاح الوصول"
+
+#: wpnotif.php:634
+#, fuzzy
+#| msgid "Gateway"
+msgid "Whatsapp Channel ID"
+msgstr "البوابة"
+
+#: wpnotif.php:664
+#, fuzzy
+#| msgid "Gateway"
+msgid "WhatsApp app name"
+msgstr "البوابة"
+
+#: wpnotif.php:702
+msgid "Originator"
+msgstr "انشاء"
+
+#: wpnotif.php:713
+msgid "Auth ID"
+msgstr "معرف المصادقة"
+
+#: wpnotif.php:732
+msgid "API Username"
+msgstr "اسم المستخدم API"
+
+#: wpnotif.php:748
+msgid "Base URL"
+msgstr ""
+
+#: wpnotif.php:759 wpnotif.php:771
+#, fuzzy
+#| msgid "Access Key"
+msgid "Access Key ID"
+msgstr "مفتاح الوصول"
+
+#: wpnotif.php:760 wpnotif.php:772
+#, fuzzy
+#| msgid "Access Key"
+msgid "Secret Access Key"
+msgstr "مفتاح الوصول"
+
+#: wpnotif.php:761 wpnotif.php:773
+msgid "Region"
+msgstr ""
+
+#: wpnotif.php:770
+msgid "Application ID/Project ID"
+msgstr ""
+
+#: wpnotif.php:783
+msgid "Access Secret"
+msgstr ""
+
+#: wpnotif.php:802
+msgid "ClockWork API"
+msgstr "ClockWork API"
+
+#: wpnotif.php:884
+msgid "AppSid"
+msgstr ""
+
+#: wpnotif.php:979
+#, fuzzy
+#| msgid "Auth ID"
+msgid "Auth Key"
+msgstr "معرف المصادقة"
+
+#: wpnotif.php:1001
+#, fuzzy
+#| msgid "Gateway"
+msgid "WhatsApp Business Free"
+msgstr "البوابة"
+
+#: wpnotif.php:1004
+#, fuzzy
+#| msgid "Gateway"
+msgid "WhatsApp Business API"
+msgstr "البوابة"
+
+#: wpnotif.php:1006
+msgid "Twilio"
+msgstr ""
+
+#: wpnotif.php:1007
+#, fuzzy
+#| msgid "Message"
+msgid "MessageBird"
+msgstr "الرسالة"
+
+#: wpnotif.php:1008
+msgid "Karix"
+msgstr ""
+
+#: wpnotif.php:1009
+msgid "gupshup"
+msgstr ""
+
+#: wpnotif.php:1019
+#, fuzzy
+#| msgid "Message"
+msgid "For SMS Message"
+msgstr "الرسالة"
+
+#: wpnotif.php:1021 wpnotif.php:1027 wpnotif.php:1033
+msgid "Checkbox Text"
+msgstr ""
+
+#: wpnotif.php:1025
+msgid "For WhatsApp Message"
+msgstr ""
+
+#: wpnotif.php:1031
+msgid "Combine Both"
+msgstr ""
+
+#: wpnotif.php:1037
+msgid "Tick checkboxes by default"
+msgstr ""
+
+#: wpnotif.php:1050
+#, fuzzy
+#| msgid "Login"
+msgid "User Login"
+msgstr "تسجيل الدخول"
+
+#: wpnotif.php:1053
+#, php-format
+msgid ""
+"This works best if you have %s WordPress plugin, or else the message will be "
+"sent to WC Billing Phone Number and as per WooCommerce multiple accounts can "
+"have same billing number."
+msgstr ""
+
+#: wpnotif.php:1056
+msgid "New User Registration"
+msgstr ""
+
+#: wpnotif.php:1061
+msgid "User Password Change"
+msgstr ""
+
+#: wpnotif.php:1083
+msgid "(New Order)"
+msgstr ""
+
+#: wpnotif.php:1111
+msgid "Oh Snap!"
+msgstr "مممم خطأ!"
+
+#: wpnotif.php:1112
+msgid "Yay!"
+msgstr ""
+
+#: wpnotif.php:1113
+msgid "Notice!"
+msgstr ""
+
+#: wpnotif.php:1161
+msgid "Invalid msg91 sender id!"
+msgstr "معرف المرسل msg91 غير صالح!"
+
+#: wpnotif.php:1162
+msgid "Invalid Purchase Code"
+msgstr "رمز الشراء غير صالح"
+
+#: wpnotif.php:1165
+#, fuzzy
+#| msgid "Please complete your API Settings"
+msgid "Please complete your API settings"
+msgstr "رجاءً اكمل اعدادات المصادقة API"
+
+#: wpnotif.php:1169
+msgid "Copied to clipboard!"
+msgstr ""
+
+#: wpnotif.php:1205 wpnotif.php:2787
+msgid "Settings"
+msgstr ""
+
+#: wpnotif.php:1262
+msgid "Knowledgebase"
+msgstr ""
+
+#: wpnotif.php:1265
+msgid "Changelog"
+msgstr ""
+
+#: wpnotif.php:1270
+msgid "Register"
+msgstr "التسجيل"
+
+#: wpnotif.php:1281
+msgid "Gateway"
+msgstr "البوابة"
+
+#: wpnotif.php:1285
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: wpnotif.php:1290
+msgid "General"
+msgstr ""
+
+#: wpnotif.php:1295
+msgid "Send Quick SMS"
+msgstr ""
+
+#: wpnotif.php:1336
+msgid "Save Changes"
+msgstr "حفظ الاعدادات"
+
+#: wpnotif.php:1457 wpnotif.php:1462
+msgid "Authentication Key"
+msgstr "مفتاح الوصول"
+
+#: wpnotif.php:1682
+msgid "SMS Gateway"
+msgstr "بوابة الارسال"
+
+#: wpnotif.php:1728
+msgid "Please install Additional Gateways addon to use this as SMS gateway"
+msgstr ""
+
+#: wpnotif.php:1730
+msgid "Click Here"
+msgstr ""
+
+#: wpnotif.php:1772
+msgid "TEST GATEWAY SETTINGS"
+msgstr ""
+
+#: wpnotif.php:1784
+msgid "Your Mobile Number"
+msgstr ""
+
+#: wpnotif.php:1788
+msgid "Test"
+msgstr "اختبار"
+
+#: wpnotif.php:1794
+msgid "Response"
+msgstr "استجابة"
+
+#: wpnotif.php:1813
+msgid "All Countries"
+msgstr "جميع الدول"
+
+#: wpnotif.php:1818
+msgid "for"
+msgstr "ل"
+
+#: wpnotif.php:1839
+msgid "Countries"
+msgstr "بلدان"
+
+#: wpnotif.php:1864
+msgid "Add Group"
+msgstr "إضافة مجموعة"
+
+#: wpnotif.php:1948
+msgid "Afghanistan"
+msgstr "أفغانستان"
+
+#: wpnotif.php:1949
+msgid "Albania"
+msgstr "ألبانيا"
+
+#: wpnotif.php:1950
+msgid "Algeria"
+msgstr "الجزائر"
+
+#: wpnotif.php:1951
+msgid "American Samoa"
+msgstr "ساموا الأمريكية"
+
+#: wpnotif.php:1952
+msgid "Andorra"
+msgstr "أندورا"
+
+#: wpnotif.php:1953
+msgid "Angola"
+msgstr "أنغولا"
+
+#: wpnotif.php:1954
+msgid "Anguilla"
+msgstr "أنغيلا"
+
+#: wpnotif.php:1955
+msgid "Antigua"
+msgstr "أنتيغوا"
+
+#: wpnotif.php:1956
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+#: wpnotif.php:1957
+msgid "Armenia"
+msgstr "أرمينيا"
+
+#: wpnotif.php:1958
+msgid "Aruba"
+msgstr "أروبا"
+
+#: wpnotif.php:1959
+msgid "Australia"
+msgstr "أستراليا"
+
+#: wpnotif.php:1960
+msgid "Austria"
+msgstr "النمسا"
+
+#: wpnotif.php:1961
+msgid "Azerbaijan"
+msgstr "أذربيجان"
+
+#: wpnotif.php:1962
+msgid "Bahrain"
+msgstr "البحرين"
+
+#: wpnotif.php:1963
+msgid "Bangladesh"
+msgstr "بنغلاديش"
+
+#: wpnotif.php:1964
+msgid "Barbados"
+msgstr "بربادوس"
+
+#: wpnotif.php:1965
+msgid "Belarus"
+msgstr "روسيا البيضاء"
+
+#: wpnotif.php:1966
+msgid "Belgium"
+msgstr "بلجيكا"
+
+#: wpnotif.php:1967
+msgid "Belize"
+msgstr "بيليز"
+
+#: wpnotif.php:1968
+msgid "Benin"
+msgstr "بنين"
+
+#: wpnotif.php:1969
+msgid "Bermuda"
+msgstr "برمودا"
+
+#: wpnotif.php:1970
+msgid "Bhutan"
+msgstr "بوتان"
+
+#: wpnotif.php:1971
+msgid "Bolivia"
+msgstr "بوليفيا"
+
+#: wpnotif.php:1972
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr "بونير، سينت أوستاتيوس وسابا"
+
+#: wpnotif.php:1973
+msgid "Bosnia and Herzegovina"
+msgstr "البوسنة و الهرسك "
+
+#: wpnotif.php:1974
+msgid "Botswana"
+msgstr "بوتسوانا"
+
+#: wpnotif.php:1975
+msgid "Brazil"
+msgstr "البرازيل"
+
+#: wpnotif.php:1976
+msgid "British Indian Ocean Territory"
+msgstr "إقليم المحيط الهندي البريطاني"
+
+#: wpnotif.php:1977
+msgid "British Virgin Islands"
+msgstr "جزر فيرجن البريطانية"
+
+#: wpnotif.php:1978
+msgid "Brunei"
+msgstr "بروناي"
+
+#: wpnotif.php:1979
+msgid "Bulgaria"
+msgstr "بلغاريا"
+
+#: wpnotif.php:1980
+msgid "Burkina Faso"
+msgstr "بوركينا فاسو"
+
+#: wpnotif.php:1981
+msgid "Burundi"
+msgstr "بوروندي"
+
+#: wpnotif.php:1982
+msgid "Cambodia"
+msgstr "كمبوديا"
+
+#: wpnotif.php:1983
+msgid "Cameroon"
+msgstr "الكاميرون"
+
+#: wpnotif.php:1984
+msgid "Canada"
+msgstr "كندا"
+
+#: wpnotif.php:1985
+msgid "Cape Verde"
+msgstr "الرأس الأخضر"
+
+#: wpnotif.php:1986
+msgid "Cayman Islands"
+msgstr "جزر كايمان"
+
+#: wpnotif.php:1987
+msgid "Central African Republic"
+msgstr "جمهورية افريقيا الوسطى"
+
+#: wpnotif.php:1988
+msgid "Chad"
+msgstr "تشاد"
+
+#: wpnotif.php:1989
+msgid "Chile"
+msgstr "تشيلي"
+
+#: wpnotif.php:1990
+msgid "China"
+msgstr "الصين"
+
+#: wpnotif.php:1991
+msgid "Colombia"
+msgstr "كولومبيا"
+
+#: wpnotif.php:1992
+msgid "Comoros"
+msgstr "جزر القمر"
+
+#: wpnotif.php:1993
+msgid "Cook Islands"
+msgstr "جزر كوك"
+
+#: wpnotif.php:1994
+msgid "Costa Rica"
+msgstr "كوستا ريكا"
+
+#: wpnotif.php:1995
+msgid "Côte d'Ivoire"
+msgstr "كوت ديفوار"
+
+#: wpnotif.php:1996
+msgid "Croatia"
+msgstr "كرواتيا"
+
+#: wpnotif.php:1997
+msgid "Cuba"
+msgstr "كوبا"
+
+#: wpnotif.php:1998
+msgid "Curaçao"
+msgstr "كوراساو"
+
+#: wpnotif.php:1999
+msgid "Cyprus"
+msgstr "قبرص"
+
+#: wpnotif.php:2000
+msgid "Czech Republic"
+msgstr "جمهورية التشيك"
+
+#: wpnotif.php:2001
+msgid "Democratic Republic of the Congo"
+msgstr "جمهورية الكونغو الديموقراطية"
+
+#: wpnotif.php:2002
+msgid "Denmark"
+msgstr "الدنمارك"
+
+#: wpnotif.php:2003
+msgid "Djibouti"
+msgstr "جيبوتي"
+
+#: wpnotif.php:2004
+msgid "Dominica"
+msgstr "دومينيكا"
+
+#: wpnotif.php:2005
+msgid "Dominican Republic"
+msgstr "جمهورية الدومينيكان"
+
+#: wpnotif.php:2006
+msgid "Ecuador"
+msgstr "الإكوادور"
+
+#: wpnotif.php:2007
+msgid "Egypt"
+msgstr "مصر"
+
+#: wpnotif.php:2008
+msgid "El Salvador"
+msgstr "السلفادور"
+
+#: wpnotif.php:2009
+msgid "Equatorial Guinea"
+msgstr "غينيا الإستوائية"
+
+#: wpnotif.php:2010
+msgid "Eritrea"
+msgstr "إريتريا"
+
+#: wpnotif.php:2011
+msgid "Estonia"
+msgstr "استونيا"
+
+#: wpnotif.php:2012
+msgid "Ethiopia"
+msgstr "أثيوبيا"
+
+#: wpnotif.php:2013
+msgid "Falkland Islands"
+msgstr "جزر فوكلاند"
+
+#: wpnotif.php:2014
+msgid "Faroe Islands"
+msgstr "جزر فاروي"
+
+#: wpnotif.php:2015
+msgid "Federated States of Micronesia"
+msgstr "1- ولايات ميكرونيزيا الموحدة"
+
+#: wpnotif.php:2016
+msgid "Fiji"
+msgstr "فيجي"
+
+#: wpnotif.php:2017
+msgid "Finland"
+msgstr "فنلندا"
+
+#: wpnotif.php:2018
+msgid "France"
+msgstr "فرنسا"
+
+#: wpnotif.php:2019
+msgid "French Guiana"
+msgstr "غيانا الفرنسية"
+
+#: wpnotif.php:2020
+msgid "French Polynesia"
+msgstr "بولينزيا الفرنسية"
+
+#: wpnotif.php:2021
+msgid "Gabon"
+msgstr "الغابون"
+
+#: wpnotif.php:2022
+msgid "Georgia"
+msgstr "جورجيا"
+
+#: wpnotif.php:2023
+msgid "Germany"
+msgstr "ألمانيا"
+
+#: wpnotif.php:2024
+msgid "Ghana"
+msgstr "غانا"
+
+#: wpnotif.php:2025
+msgid "Gibraltar"
+msgstr "جبل طارق"
+
+#: wpnotif.php:2026
+msgid "Greece"
+msgstr "اليونان"
+
+#: wpnotif.php:2027
+msgid "Greenland"
+msgstr "جرينلاند"
+
+#: wpnotif.php:2028
+msgid "Grenada"
+msgstr "غرينادا"
+
+#: wpnotif.php:2029
+msgid "Guadeloupe"
+msgstr "جوادلوب"
+
+#: wpnotif.php:2030
+msgid "Guam"
+msgstr "غوام"
+
+#: wpnotif.php:2031
+msgid "Guatemala"
+msgstr "غواتيمالا"
+
+#: wpnotif.php:2032
+msgid "Guernsey"
+msgstr "غيرنسي"
+
+#: wpnotif.php:2033
+msgid "Guinea"
+msgstr "غينيا"
+
+#: wpnotif.php:2034
+msgid "Guinea-Bissau"
+msgstr "غينيا بيساو"
+
+#: wpnotif.php:2035
+msgid "Guyana"
+msgstr "غيانا"
+
+#: wpnotif.php:2036
+msgid "Haiti"
+msgstr "هايتي"
+
+#: wpnotif.php:2037
+msgid "Honduras"
+msgstr "هندوراس"
+
+#: wpnotif.php:2038
+msgid "Hong Kong"
+msgstr "هونغ كونغ"
+
+#: wpnotif.php:2039
+msgid "Hungary"
+msgstr "هنغاريا"
+
+#: wpnotif.php:2040
+msgid "Iceland"
+msgstr "أيسلندا"
+
+#: wpnotif.php:2041
+msgid "India"
+msgstr "الهند"
+
+#: wpnotif.php:2042
+msgid "Indonesia"
+msgstr "أندونيسيا"
+
+#: wpnotif.php:2043
+msgid "Iran"
+msgstr "إيران"
+
+#: wpnotif.php:2044
+msgid "Iraq"
+msgstr "العراق"
+
+#: wpnotif.php:2045
+msgid "Ireland"
+msgstr "أيرلندا"
+
+#: wpnotif.php:2046
+msgid "Isle Of Man"
+msgstr "جزيرة مان"
+
+#: wpnotif.php:2047
+msgid "Israel"
+msgstr "إسرائيل"
+
+#: wpnotif.php:2048
+msgid "Italy"
+msgstr "إيطاليا"
+
+#: wpnotif.php:2049
+msgid "Jamaica"
+msgstr "جامايكا"
+
+#: wpnotif.php:2050
+msgid "Japan"
+msgstr "اليابان"
+
+#: wpnotif.php:2051
+msgid "Jersey"
+msgstr "جيرسي"
+
+#: wpnotif.php:2052
+msgid "Jordan"
+msgstr "الأردن"
+
+#: wpnotif.php:2053
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+#: wpnotif.php:2054
+msgid "Kenya"
+msgstr "كينيا"
+
+#: wpnotif.php:2055
+msgid "Kiribati"
+msgstr "كيريباس"
+
+#: wpnotif.php:2056
+msgid "Kuwait"
+msgstr "الكويت"
+
+#: wpnotif.php:2057
+msgid "Kyrgyzstan"
+msgstr "قرغيزستان"
+
+#: wpnotif.php:2058
+msgid "Laos"
+msgstr "لاوس"
+
+#: wpnotif.php:2059
+msgid "Latvia"
+msgstr "لاتفيا"
+
+#: wpnotif.php:2060
+msgid "Lebanon"
+msgstr "لبنان"
+
+#: wpnotif.php:2061
+msgid "Lesotho"
+msgstr "ليسوتو"
+
+#: wpnotif.php:2062
+msgid "Liberia"
+msgstr "ليبيريا"
+
+#: wpnotif.php:2063
+msgid "Libya"
+msgstr "ليبيا"
+
+#: wpnotif.php:2064
+msgid "Liechtenstein"
+msgstr "ليختنشتاين"
+
+#: wpnotif.php:2065
+msgid "Lithuania"
+msgstr "ليتوانيا"
+
+#: wpnotif.php:2066
+msgid "Luxembourg"
+msgstr "لوكسمبورغ"
+
+#: wpnotif.php:2067
+msgid "Macau"
+msgstr "ماكاو"
+
+#: wpnotif.php:2068
+msgid "Macedonia"
+msgstr "مقدونيا"
+
+#: wpnotif.php:2069
+msgid "Madagascar"
+msgstr "مدغشقر"
+
+#: wpnotif.php:2070
+msgid "Malawi"
+msgstr "مالاوي"
+
+#: wpnotif.php:2071
+msgid "Malaysia"
+msgstr "ماليزيا"
+
+#: wpnotif.php:2072
+msgid "Maldives"
+msgstr "جزر المالديف"
+
+#: wpnotif.php:2073
+msgid "Mali"
+msgstr "مالي"
+
+#: wpnotif.php:2074
+msgid "Malta"
+msgstr "مالطا"
+
+#: wpnotif.php:2075
+msgid "Marshall Islands"
+msgstr "جزر مارشال"
+
+#: wpnotif.php:2076
+msgid "Martinique"
+msgstr "مارتينيك"
+
+#: wpnotif.php:2077
+msgid "Mauritania"
+msgstr "موريتانيا"
+
+#: wpnotif.php:2078
+msgid "Mauritius"
+msgstr "موريشيوس"
+
+#: wpnotif.php:2079
+msgid "Mayotte"
+msgstr "مايوت"
+
+#: wpnotif.php:2080
+msgid "Mexico"
+msgstr "المكسيك"
+
+#: wpnotif.php:2081
+msgid "Moldova"
+msgstr "مولدوفا"
+
+#: wpnotif.php:2082
+msgid "Monaco"
+msgstr "موناكو"
+
+#: wpnotif.php:2083
+msgid "Mongolia"
+msgstr "منغوليا"
+
+#: wpnotif.php:2084
+msgid "Montenegro"
+msgstr "الجبل الأسود"
+
+#: wpnotif.php:2085
+msgid "Montserrat"
+msgstr "مونتسيرات"
+
+#: wpnotif.php:2086
+msgid "Morocco"
+msgstr "المغرب"
+
+#: wpnotif.php:2087
+msgid "Mozambique"
+msgstr "موزمبيق"
+
+#: wpnotif.php:2088
+msgid "Myanmar"
+msgstr "ميانمار"
+
+#: wpnotif.php:2089
+msgid "Namibia"
+msgstr "ناميبيا"
+
+#: wpnotif.php:2090
+msgid "Nauru"
+msgstr "ناورو"
+
+#: wpnotif.php:2091
+msgid "Nepal"
+msgstr "نيبال"
+
+#: wpnotif.php:2092
+msgid "Netherlands"
+msgstr "هولندا"
+
+#: wpnotif.php:2093
+msgid "New Caledonia"
+msgstr "كاليدونيا الجديدة"
+
+#: wpnotif.php:2094
+msgid "New Zealand"
+msgstr "نيوزيلاندا"
+
+#: wpnotif.php:2095
+msgid "Nicaragua"
+msgstr "نيكاراغوا"
+
+#: wpnotif.php:2096
+msgid "Niger"
+msgstr "النيجر"
+
+#: wpnotif.php:2097
+msgid "Nigeria"
+msgstr "نيجيريا"
+
+#: wpnotif.php:2098
+msgid "Niue"
+msgstr "نيوي"
+
+#: wpnotif.php:2099
+msgid "Norfolk Island"
+msgstr "جزيرة نورفولك"
+
+#: wpnotif.php:2100
+msgid "North Korea"
+msgstr "كوريا الشمالية"
+
+#: wpnotif.php:2101
+msgid "Northern Mariana Islands"
+msgstr "جزر مريانا الشمالية"
+
+#: wpnotif.php:2102
+msgid "Norway"
+msgstr "النرويج"
+
+#: wpnotif.php:2103
+msgid "Oman"
+msgstr "عمان"
+
+#: wpnotif.php:2104
+msgid "Pakistan"
+msgstr "باكستان"
+
+#: wpnotif.php:2105
+msgid "Palau"
+msgstr "بالاو"
+
+#: wpnotif.php:2106
+msgid "Palestine"
+msgstr "فلسطين"
+
+#: wpnotif.php:2107
+msgid "Panama"
+msgstr "بنما"
+
+#: wpnotif.php:2108
+msgid "Papua New Guinea"
+msgstr "بابوا غينيا الجديدة"
+
+#: wpnotif.php:2109
+msgid "Paraguay"
+msgstr "باراغواي"
+
+#: wpnotif.php:2110
+msgid "Peru"
+msgstr "بيرو"
+
+#: wpnotif.php:2111
+msgid "Philippines"
+msgstr "الفليبين"
+
+#: wpnotif.php:2112
+msgid "Poland"
+msgstr "بولندا"
+
+#: wpnotif.php:2113
+msgid "Portugal"
+msgstr "البرتغال"
+
+#: wpnotif.php:2114
+msgid "Puerto Rico"
+msgstr "بورتوريكو"
+
+#: wpnotif.php:2115
+msgid "Qatar"
+msgstr "قطر"
+
+#: wpnotif.php:2116
+msgid "Republic of the Congo"
+msgstr "بشأن جمهورية الكونغو الديمقراطية"
+
+#: wpnotif.php:2117
+msgid "Romania"
+msgstr "رومانيا"
+
+#: wpnotif.php:2118
+msgid "Runion"
+msgstr ""
+
+#: wpnotif.php:2119
+msgid "Russia"
+msgstr "روسيا"
+
+#: wpnotif.php:2120
+msgid "Rwanda"
+msgstr "رواندا"
+
+#: wpnotif.php:2121
+msgid "Saint Helena"
+msgstr "سانت هيلانا"
+
+#: wpnotif.php:2122
+msgid "Saint Kitts and Nevis"
+msgstr "سانت كيتس ونيفيس"
+
+#: wpnotif.php:2123
+msgid "Saint Pierre and Miquelon"
+msgstr "سان بيير وميكلون"
+
+#: wpnotif.php:2124
+msgid "Saint Vincent and the Grenadines"
+msgstr "سانت فنسنت وجزر غرينادين"
+
+#: wpnotif.php:2125
+msgid "Samoa"
+msgstr "ساموا"
+
+#: wpnotif.php:2126
+msgid "San Marino"
+msgstr "سان مارينو"
+
+#: wpnotif.php:2127
+msgid "Sao Tome and Principe"
+msgstr "ساو تومي وبرينسيبي"
+
+#: wpnotif.php:2128
+msgid "Saudi Arabia"
+msgstr "المملكة العربية السعودية"
+
+#: wpnotif.php:2129
+msgid "Senegal"
+msgstr "السنغال"
+
+#: wpnotif.php:2130
+msgid "Serbia"
+msgstr "صربيا"
+
+#: wpnotif.php:2131
+msgid "Seychelles"
+msgstr "سيشيل"
+
+#: wpnotif.php:2132
+msgid "Sierra Leone"
+msgstr "سيراليون"
+
+#: wpnotif.php:2133
+msgid "Singapore"
+msgstr "سنغافورة"
+
+#: wpnotif.php:2134
+msgid "Sint Maarten"
+msgstr "سانت مارتن"
+
+#: wpnotif.php:2135
+msgid "Slovakia"
+msgstr "سولفكيا"
+
+#: wpnotif.php:2136
+msgid "Slovenia"
+msgstr "سلوفينيا"
+
+#: wpnotif.php:2137
+msgid "Solomon Islands"
+msgstr "جزر سليمان"
+
+#: wpnotif.php:2138
+msgid "Somalia"
+msgstr "الصومال"
+
+#: wpnotif.php:2139
+msgid "South Africa"
+msgstr "جنوب أفريقيا"
+
+#: wpnotif.php:2140
+msgid "South Korea"
+msgstr "كوريا الجنوبية"
+
+#: wpnotif.php:2141
+msgid "South Sudan"
+msgstr "جنوب السودان"
+
+#: wpnotif.php:2142
+msgid "Spain"
+msgstr "اسبانيا"
+
+#: wpnotif.php:2143
+msgid "Sri Lanka"
+msgstr "سيريلانكا"
+
+#: wpnotif.php:2144
+msgid "St. Lucia"
+msgstr "سانت لوسيا"
+
+#: wpnotif.php:2145
+msgid "Sudan"
+msgstr "السودان"
+
+#: wpnotif.php:2146
+msgid "Suriname"
+msgstr "سورينام"
+
+#: wpnotif.php:2147
+msgid "Swaziland"
+msgstr "سوازيلاند"
+
+#: wpnotif.php:2148
+msgid "Sweden"
+msgstr "السويد"
+
+#: wpnotif.php:2149
+msgid "Switzerland"
+msgstr "سويسرا"
+
+#: wpnotif.php:2150
+msgid "Syria"
+msgstr "سورية"
+
+#: wpnotif.php:2151
+msgid "Taiwan"
+msgstr "تايوان"
+
+#: wpnotif.php:2152
+msgid "Tajikistan"
+msgstr "طاجيكستان"
+
+#: wpnotif.php:2153
+msgid "Tanzania"
+msgstr "تنزانيا"
+
+#: wpnotif.php:2154
+msgid "Thailand"
+msgstr "تايلاند"
+
+#: wpnotif.php:2155
+msgid "The Bahamas"
+msgstr "الباهاماس"
+
+#: wpnotif.php:2156
+msgid "The Gambia"
+msgstr "The Gambia"
+
+#: wpnotif.php:2157
+msgid "Timor-Leste"
+msgstr "تيمور الشرقية"
+
+#: wpnotif.php:2158
+msgid "Togo"
+msgstr "توجو"
+
+#: wpnotif.php:2159
+msgid "Tokelau"
+msgstr "توكيلاو"
+
+#: wpnotif.php:2160
+msgid "Tonga"
+msgstr "تونغا"
+
+#: wpnotif.php:2161
+msgid "Trinidad and Tobago"
+msgstr "ترينداد وتوباغو"
+
+#: wpnotif.php:2162
+msgid "Tunisia"
+msgstr "تونس"
+
+#: wpnotif.php:2163
+msgid "Turkey"
+msgstr "تركيا"
+
+#: wpnotif.php:2164
+msgid "Turkmenistan"
+msgstr "تركمانستان"
+
+#: wpnotif.php:2165
+msgid "Turks and Caicos Islands"
+msgstr "جزر تركس وكايكوس"
+
+#: wpnotif.php:2166
+msgid "Tuvalu"
+msgstr "توفالو"
+
+#: wpnotif.php:2167
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+#: wpnotif.php:2168
+msgid "Uganda"
+msgstr "أوغندا"
+
+#: wpnotif.php:2169
+msgid "Ukraine"
+msgstr "أوكرانيا"
+
+#: wpnotif.php:2170
+msgid "United Arab Emirates"
+msgstr "الإمارات العربية المتحدة"
+
+#: wpnotif.php:2171
+msgid "United Kingdom"
+msgstr "المملكة المتحدة"
+
+#: wpnotif.php:2172
+msgid "United States"
+msgstr "الولايات المتحدة"
+
+#: wpnotif.php:2173
+msgid "Uruguay"
+msgstr "اورجواي"
+
+#: wpnotif.php:2174
+msgid "Uzbekistan"
+msgstr "أوزبكستان"
+
+#: wpnotif.php:2175
+msgid "Vanuatu"
+msgstr "فانواتو"
+
+#: wpnotif.php:2176
+msgid "Venezuela"
+msgstr "فنزويلا"
+
+#: wpnotif.php:2177
+msgid "Vietnam"
+msgstr "فيتنام"
+
+#: wpnotif.php:2178
+msgid "Wallis and Futuna"
+msgstr "واليس وفوتونا"
+
+#: wpnotif.php:2179
+msgid "Western Sahara"
+msgstr "الصحراء الغربية"
+
+#: wpnotif.php:2180
+msgid "Yemen"
+msgstr "اليمن"
+
+#: wpnotif.php:2181
+msgid "Zambia"
+msgstr "زامبيا"
+
+#: wpnotif.php:2182
+msgid "Zimbabwe"
+msgstr "زيمبابوي"
+
+#: wpnotif.php:2231
+msgid "Default Country Code"
+msgstr ""
+
+#: wpnotif.php:2244
+msgid "Phone verification in subscription form"
+msgstr ""
+
+#: wpnotif.php:2255
+#, php-format
+msgid ""
+"This feature works better with %sDigits%s. It even comes with free SMS for "
+"verification."
+msgstr ""
+
+#: wpnotif.php:2289
+msgid "Admin Notifications"
+msgstr "إشعارات المسؤول"
+
+#: wpnotif.php:2292
+msgid "User / User Role"
+msgstr ""
+
+#: wpnotif.php:2329
+msgid "Customer Notifications"
+msgstr ""
+
+#: wpnotif.php:2334
+msgid "Enable gateway based different content"
+msgstr ""
+
+#: wpnotif.php:2368
+msgid "Vendor Notifications (for marketplace)"
+msgstr ""
+
+#: wpnotif.php:2380
+msgid "You've received a new order for amount {{wc-order-amount}}"
+msgstr ""
+
+#: wpnotif.php:2393
+msgid "I would like to receive order updates on SMS"
+msgstr ""
+
+#: wpnotif.php:2397
+msgid "I would like to receive order updates on WhatsApp"
+msgstr ""
+
+#: wpnotif.php:2401
+msgid "I would like to receive order updates on SMS and WhatsApp"
+msgstr ""
+
+#: wpnotif.php:2500 wpnotif.php:2512
+msgid "Hey! Your order #{{wc-order}} has been received by {{sitename}}. :)"
+msgstr ""
+
+#: wpnotif.php:2562
+msgid "Is this domain your"
+msgstr ""
+
+#: wpnotif.php:2566
+msgid "Live Server"
+msgstr ""
+
+#: wpnotif.php:2568
+msgid "Testing Server"
+msgstr ""
+
+#: wpnotif.php:2574
+msgid "Purchase code"
+msgstr "رمز الشراء"
+
+#: wpnotif.php:2580
+msgid "Purchase Code"
+msgstr "كود الشراء"
+
+#: wpnotif.php:2583
+msgid "DEREGISTER"
+msgstr ""
+
+#: wpnotif.php:2603
+msgid "Please activate your plugin to receive updates"
+msgstr ""
+
+#: wpnotif.php:2615
+msgid ""
+"If you want to use same purchase code on your live server then please click "
+"the below button to request for it. Our team will take less than 12 hours to "
+"respond to your request, and will notify via email."
+msgstr ""
+
+#: wpnotif.php:2620
+msgid ""
+"If you want to use same purchase code on your testing server then please "
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
+msgstr ""
+
+#: wpnotif.php:2626
+msgid "Request Live Server Addition"
+msgstr ""
+
+#: wpnotif.php:2631
+msgid "Request Testing Server Addition"
+msgstr ""
+
+#: wpnotif.php:2690
+msgid "(Update Available)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPNotif: WordPress SMS & WhatsApp Notifications"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpnotif.unitedover.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Send SMS or WhatsApp message to your customers or inform them about their "
+"WooCommerce order updates."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr "UnitedOver"
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr "https://www.unitedover.com/"
+
+#, fuzzy
+#~| msgid "Notifications"
+#~ msgid "Whatsapp Notifications"
+#~ msgstr "الإشعارات"
+
+#~ msgid "On"
+#~ msgstr "تشغيل"
+
+#~ msgid "Off"
+#~ msgstr "إيقاف"
+
+#, fuzzy
+#~| msgid "Register"
+#~ msgid "Unregister"
+#~ msgstr "التسجيل"
+
+#~ msgid "Clockwork SMS"
+#~ msgstr "ارسال رسائل للهاتف"
+
+#~ msgid "Clockwork Options"
+#~ msgstr "اعدادات الارسال"
+
+#~ msgid "API Error"
+#~ msgstr "API Error"
+
+#~ msgid "App ID"
+#~ msgstr "معرف المصادقة"
+
+#~ msgid "Modal"
+#~ msgstr "نموذج"
+
+#~ msgid "Popup"
+#~ msgstr "يظهر فجأة"
